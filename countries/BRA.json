@@ -1,4 +1,10 @@
 {
+  "country": {
+    "name": "Brazil",
+    "officialName": "Federative Republic of Brazil",
+    "languages": ["pt", "en"],
+    "wikipediaLanguages": ["pt", "en"],
+  },
   "periods": [
     {
       "name": "Colonial Brazil",
