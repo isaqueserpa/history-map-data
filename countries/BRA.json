@@ -1,9 +1,4 @@
 {
-  "country": {
-    "name": "Brazil",
-    "officialName": "Federative Republic of Brazil",
-    "languages": ["pt"]
-  },
   "periods": [
     {
       "name": "Colonial Brazil",
