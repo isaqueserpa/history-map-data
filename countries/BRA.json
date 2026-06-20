@@ -1,0 +1,443 @@
+{
+  "periods": [
+    {
+      "name": "Colonial Brazil",
+      "system": "Colonial Monarchy",
+      "start": 1500,
+      "end": 1822,
+      "summary": "The history of Brazil begins as a vast Portuguese maritime enterprise, establishing a territory structured around the plantation system and enslaved labor. Over more than three centuries, its geographic and economic core shifted from the northeastern sugar mills to the gold mines of the interior, creating a complex society that gradually outgrew its colonial constraints until the French invasions of Europe forced the Portuguese Crown itself to relocate to Rio de Janeiro, setting the stage for irreversible sovereignty.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Early Colonial Brazil",
+          "system": "Colonial Monarchy",
+          "start": 1500,
+          "end": 1580,
+          "summary": "This initial phase opens with the extractive exploitation of brazilwood and the experimental implementation of the Hereditary Captaincies. However, the widespread failure of these decentralized private administrative units soon forced the Portuguese Crown to establish a centralized Government-General in Salvador to secure territorial defense—a structure that worked until a European dynastic crisis suddenly compromised Portugal's independence.",
+          "leaders": []
+        },
+        {
+          "name": "Iberian Union",
+          "system": "Colonial Monarchy",
+          "start": 1580,
+          "end": 1640,
+          "summary": "With Portugal falling under the Spanish Habsburg Crown, the old Treaty of Tordesillas boundaries dissolved, allowing colonists to push deep into the hinterland. Yet, this union also dragged Brazil into Spain's global conflicts, provoking major Dutch invasions in the sugar-rich Northeast—a turbulent occupation that, once expelled, left a colonial economy in crisis, later relieved by gold discoveries and eventual geopolitical upheavals in Europe.",
+          "leaders": []
+        },
+        {
+          "name": "Joanina Period",
+          "system": "Colonial Monarchy",
+          "start": 1808,
+          "end": 1815,
+          "summary": "That European turmoil culminated in 1808, when the Portuguese royal family fled Napoleonic forces and landed in Brazil, instantly transforming the colony into the nerve center of the Empire. By opening the ports to friendly nations and building the kingdom's first financial and cultural institutions, the Crown effectively shattered the old colonial pact, creating a structural reality that could no longer be contained within an inferior political status.",
+          "leaders": []
+        },
+        {
+          "name": "United Kingdom of Portugal, Brazil and the Algarves",
+          "system": "Constitutional Monarchy",
+          "start": 1815,
+          "end": 1822,
+          "summary": "To formalize this new reality, Brazil was elevated to the status of a United Kingdom, legally ending its role as a mere colony. This institutional promotion, however, triggered intense backlash from Portuguese constitutionalists in Lisbon who demanded a return to the old colonial hierarchy—a regional friction that sparked local revolts and forced Prince Pedro to choose between submission or leading a new independent nation.",
+          "leaders": []
+        }
+      ]
+    },
+    {
+      "name": "Empire of Brazil",
+      "system": "Constitutional Monarchy",
+      "start": 1822,
+      "end": 1889,
+      "summary": "Emerging from the fracture with Portugal, the new Empire dedicated its first decades to consolidating a highly centralized state capable of preserving its massive territorial integrity against constant internal rebellions. Powered economically by the booming coffee export sector and structurally dependent on enslaved labor, the nation projected its power externally through major geopolitical conflicts in the Platine region, only to see its monarchical foundations gradually erode under the weight of abolition, military discontent, and Republican ideals.",
+      "leaders": [
+        {
+          "name": "Dom Pedro I",
+          "title": "Emperor",
+          "start": 1822,
+          "end": 1831
+        },
+        {
+          "name": "Dom Pedro II",
+          "title": "Emperor",
+          "start": 1840,
+          "end": 1889
+        }
+      ],
+      "subperiods": [
+        {
+          "name": "First Reign",
+          "system": "Constitutional Monarchy",
+          "start": 1822,
+          "end": 1831,
+          "summary": "The newly independent state immediately faced severe growing pains as Dom Pedro I dissolved the initial Constituent Assembly to impose the centralist 1824 Constitution and its controversial Moderating Power. This authoritarian drift, combined with economic strain and territorial loss in the south, triggered intense political hostility that ultimately forced the Emperor to abdicate, leaving behind an underage heir and a fragile nation.",
+          "leaders": [
+            {
+              "name": "Dom Pedro I",
+              "title": "Emperor",
+              "start": 1822,
+              "end": 1831
+            }
+          ]
+        },
+        {
+          "name": "Regency Period",
+          "system": "Regency",
+          "start": 1831,
+          "end": 1840,
+          "summary": "With the Emperor gone, this decentralized interregnum plunged the country into its most volatile decade, as competing factions fought for local autonomy. Explosive separatist civil wars like the Farroupilha and Cabanagem threatened to tear the map apart, convincing the ruling elites that only the early coronation of the young prince could restore national unity and political stability.",
+          "leaders": []
+        },
+        {
+          "name": "Second Reign",
+          "system": "Constitutional Monarchy",
+          "start": 1840,
+          "end": 1889,
+          "summary": "The coronation of Dom Pedro II successfully ushered in decades of internal peace, managed by a sophisticated political balancing act and funded by a prosperous coffee economy. This stability allowed the Empire to wage the protracted Paraguayan War, but the conflict empowered a new political actor—the military—which joined forces with an ascendant Republican movement after the final abolition of slavery in 1888 permanently alienated the landowning oligarchies from the Crown.",
+          "leaders": [
+            {
+              "name": "Dom Pedro II",
+              "title": "Emperor",
+              "start": 1840,
+              "end": 1889
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "First Republic",
+      "system": "Presidential Republic",
+      "start": 1889,
+      "end": 1930,
+      "summary": "The fall of the monarchy gave birth to a federalist republic initially shaped by military rulers but quickly dominated by powerful regional agrarian oligarchies. This long era operated under a rigid political pact that rotated power between coffee and dairy elites, maintaining a fragile equilibrium that was continuously challenged by violent rural messianic movements, urban revolts, and an idealistic generation of young military officers demanding sweeping institutional reforms.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Republic of the Sword",
+          "system": "Presidential Republic",
+          "start": 1889,
+          "end": 1894,
+          "summary": "This republican dawn began under the direct control of army generals who aggressively dismantled imperial structures and drafted the federalist 1891 Constitution. However, their rule was immediately rocked by a catastrophic financial crisis born of economic speculation, triggering armed naval revolts and civil war that forced the military to hand executive power over to civilian oligarchies.",
+          "leaders": [
+            {
+              "name": "Deodoro da Fonseca",
+              "title": "President",
+              "start": 1889,
+              "end": 1891
+            },
+            {
+              "name": "Floriano Peixoto",
+              "title": "President",
+              "start": 1891,
+              "end": 1894
+            }
+          ]
+        },
+        {
+          "name": "Oligarchic Republic",
+          "system": "Presidential Republic",
+          "start": 1894,
+          "end": 1930,
+          "summary": "With civilians in power, the 'Politics of the Governors' arrangement effectively institutionalized oligarchic control, using state machinery to artificially guarantee coffee wealth while suppressing electoral dissent. This elite consensus held firm until the 1929 global economic crash ruined the coffee market, fracturing the regional alliances and opening the door for an armed revolutionary coalition to seize the state.",
+          "leaders": [
+            {
+              "name": "Prudente de Morais",
+              "title": "President",
+              "start": 1894,
+              "end": 1898
+            },
+            {
+              "name": "Campos Sales",
+              "title": "President",
+              "start": 1898,
+              "end": 1902
+            },
+            {
+              "name": "Rodrigues Alves",
+              "title": "President",
+              "start": 1902,
+              "end": 1906
+            },
+            {
+              "name": "Afonso Pena",
+              "title": "President",
+              "start": 1906,
+              "end": 1909
+            },
+            {
+              "name": "Nilo Peçanha",
+              "title": "President",
+              "start": 1909,
+              "end": 1910
+            },
+            {
+              "name": "Hermes da Fonseca",
+              "title": "President",
+              "start": 1910,
+              "end": 1914
+            },
+            {
+              "name": "Venceslau Brás",
+              "title": "President",
+              "start": 1914,
+              "end": 1918
+            },
+            {
+              "name": "Delfim Moreira",
+              "title": "President",
+              "start": 1918,
+              "end": 1919
+            },
+            {
+              "name": "Epitácio Pessoa",
+              "title": "President",
+              "start": 1919,
+              "end": 1922
+            },
+            {
+              "name": "Artur Bernardes",
+              "title": "President",
+              "start": 1922,
+              "end": 1926
+            },
+            {
+              "name": "Washington Luís",
+              "title": "President",
+              "start": 1926,
+              "end": 1930
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vargas Era",
+      "system": "Presidential Republic",
+      "start": 1930,
+      "end": 1945,
+      "summary": "The 1930 Revolution brought Getúlio Vargas to power, fundamentally transforming the Brazilian state through intense centralization and a aggressive push toward industrialization. Over fifteen years, his regime dismantled the old agrarian political monopolies, introduced the country's first systematic labor laws, and carefully maneuvered through extreme ideological polarization, shifting between provisional decrees, brief constitutional experiments, and outright dictatorship before collapsing under the weight of its own internal contradictions at the end of World War II.",
+      "leaders": [
+        {
+          "name": "Getúlio Vargas",
+          "title": "President",
+          "start": 1930,
+          "end": 1945
+        }
+      ],
+      "subperiods": [
+        {
+          "name": "Provisional Government",
+          "system": "Provisional Government",
+          "start": 1930,
+          "end": 1934,
+          "summary": "Stepping into the ruins of the old republic, Vargas suspended the constitution and began ruling by direct decree to reshape the state apparatus. This rapid concentration of power provoked an armed constitutionalist uprising in São Paulo in 1932, a conflict that, despite being militarily crushed, forced the regime to legitimize its rule by organizing a new constituent assembly.",
+          "leaders": [
+            {
+              "name": "Getúlio Vargas",
+              "title": "Head of the Provisional Government",
+              "start": 1930,
+              "end": 1934
+            }
+          ]
+        },
+        {
+          "name": "Constitutional Government",
+          "system": "Presidential Republic",
+          "start": 1934,
+          "end": 1937,
+          "summary": "Operating under a progressive new constitution that expanded voting rights, this brief democratic experiment was quickly consumed by global ideological battles playing out locally between fascists and leftists. A failed communist uprising in 1935 provided the perfect pretext for Vargas to declare a permanent state of siege, systematically preparing the ground for a self-inflicted coup.",
+          "leaders": [
+            {
+              "name": "Getúlio Vargas",
+              "title": "President",
+              "start": 1934,
+              "end": 1937
+            }
+          ]
+        },
+        {
+          "name": "Estado Novo",
+          "system": "Presidential Republic",
+          "start": 1937,
+          "end": 1945,
+          "summary": "Using a fabricated communist plot as justification, Vargas instituted a full authoritarian dictatorship marked by strict media censorship and massive state-guided heavy industrialization. Paradoxically, the regime joined the global fight against fascism by sending troops to Europe in World War II—a geopolitical choice that made maintaining a dictatorship at home politically unsustainable, leading to his removal by the military.",
+          "leaders": [
+            {
+              "name": "Getúlio Vargas",
+              "title": "President",
+              "start": 1937,
+              "end": 1945
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Republic of 1946",
+      "system": "Presidential Republic",
+      "start": 1946,
+      "end": 1964,
+      "summary": "Born from the ashes of the Vargas dictatorship, this new democratic era was framed by a highly liberal constitution and defined by mass multi-party politics and rapid, enthusiastic urbanization. Governments pursued ambitious developmentalist projects—most notably the building of Brasília—but this rapid economic growth fueled intense macroeconomic instability, soaring inflation, and deep social polarization that, under the cold shadow of the Cold War, triggered a military-civilian coup supported diplomatically and logistically by the United States.",
+      "leaders": [
+        {
+          "name": "Eurico Gaspar Dutra",
+          "title": "President",
+          "start": 1946,
+          "end": 1951
+        },
+        {
+          "name": "Getúlio Vargas",
+          "title": "President",
+          "start": 1951,
+          "end": 1954
+        },
+        {
+          "name": "Café Filho",
+          "title": "President",
+          "start": 1954,
+          "end": 1955
+        },
+        {
+          "name": "Carlos Luz",
+          "title": "President",
+          "start": 1955,
+          "end": 1955
+        },
+        {
+          "name": "Nereu Ramos",
+          "title": "President",
+          "start": 1955,
+          "end": 1956
+        },
+        {
+          "name": "Juscelino Kubitschek",
+          "title": "President",
+          "start": 1956,
+          "end": 1961
+        },
+        {
+          "name": "Jânio Quadros",
+          "title": "President",
+          "start": 1961,
+          "end": 1961
+        },
+        {
+          "name": "Ranieri Mazzilli",
+          "title": "President",
+          "start": 1961,
+          "end": 1961
+        },
+        {
+          "name": "João Goulart",
+          "title": "President",
+          "start": 1961,
+          "end": 1964
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Military Regime",
+      "system": "Presidential Republic",
+      "start": 1964,
+      "end": 1985,
+      "summary": "The 1964 coup ushered in a dark two-decade military dictatorship that systematically dismantled democratic institutions, silenced the free press, and heavily repressed political dissidents through authoritarian decrees. While the regime temporarily generated high GDP growth and monumental infrastructure projects via massive foreign debt, this economic 'miracle' eventually collapsed into hyperinflation and a severe debt crisis, fueling a powerful, unified civil society movement that forced a slow, controlled transition back to civilian rule.",
+      "leaders": [
+        {
+          "name": "Humberto Castelo Branco",
+          "title": "President",
+          "start": 1964,
+          "end": 1967
+        },
+        {
+          "name": "Artur da Costa e Silva",
+          "title": "President",
+          "start": 1967,
+          "end": 1969
+        },
+        {
+          "name": "Emílio Garrastazu Médici",
+          "title": "President",
+          "start": 1969,
+          "end": 1974
+        },
+        {
+          "name": "Ernesto Geisel",
+          "title": "President",
+          "start": 1974,
+          "end": 1979
+        },
+        {
+          "name": "João Figueiredo",
+          "title": "President",
+          "start": 1979,
+          "end": 1985
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "New Republic",
+      "system": "Presidential Republic",
+      "start": 1985,
+      "end": null,
+      "summary": "This modern democratic dawn was formally consolidated by the 1988 'Citizen Constitution,' which restored full civil liberties to the nation. After successfully conquering chronic hyperinflation through the Real Plan in 1994, the Republic entered a mature phase marked by massive social inclusion programs and historic political alternation between opposing ideological blocks—a democratic structure that continues to navigate complex institutional crises, high-profile impeachments, and the persistent challenge of overcoming deep socio-economic inequality.",
+      "leaders": [
+        {
+          "name": "José Sarney",
+          "title": "President",
+          "start": 1985,
+          "end": 1990
+        },
+        {
+          "name": "Fernando Collor",
+          "title": "President",
+          "start": 1990,
+          "end": 1992
+        },
+        {
+          "name": "Itamar Franco",
+          "title": "President",
+          "start": 1992,
+          "end": 1995
+        },
+        {
+          "name": "Fernando Henrique Cardoso",
+          "title": "President",
+          "start": 1995,
+          "end": 2003
+        },
+        {
+          "name": "Luiz Inácio Lula da Silva",
+          "title": "President",
+          "start": 2003,
+          "end": 2011
+        },
+        {
+          "name": "Dilma Rousseff",
+          "title": "President",
+          "start": 2011,
+          "end": 2016
+        },
+        {
+          "name": "Michel Temer",
+          "title": "President",
+          "start": 2016,
+          "end": 2019
+        },
+        {
+          "name": "Jair Bolsonaro",
+          "title": "President",
+          "start": 2019,
+          "end": 2023
+        },
+        {
+          "name": "Luiz Inácio Lula da Silva",
+          "title": "President",
+          "start": 2023,
+          "end": "Present"
+        }
+      ],
+      "subperiods": []
+    }
+  ]
+}
