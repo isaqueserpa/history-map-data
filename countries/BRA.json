@@ -2,8 +2,7 @@
   "country": {
     "name": "Brazil",
     "officialName": "Federative Republic of Brazil",
-    "languages": ["pt"],
-    "wikipediaLanguages": ["pt", "en"]
+    "languages": ["pt"]
   },
   "periods": [
     {
