@@ -258,45 +258,45 @@
             }
           ]
         },
-       {
-  "name": "Regency Period",
-  "system": "Constitutional Monarchy",
-  "start": 1831,
-  "end": 1840,
-  "description": "A period of political instability and intense debate between liberals and conservatives, characterized by various regional revolts as the country adjusted to the absence of a monarch.",
-  "leaders": [
-    {
-      "name": "Diogo Antônio Feijó",
-      "wiki": "https://en.wikipedia.org/wiki/Diogo_Ant%C3%B4nio_Feij%C3%B3",
-      "title": "Regent",
-      "start": 1835,
-      "end": 1837,
-      "events": [
         {
-          "year": 1835,
-          "description": "The Ragamuffin War (Guerra dos Farrapos) broke out in the south, marking the longest regional revolt."
+          "name": "Regency Period",
+          "system": "Constitutional Monarchy",
+          "start": 1831,
+          "end": 1840,
+          "description": "A period of political instability and intense debate between liberals and conservatives, characterized by various regional revolts as the country adjusted to the absence of a monarch.",
+          "leaders": [
+            {
+              "name": "Diogo Antônio Feijó",
+              "wiki": "https://en.wikipedia.org/wiki/Diogo_Ant%C3%B4nio_Feij%C3%B3",
+              "title": "Regent",
+              "start": 1835,
+              "end": 1837,
+              "events": [
+                {
+                  "year": 1835,
+                  "description": "The Ragamuffin War (Guerra dos Farrapos) broke out in the south, marking the longest regional revolt."
+                },
+                {
+                  "year": 1835,
+                  "description": "The Cabanagem revolt began in the Grão-Pará province."
+                }
+              ]
+            },
+            {
+              "name": "Pedro de Araújo Lima",
+              "wiki": "https://en.wikipedia.org/wiki/Pedro_de_Araújo_Lima,_Marquis_of_Olinda",
+              "title": "Regent",
+              "start": 1837,
+              "end": 1840,
+              "events": [
+                {
+                  "year": 1840,
+                  "description": "The 'Majority Declaration' (Golpe da Maioridade) was enacted, prematurely declaring Pedro II of age to assume the throne."
+                }
+              ]
+            }
+          ]
         },
-        {
-          "year": 1835,
-          "description": "The Cabanagem revolt began in the Grão-Pará province."
-        }
-      ]
-    },
-    {
-      "name": "Pedro de Araújo Lima",
-      "wiki": "https://en.wikipedia.org/wiki/Pedro_de_Araújo_Lima,_Marquis_of_Olinda",
-      "title": "Regent",
-      "start": 1837,
-      "end": 1840,
-      "events": [
-        {
-          "year": 1840,
-          "description": "The 'Majority Declaration' (Golpe da Maioridade) was enacted, prematurely declaring Pedro II of age to assume the throne."
-        }
-      ]
-    }
-  ]
-},
         {
           "name": "Second Reign",
           "system": "Constitutional Monarchy",
@@ -337,7 +337,7 @@
         }
       ]
     },
-{
+    {
       "name": "First Brazilian Republic",
       "system": "Constitutional Republic (Oligarchic)",
       "start": 1889,
@@ -544,7 +544,7 @@
           "events": [
             {
               "year": 1932,
-              "description": "Constitutionalist Revolution in São Paulo against Vargas."
+              "description": "Constitutionalist Revolution in São Paulo."
             },
             {
               "year": 1937,
@@ -552,16 +552,515 @@
             },
             {
               "year": 1943,
-              "description": "Creation of the CLT (Consolidação das Leis do Trabalho), the decree which governs labor relations in Brazil."
+              "description": "Creation of the CLT (Consolidação das Leis do Trabalho)."
             },
             {
               "year": 1945,
-              "description": "End of the Vargas dictatorship through a military coup and return to democracy."
+              "description": "End of the Vargas dictatorship and return to democracy."
             }
           ]
         }
       ],
       "subperiods": []
+    },
+    {
+      "name": "Second Brazilian Republic",
+      "system": "Presidential Democracy",
+      "start": 1945,
+      "end": 1964,
+      "description": "A period of democratic consolidation and rapid industrialization, marked by political polarization between nationalist and liberal forces.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Democratic Transition",
+          "system": "Presidential Democracy",
+          "start": 1945,
+          "end": 1950,
+          "description": "After the fall of the Estado Novo, Brazil held free elections and drafted a new democratic constitution, entering a period of competitive multiparty politics.",
+          "leaders": [
+            {
+              "name": "Eurico Gaspar Dutra",
+              "wiki": "https://en.wikipedia.org/wiki/Eurico_Gaspar_Dutra",
+              "title": "President",
+              "start": 1946,
+              "end": 1951,
+              "events": [
+                {
+                  "year": 1946,
+                  "description": "A new democratic constitution was promulgated, establishing direct elections and civil liberties."
+                },
+                {
+                  "year": 1947,
+                  "description": "The Brazilian Communist Party was banned amid Cold War pressures."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Populist Democracy",
+          "system": "Presidential Democracy",
+          "start": 1950,
+          "end": 1964,
+          "description": "A turbulent period defined by nationalism, developmentalism, and growing social tensions.",
+          "leaders": [
+            {
+              "name": "Getúlio Vargas",
+              "wiki": "https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas",
+              "title": "President",
+              "start": 1951,
+              "end": 1954,
+              "events": [
+                {
+                  "year": 1953,
+                  "description": "Creation of Petrobras, the state oil company."
+                },
+                {
+                  "year": 1954,
+                  "description": "Vargas took his own life amid a severe political crisis and military pressure for his resignation."
+                }
+              ]
+            },
+            {
+              "name": "Café Filho",
+              "wiki": "https://en.wikipedia.org/wiki/Caf%C3%A9_Filho",
+              "title": "President",
+              "start": 1954,
+              "end": 1955,
+              "events": []
+            },
+            {
+              "name": "Juscelino Kubitschek",
+              "wiki": "https://en.wikipedia.org/wiki/Juscelino_Kubitschek",
+              "title": "President",
+              "start": 1956,
+              "end": 1961,
+              "events": [
+                {
+                  "year": 1956,
+                  "description": "Launch of the 'Fifty Years in Five' development program, aiming to accelerate industrialization."
+                },
+                {
+                  "year": 1960,
+                  "description": "Inauguration of Brasília as the new federal capital."
+                }
+              ]
+            },
+            {
+              "name": "Jânio Quadros",
+              "wiki": "https://en.wikipedia.org/wiki/J%C3%A2nio_Quadros",
+              "title": "President",
+              "start": 1961,
+              "end": 1961,
+              "events": [
+                {
+                  "year": 1961,
+                  "description": "Quadros resigned after only seven months in office, triggering a constitutional crisis."
+                }
+              ]
+            },
+            {
+              "name": "João Goulart",
+              "wiki": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Goulart",
+              "title": "President",
+              "start": 1961,
+              "end": 1964,
+              "events": [
+                {
+                  "year": 1961,
+                  "description": "A parliamentary system was temporarily adopted as a compromise to allow Goulart to take office."
+                },
+                {
+                  "year": 1963,
+                  "description": "A referendum restored full presidential powers to Goulart."
+                },
+                {
+                  "year": 1964,
+                  "description": "A military coup ousted Goulart, ending the democratic republic and beginning two decades of military rule."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Military Dictatorship",
+      "system": "Military Authoritarian Rule",
+      "start": 1964,
+      "end": 1985,
+      "description": "The armed forces governed Brazil for over two decades, suppressing political opposition, censoring the press, and overseeing both an "economic miracle" and severe human rights violations.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Hard-line Military Rule",
+          "system": "Military Authoritarian Rule",
+          "start": 1964,
+          "end": 1974,
+          "description": "The most repressive phase of the dictatorship, particularly after 1968, when Institutional Act No. 5 suspended political rights, closed Congress, and gave the government sweeping powers to detain and prosecute opponents.",
+          "leaders": [
+            {
+              "name": "Humberto Castelo Branco",
+              "wiki": "https://en.wikipedia.org/wiki/Humberto_Castelo_Branco",
+              "title": "President",
+              "start": 1964,
+              "end": 1967,
+              "events": [
+                {
+                  "year": 1964,
+                  "description": "Institutional Act No. 1 stripped political rights from opponents and purged the civil service and military."
+                },
+                {
+                  "year": 1967,
+                  "description": "A new authoritarian constitution was enacted, concentrating power in the executive branch."
+                }
+              ]
+            },
+            {
+              "name": "Artur da Costa e Silva",
+              "wiki": "https://en.wikipedia.org/wiki/Artur_da_Costa_e_Silva",
+              "title": "President",
+              "start": 1967,
+              "end": 1969,
+              "events": [
+                {
+                  "year": 1968,
+                  "description": "Institutional Act No. 5 (AI-5) was issued, marking the beginning of the most brutal phase of repression."
+                },
+                {
+                  "year": 1968,
+                  "description": "Student protests and labor strikes were violently suppressed."
+                }
+              ]
+            },
+            {
+              "name": "Emílio Garrastazu Médici",
+              "wiki": "https://en.wikipedia.org/wiki/Em%C3%ADlio_Garrastazu_M%C3%A9dici",
+              "title": "President",
+              "start": 1969,
+              "end": 1974,
+              "events": [
+                {
+                  "year": 1970,
+                  "description": "Brazil won the FIFA World Cup in Mexico, which the regime used for nationalist propaganda."
+                },
+                {
+                  "year": 1970,
+                  "description": "The economic miracle peaked, with GDP growth exceeding 10% annually, though income inequality deepened."
+                },
+                {
+                  "year": 1972,
+                  "description": "Construction of the Transamazon Highway began as part of large-scale Amazon development projects."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gradual Opening (Abertura)",
+          "system": "Military Authoritarian Rule",
+          "start": 1974,
+          "end": 1985,
+          "description": "A controlled opening process initiated by the military itself, gradually restoring civil liberties, allowing opposition parties to organize, and paving the way for a civilian transition.",
+          "leaders": [
+            {
+              "name": "Ernesto Geisel",
+              "wiki": "https://en.wikipedia.org/wiki/Ernesto_Geisel",
+              "title": "President",
+              "start": 1974,
+              "end": 1979,
+              "events": [
+                {
+                  "year": 1974,
+                  "description": "Geisel announced a slow, gradual, and secure (lenta, gradual e segura) political opening."
+                },
+                {
+                  "year": 1977,
+                  "description": "The April Package imposed new political restrictions to offset opposition gains in congressional elections."
+                },
+                {
+                  "year": 1979,
+                  "description": "AI-5 was revoked and a political amnesty law was enacted for both military and opposers."
+                }
+              ]
+            },
+            {
+              "name": "João Figueiredo",
+              "wiki": "https://en.wikipedia.org/wiki/Jo%C3%A3o_Figueiredo",
+              "title": "President",
+              "start": 1979,
+              "end": 1985,
+              "events": [
+                {
+                  "year": 1979,
+                  "description": "A political party reform ended the two-party system and allowed the reorganization of civilian parties."
+                },
+                {
+                  "year": 1983,
+                  "description": "The Diretas Já movement mobilized millions of Brazilians demanding direct presidential elections."
+                },
+                {
+                  "year": 1984,
+                  "description": "The constitutional amendment for direct elections was defeated in Congress by a narrow margin."
+                },
+                {
+                  "year": 1985,
+                  "description": "Tancredo Neves was elected president by the Electoral College, marking the end of military rule, though he died before taking office."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Republic (Nova República)",
+      "system": "Presidential Democracy",
+      "start": 1985,
+      "end": null,
+      "description": "Brazil's ongoing democratic period, initiated after the end of military rule. The era was defined by the drafting of a new constitution, economic stabilization, institutional consolidation, and an expansion of social rights.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Democratic Transition and Constitutional Assembly",
+          "system": "Presidential Democracy",
+          "start": 1985,
+          "end": 1990,
+          "description": "The first years of civilian rule were marked by economic instability, high inflation, and the drafting of a new democratic constitution that sought to permanently dismantle the authoritarian legacy.",
+          "leaders": [
+            {
+              "name": "José Sarney",
+              "wiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Sarney",
+              "title": "President",
+              "start": 1985,
+              "end": 1990,
+              "events": [
+                {
+                  "year": 1985,
+                  "description": "Sarney assumed the presidency after the death of president-elect Tancredo Neves."
+                },
+                {
+                  "year": 1986,
+                  "description": "The Cruzado Plan attempted to control hyperinflation through a price freeze, but ultimately failed."
+                },
+                {
+                  "year": 1988,
+                  "description": "The Citizen Constitution was promulgated, enshrining broad social and political rights."
+                },
+                {
+                  "year": 1989,
+                  "description": "Brazil held its first direct presidential election in 29 years."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Economic Reform and Instability",
+          "system": "Presidential Democracy",
+          "start": 1990,
+          "end": 1995,
+          "description": "Brazil attempted economic liberalization and struggled with chronic inflation. The period was overshadowed by a major presidential corruption scandal that led to the first impeachment in the country's history.",
+          "leaders": [
+            {
+              "name": "Fernando Collor de Mello",
+              "wiki": "https://en.wikipedia.org/wiki/Fernando_Collor_de_Mello",
+              "title": "President",
+              "start": 1990,
+              "end": 1992,
+              "events": [
+                {
+                  "year": 1990,
+                  "description": "The Collor Plan froze private bank accounts in an attempt to curb hyperinflation."
+                },
+                {
+                  "year": 1992,
+                  "description": "Collor resigned amid a corruption scandal and was subsequently impeached by the Senate."
+                }
+              ]
+            },
+            {
+              "name": "Itamar Franco",
+              "wiki": "https://en.wikipedia.org/wiki/Itamar_Franco",
+              "title": "President",
+              "start": 1992,
+              "end": 1995,
+              "events": [
+                {
+                  "year": 1994,
+                  "description": "The Real Plan was launched, introducing the new currency and successfully taming hyperinflation."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stabilization and Reform",
+          "system": "Presidential Democracy",
+          "start": 1995,
+          "end": 2003,
+          "description": "A period of macroeconomic stabilization under the Real Plan, market-oriented reforms, and gradual social improvements, though structural inequality and unemployment remained persistent challenges.",
+          "leaders": [
+            {
+              "name": "Fernando Henrique Cardoso (FHC)",
+              "wiki": "https://en.wikipedia.org/wiki/Fernando_Henrique_Cardoso",
+              "title": "President",
+              "start": 1995,
+              "end": 2003,
+              "events": [
+                {
+                  "year": 1995,
+                  "description": "Privatization of state companies accelerated as part of a broader liberalization agenda."
+                },
+                {
+                  "year": 1998,
+                  "description": "FHC was re-elected under a constitutional amendment allowing presidential reelection."
+                },
+                {
+                  "year": 1999,
+                  "description": "A currency crisis forced Brazil to float the real and seek IMF assistance."
+                },
+                {
+                  "year": 2001,
+                  "description": "An energy rationing crisis caused by drought exposed structural vulnerabilities in the power sector."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Social Development and Commodity Boom",
+          "system": "Presidential Democracy",
+          "start": 2003,
+          "end": 2016,
+          "description": "An era of significant poverty reduction and social inclusion, driven by redistributive policies such as Bolsa Família and fueled by a global commodity boom.",
+          "leaders": [
+            {
+              "name": "Luiz Inácio Lula da Silva",
+              "wiki": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+              "title": "President",
+              "start": 2003,
+              "end": 2011,
+              "events": [
+                {
+                  "year": 2003,
+                  "description": "The Bolsa Família conditional cash transfer program was created, becoming one of the largest anti-poverty initiatives in the world."
+                },
+                {
+                  "year": 2006,
+                  "description": "Lula was reelected with a broad popular mandate."
+                },
+                {
+                  "year": 2007,
+                  "description": "Large pre-salt oil reserves were discovered off the coast, transforming Brazil's energy prospects."
+                },
+                {
+                  "year": 2010,
+                  "description": "Brazil achieved 7.5% GDP growth, one of its highest rates in decades."
+                }
+              ]
+            },
+            {
+              "name": "Dilma Rousseff",
+              "wiki": "https://en.wikipedia.org/wiki/Dilma_Rousseff",
+              "title": "President",
+              "start": 2011,
+              "end": 2016,
+              "events": [
+                {
+                  "year": 2013,
+                  "description": "Mass protests swept the country, beginning over bus fare increases but broadening into wider discontent with public services and corruption."
+                },
+                {
+                  "year": 2014,
+                  "description": "The Lava Jato (Car Wash) corruption investigation began, exposing a vast bribery scheme involving Petrobras and major contractors."
+                },
+                {
+                  "year": 2016,
+                  "description": "Rousseff was impeached and removed from office by the Senate on charges related to fiscal accounting practices."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Political and Institutional Crisis",
+          "system": "Presidential Democracy",
+          "start": 2016,
+          "end": 2023,
+          "description": "A period of deep political polarization, economic hardship, and institutional strain. The COVID-19 pandemic further destabilized the country, and the period ended with a transition back to the left after a closely contested and turbulent election.",
+          "leaders": [
+            {
+              "name": "Michel Temer",
+              "wiki": "https://en.wikipedia.org/wiki/Michel_Temer",
+              "title": "President",
+              "start": 2016,
+              "end": 2019,
+              "events": [
+                {
+                  "year": 2017,
+                  "description": "A labor reform and a pension reform proposal were passed, reducing workers' protections and raising the retirement age."
+                },
+                {
+                  "year": 2017,
+                  "description": "Temer himself was implicated in the Lava Jato investigation but was protected from prosecution by Congress."
+                }
+              ]
+            },
+            {
+              "name": "Jair Bolsonaro",
+              "wiki": "https://en.wikipedia.org/wiki/Jair_Bolsonaro",
+              "title": "President",
+              "start": 2019,
+              "end": 2023,
+              "events": [
+                {
+                  "year": 2019,
+                  "description": "Deforestation in the Amazon accelerated markedly amid the rollback of environmental protections."
+                },
+                {
+                  "year": 2020,
+                  "description": "Brazil became one of the countries hardest hit by the COVID-19 pandemic, recording over 700,000 deaths."
+                },
+                {
+                  "year": 2022,
+                  "description": "Bolsonaro lost the presidential election to Lula by a narrow margin in the second round."
+                },
+                {
+                  "year": 2023,
+                  "description": "Bolsonaro supporters stormed the Congress, Supreme Court, and Presidential Palace in an attempt to destabilize the incoming government."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Third Lula Government",
+          "system": "Presidential Democracy",
+          "start": 2023,
+          "end": null,
+          "description": "Lula returned to the presidency for an unprecedented third term",
+          "leaders": [
+            {
+              "name": "Luiz Inácio Lula da Silva",
+              "wiki": "https://en.wikipedia.org/wiki/Luiz_In%C3%A1cio_Lula_da_Silva",
+              "title": "President",
+              "start": 2023,
+              "end": null,
+              "events": [
+                {
+                  "year": 2023,
+                  "description": "Brazil rejoined international climate commitments and pledged to end illegal deforestation in the Amazon by 2030."
+                },
+                {
+                  "year": 2024,
+                  "description": "Brazil assumed the G20 presidency and hosted the summit, using it to promote a global minimum tax on billionaires and debt relief for developing countries."
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
-  ]}
-
+  ]
+}
