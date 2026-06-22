@@ -284,7 +284,7 @@
     },
     {
       "name": "Pedro de Araújo Lima",
-      "wiki": "https://en.wikipedia.org/wiki/Pedro_de_Ara%C3%BAjo_Lima,_Marquess_of_Olinda",
+      "wiki": "https://en.wikipedia.org/wiki/Pedro_de_Araújo_Lima,_Marquis_of_Olinda",
       "title": "Regent",
       "start": 1837,
       "end": 1840,
@@ -544,7 +544,7 @@
           "events": [
             {
               "year": 1932,
-              "description": "Constitutionalist Revolution in São Paulo."
+              "description": "Constitutionalist Revolution in São Paulo against Vargas."
             },
             {
               "year": 1937,
@@ -552,11 +552,11 @@
             },
             {
               "year": 1943,
-              "description": "Creation of the CLT (Consolidação das Leis do Trabalho)."
+              "description": "Creation of the CLT (Consolidação das Leis do Trabalho), the decree which governs labor relations in Brazil."
             },
             {
               "year": 1945,
-              "description": "End of the Vargas dictatorship and return to democracy."
+              "description": "End of the Vargas dictatorship through a military coup and return to democracy."
             }
           ]
         }
