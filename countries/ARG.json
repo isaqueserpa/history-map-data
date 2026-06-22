@@ -1,0 +1,958 @@
+{
+  "periods": [
+    {
+      "name": "Colonial Argentina",
+      "system": "Colonial Administration",
+      "start": 1516,
+      "end": 1776,
+      "description": "The territory that would become Argentina was claimed by Spain in the early sixteenth century. Settlement was slow and uneven: the interior, connected by trade routes to the silver mines of Peru, developed before the coastal Río de la Plata region. Indigenous resistance, geographic obstacles, and Spain's commercial restrictions shaped a colonial society that remained economically marginal within the Spanish empire for most of this period.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Early Exploration and Settlement",
+          "system": "Colonial Administration",
+          "start": 1516,
+          "end": 1580,
+          "description": "Spanish expeditions explored the Río de la Plata estuary and the interior, attempting to establish permanent settlements. Initial efforts at Buenos Aires were abandoned due to Indigenous hostility, while interior cities founded from Peru proved more viable.",
+          "leaders": [
+            {
+              "name": "Charles I",
+              "wiki": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
+              "title": "King of Spain",
+              "start": 1516,
+              "end": 1556,
+              "events": [
+                {
+                  "year": 1516,
+                  "description": "Juan Díaz de Solís sailed into the Río de la Plata estuary, becoming the first European to explore the region. He was killed by Indigenous Charrúa people shortly after landing, and the expedition returned to Spain without establishing a presence."
+                },
+                {
+                  "year": 1536,
+                  "description": "Pedro de Mendoza founded the first settlement of Buenos Aires on the southern bank of the Río de la Plata, but sustained attacks by the Querandí people and food shortages forced the surviving colonists to abandon it five years later and retreat upriver to Asunción."
+                }
+              ]
+            },
+            {
+              "name": "Philip II",
+              "wiki": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+              "title": "King of Spain",
+              "start": 1556,
+              "end": 1598,
+              "events": [
+                {
+                  "year": 1580,
+                  "description": "Juan de Garay permanently refounded Buenos Aires with settlers from Asunción, establishing the city that would eventually become the capital of the Río de la Plata region. This second founding succeeded largely because the settlers were experienced in the region and better provisioned."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Viceroyalty of Peru and Restricted Commerce",
+          "system": "Colonial Administration",
+          "start": 1580,
+          "end": 1776,
+          "description": "The Argentine territory fell under the Viceroyalty of Peru and was subject to strict trade regulations that required commerce to pass through Lima. Buenos Aires, though geographically better positioned for Atlantic trade, was legally marginalized, which encouraged widespread smuggling and economic resentment toward the colonial system.",
+          "leaders": [
+            {
+              "name": "Various Spanish Monarchs",
+              "wiki": "https://en.wikipedia.org/wiki/List_of_Spanish_monarchs",
+              "title": "King of Spain",
+              "start": 1580,
+              "end": 1776,
+              "events": [
+                {
+                  "year": 1680,
+                  "description": "Portugal founded Colônia do Sacramento directly across the Río de la Plata estuary from Buenos Aires, establishing a contested outpost that served as a conduit for smuggled goods and became a recurring point of military conflict between the two colonial powers."
+                },
+                {
+                  "year": 1767,
+                  "description": "The Jesuit order was expelled from all Spanish territories. In the northeastern region — the Misiones — this ended a network of highly organized Indigenous mission settlements that had provided a degree of protection and economic structure for Guaraní populations, who were subsequently exposed to enslavement and dispersal."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Viceroyalty of the Río de la Plata",
+      "system": "Colonial Administration",
+      "start": 1776,
+      "end": 1810,
+      "description": "Spain created a new viceroyalty centered on Buenos Aires to better defend and administer its southeastern American territories. The change elevated Buenos Aires economically and politically, but also concentrated grievances against imperial rule. British invasion attempts and the weakening of Spain under Napoleonic pressure accelerated local political consciousness.",
+      "leaders": [
+        {
+          "name": "Charles III",
+          "wiki": "https://en.wikipedia.org/wiki/Charles_III_of_Spain",
+          "title": "King of Spain",
+          "start": 1759,
+          "end": 1788,
+          "events": [
+            {
+              "year": 1776,
+              "description": "Spain created the Viceroyalty of the Río de la Plata, separating the region from the Viceroyalty of Peru and establishing Buenos Aires as the new capital. The change was intended to counter Portuguese and British expansion and to improve tax collection from the interior silver trade."
+            },
+            {
+              "year": 1778,
+              "description": "The Regulation of Free Trade opened Buenos Aires to direct commerce with Spain and other Spanish ports, ending the monopoly that had long channeled all trade through Lima and significantly increasing the port city's wealth and population."
+            }
+          ]
+        },
+        {
+          "name": "Charles IV",
+          "wiki": "https://en.wikipedia.org/wiki/Charles_IV_of_Spain",
+          "title": "King of Spain",
+          "start": 1788,
+          "end": 1808,
+          "events": [
+            {
+              "year": 1806,
+              "description": "A British naval force seized Buenos Aires without significant Spanish resistance, but local militia and reinforcements from other parts of the viceroyalty expelled the invaders within weeks — without meaningful help from the colonial authorities. The episode demonstrated that local creoles could defend themselves and weakened the perceived indispensability of Spanish rule."
+            },
+            {
+              "year": 1807,
+              "description": "A second British invasion attempted to take Buenos Aires and Montevideo. Both attacks were repelled by local forces, further boosting the military confidence and political assertiveness of the Buenos Aires creole class."
+            },
+            {
+              "year": 1808,
+              "description": "Napoleon's invasion of Spain and the forced abdication of the Spanish Bourbon monarchs created a legitimacy crisis in the colonies: it was no longer clear in whose name the colonial authorities governed, opening space for local governing juntas."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "May Revolution and United Provinces",
+      "system": "Revolutionary / Confederal Republic",
+      "start": 1810,
+      "end": 1853,
+      "description": "The May Revolution of 1810 established a local governing junta in Buenos Aires, initiating the process of separation from Spain. Independence was declared in 1816, but the following four decades were marked by civil wars between centralists based in Buenos Aires and federalists in the interior provinces — a conflict over who would control the new state and on what terms.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Revolution and Independence",
+          "system": "Provisional Junta / Congress",
+          "start": 1810,
+          "end": 1820,
+          "description": "A creole junta removed the Spanish viceroy in May 1810, nominally in the name of the captive Spanish king. Over the following years, independence movements spread across the region while military campaigns — most notably those of José de San Martín — secured territory from royalist forces.",
+          "leaders": [
+            {
+              "name": "First Junta / Supreme Director",
+              "wiki": "https://en.wikipedia.org/wiki/Argentine_War_of_Independence",
+              "title": "Provisional Government",
+              "start": 1810,
+              "end": 1820,
+              "events": [
+                {
+                  "year": 1810,
+                  "description": "The May Revolution occurred when a creole-dominated open council (cabildo abierto) in Buenos Aires voted to depose the Spanish viceroy and form a local governing junta. The date — May 25 — is celebrated as Argentina's national day."
+                },
+                {
+                  "year": 1816,
+                  "description": "The Congress of Tucumán formally declared the independence of the United Provinces of South America on July 9 — the date now commemorated as Argentine Independence Day. The declaration came while independence campaigns were actively underway and Spanish royalist forces still held parts of the continent."
+                },
+                {
+                  "year": 1817,
+                  "description": "General José de San Martín led an army of roughly five thousand men across the Andes mountains in a logistically extraordinary campaign, surprising and defeating royalist forces in Chile at the Battle of Chacabuco — the first step in his broader strategy to liberate Chile and Peru from Spanish rule."
+                },
+                {
+                  "year": 1820,
+                  "description": "The central government in Buenos Aires collapsed following the Battle of Cepeda, in which provincial armies defeated national forces. For nearly a decade, no effective national government existed, and the provinces operated as largely autonomous entities."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Provincial Autonomy and the Rosas Period",
+          "system": "Confederal Republic / Provincial Hegemony",
+          "start": 1820,
+          "end": 1853,
+          "description": "Without a functioning national government, Buenos Aires province dominated through its control of the port and customs revenues. Juan Manuel de Rosas emerged as the dominant political figure, governing Buenos Aires as governor while exercising informal authority over the confederation, suppressing opposition through political violence.",
+          "leaders": [
+            {
+              "name": "Bernardino Rivadavia",
+              "wiki": "https://en.wikipedia.org/wiki/Bernardino_Rivadavia",
+              "title": "President of the United Provinces",
+              "start": 1826,
+              "end": 1827,
+              "events": [
+                {
+                  "year": 1825,
+                  "description": "War broke out with Brazil over the Cisplatine province — present-day Uruguay — which had rebelled against Brazilian rule with Argentine support. The conflict ended in 1828 with British-brokered mediation and the creation of Uruguay as an independent buffer state."
+                }
+              ]
+            },
+            {
+              "name": "Juan Manuel de Rosas",
+              "wiki": "https://en.wikipedia.org/wiki/Juan_Manuel_de_Rosas",
+              "title": "Governor of Buenos Aires",
+              "start": 1829,
+              "end": 1852,
+              "events": [
+                {
+                  "year": 1829,
+                  "description": "Juan Manuel de Rosas became governor of Buenos Aires province and the dominant figure in Argentine politics. A federalist caudillo with a large landowner base, he built a system of political control backed by a paramilitary force (the Mazorca) that persecuted and killed opponents, forcing many intellectuals and politicians into exile."
+                },
+                {
+                  "year": 1838,
+                  "description": "France imposed a naval blockade on Buenos Aires over disputes involving French citizens in Argentina, and later Britain joined a second blockade in 1845. Both were eventually lifted without the foreign powers achieving their main objectives, bolstering Rosas's nationalist standing domestically."
+                },
+                {
+                  "year": 1852,
+                  "description": "Rosas was defeated at the Battle of Caseros by an alliance of the provinces of Entre Ríos, Corrientes, Brazil, and Uruguay, led by General Justo José de Urquiza. Rosas fled to exile in Britain, where he died in 1877."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Argentine Confederation and National Organization",
+      "system": "Federal Presidential Republic",
+      "start": 1853,
+      "end": 1880,
+      "description": "Argentina adopted its first lasting constitution in 1853, establishing a federal republic — but Buenos Aires initially refused to join, creating two separate political entities for nearly a decade. After their reunification, the country entered a period of state-building, immigration, and conflict over who would control the national capital.",
+      "leaders": [
+        {
+          "name": "Justo José de Urquiza",
+          "wiki": "https://en.wikipedia.org/wiki/Justo_Jos%C3%A9_de_Urquiza",
+          "title": "President of the Argentine Confederation",
+          "start": 1854,
+          "end": 1860,
+          "events": [
+            {
+              "year": 1853,
+              "description": "A constitutional convention adopted the Argentine Constitution — modeled partly on that of the United States — establishing a federal republic with a separation of powers and significant autonomy for the provinces. Buenos Aires refused to ratify it and operated as a separate state."
+            }
+          ]
+        },
+        {
+          "name": "Bartolomé Mitre",
+          "wiki": "https://en.wikipedia.org/wiki/Bartolom%C3%A9_Mitre",
+          "title": "President",
+          "start": 1862,
+          "end": 1868,
+          "events": [
+            {
+              "year": 1861,
+              "description": "Buenos Aires province defeated the Argentine Confederation at the Battle of Pavón, leading to a new round of negotiations. Buenos Aires joined the federal republic in 1862 under conditions that effectively allowed it to dominate national institutions."
+            },
+            {
+              "year": 1865,
+              "description": "Paraguay, under President Francisco Solano López, declared war on Argentina and Brazil after being denied passage through Argentine territory for an attack on southern Brazil. The resulting War of the Triple Alliance (Argentina, Brazil, and Uruguay against Paraguay) lasted until 1870 and caused enormous casualties on all sides, devastating Paraguay."
+            }
+          ]
+        },
+        {
+          "name": "Domingo Faustino Sarmiento",
+          "wiki": "https://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento",
+          "title": "President",
+          "start": 1868,
+          "end": 1874,
+          "events": [
+            {
+              "year": 1869,
+              "description": "Sarmiento oversaw a major expansion of the public education system, founding hundreds of schools and promoting universal primary education as a tool of national integration and modernization. Argentina's literacy rate rose substantially in this period."
+            }
+          ]
+        },
+        {
+          "name": "Julio Argentino Roca",
+          "wiki": "https://en.wikipedia.org/wiki/Julio_Argentino_Roca",
+          "title": "General / Presidential Candidate",
+          "start": 1878,
+          "end": 1880,
+          "events": [
+            {
+              "year": 1879,
+              "description": "The Conquest of the Desert — a military campaign led by General Julio Roca — systematically drove Indigenous Mapuche, Tehuelche, and other peoples from Patagonia and the Pampas through a combination of military force and extermination, opening millions of hectares to cattle ranching and European settlement."
+            },
+            {
+              "year": 1880,
+              "description": "After armed conflict between Buenos Aires province and national forces, the city of Buenos Aires was federalized — separated from Buenos Aires province and made the permanent national capital — resolving the decades-long dispute over which entity controlled the most powerful city in the country."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Conservative Republic (Oligarchic Period)",
+      "system": "Federal Presidential Republic",
+      "start": 1880,
+      "end": 1916,
+      "description": "A small elite of landowners and professionals — organized in the National Autonomist Party (PAN) — controlled national politics through electoral fraud and patronage. The period coincided with rapid economic growth driven by agricultural exports and mass immigration from Europe, which transformed Argentine society while political participation remained restricted.",
+      "leaders": [
+        {
+          "name": "Julio Argentino Roca",
+          "wiki": "https://en.wikipedia.org/wiki/Julio_Argentino_Roca",
+          "title": "President",
+          "start": 1880,
+          "end": 1886,
+          "events": [
+            {
+              "year": 1880,
+              "description": "Roca's presidency inaugurated a period of stable oligarchic rule known as the Generación del Ochenta. The governing elite promoted free trade, foreign investment — primarily British — and mass European immigration as the pillars of economic modernization."
+            },
+            {
+              "year": 1884,
+              "description": "The Law of Common Education (Ley 1420) established free, secular, and compulsory primary education across Argentina, removing the Catholic Church from formal control of public schools and creating one of the most literate populations in Latin America."
+            }
+          ]
+        },
+        {
+          "name": "Miguel Juárez Celman",
+          "wiki": "https://en.wikipedia.org/wiki/Miguel_Ju%C3%A1rez_Celman",
+          "title": "President",
+          "start": 1886,
+          "end": 1890,
+          "events": [
+            {
+              "year": 1890,
+              "description": "An economic collapse triggered by overextension of credit and a sharp fall in commodity prices led to the Baring Crisis — a near-default on sovereign debt that required a British banking rescue — and provoked the Revolution of the Park, an armed uprising by civilian and military opponents of the government. Juárez Celman resigned but the political system survived."
+            }
+          ]
+        },
+        {
+          "name": "Julio Argentino Roca",
+          "wiki": "https://en.wikipedia.org/wiki/Julio_Argentino_Roca",
+          "title": "President (second term)",
+          "start": 1898,
+          "end": 1904,
+          "events": [
+            {
+              "year": 1902,
+              "description": "Argentina and Chile signed the Boundary Treaties (Pactos de Mayo), peacefully resolving a long-running territorial dispute over the Andes borderline and avoiding what had appeared to be an imminent war between the two countries."
+            }
+          ]
+        },
+        {
+          "name": "Roque Sáenz Peña",
+          "wiki": "https://en.wikipedia.org/wiki/Roque_S%C3%A1enz_Pe%C3%B1a",
+          "title": "President",
+          "start": 1910,
+          "end": 1914,
+          "events": [
+            {
+              "year": 1912,
+              "description": "The Sáenz Peña Law established universal male suffrage and the secret ballot, making voting mandatory for all male Argentine citizens. The reform opened the electoral system to the immigrant working and middle classes and directly enabled the election of the opposition Radical Civic Union in 1916."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Radical Period",
+      "system": "Federal Presidential Republic",
+      "start": 1916,
+      "end": 1930,
+      "description": "The Radical Civic Union (UCR), representing the urban middle class and sectors excluded from the old oligarchy, won the presidency in the first genuinely competitive election in Argentine history. The period saw the expansion of political participation but also deepening class conflict and the limits of reformist politics within a still export-dependent economy.",
+      "leaders": [
+        {
+          "name": "Hipólito Yrigoyen",
+          "wiki": "https://en.wikipedia.org/wiki/Hip%C3%B3lito_Yrigoyen",
+          "title": "President",
+          "start": 1916,
+          "end": 1922,
+          "events": [
+            {
+              "year": 1916,
+              "description": "Hipólito Yrigoyen won the presidential election under the new electoral law, becoming the first Argentine president to take office through a genuinely competitive democratic vote. His election represented the political arrival of the middle class but his government maintained Argentina's broadly conservative economic model."
+            },
+            {
+              "year": 1919,
+              "description": "A general strike in Buenos Aires by metalworkers was met with violent repression by security forces and right-wing militia groups, killing over a hundred workers in what became known as the Semana Trágica (Tragic Week). The episode revealed the limits of Radical reformism in the face of labor conflict."
+            },
+            {
+              "year": 1921,
+              "description": "Strikes by rural workers in Patagonia were suppressed by the army in operations that included mass executions of hundreds of laborers — an episode known as the Patagonian Massacres — carried out under Yrigoyen's government despite his reformist reputation."
+            }
+          ]
+        },
+        {
+          "name": "Marcelo T. de Alvear",
+          "wiki": "https://en.wikipedia.org/wiki/Marcelo_T._de_Alvear",
+          "title": "President",
+          "start": 1922,
+          "end": 1928,
+          "events": [
+            {
+              "year": 1922,
+              "description": "Argentina created YPF (Yacimientos Petrolíferos Fiscales), a state oil company, making it the first country in the Americas to establish a national oil enterprise. The creation of YPF reflected growing nationalist interest in controlling natural resources."
+            }
+          ]
+        },
+        {
+          "name": "Hipólito Yrigoyen",
+          "wiki": "https://en.wikipedia.org/wiki/Hip%C3%B3lito_Yrigoyen",
+          "title": "President (second term)",
+          "start": 1928,
+          "end": 1930,
+          "events": [
+            {
+              "year": 1929,
+              "description": "The Great Depression caused the prices of Argentine agricultural exports to collapse, drastically reducing government revenues and exposing the vulnerabilities of an economy heavily dependent on commodity exports to European markets."
+            },
+            {
+              "year": 1930,
+              "description": "General José Félix Uriburu led a military coup that overthrew Yrigoyen — the first successful military coup in Argentine history — with support from conservative landowners and sectors of the military and Catholic Church. The coup set a precedent of military intervention in politics that would recur for the next five decades."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Infamous Decade and Military Intervention",
+      "system": "Authoritarian / Restricted Presidential Republic",
+      "start": 1930,
+      "end": 1943,
+      "description": "Conservative elites, backed by the military, governed through electoral fraud, suppression of the Radical opposition, and economic nationalism in response to the Depression. The period is known as the Década Infame for its pervasive corruption and manipulation of democratic institutions.",
+      "leaders": [
+        {
+          "name": "José Félix Uriburu",
+          "wiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_F%C3%A9lix_Uriburu",
+          "title": "President (de facto)",
+          "start": 1930,
+          "end": 1932,
+          "events": [
+            {
+              "year": 1930,
+              "description": "Uriburu's provisional government suspended the constitution, dissolved Congress, and intervened in provincial governments, attempting to reshape Argentina toward a corporatist political model. When elections produced Radical victories, the results were annulled, establishing the fraudulent pattern that would characterize the decade."
+            }
+          ]
+        },
+        {
+          "name": "Agustín Pedro Justo",
+          "wiki": "https://en.wikipedia.org/wiki/Agust%C3%ADn_Pedro_Justo",
+          "title": "President",
+          "start": 1932,
+          "end": 1938,
+          "events": [
+            {
+              "year": 1933,
+              "description": "Argentina signed the Roca-Runciman Treaty with Britain, granting preferential trade terms for Argentine beef exports to Britain in exchange for significant concessions to British commercial and financial interests in Argentina. Critics argued the treaty deepened economic dependency."
+            }
+          ]
+        },
+        {
+          "name": "Roberto Ortiz / Ramón Castillo",
+          "wiki": "https://en.wikipedia.org/wiki/Roberto_Ortiz",
+          "title": "President",
+          "start": 1938,
+          "end": 1943,
+          "events": [
+            {
+              "year": 1939,
+              "description": "Argentina declared neutrality at the outbreak of World War II, a position it maintained throughout most of the conflict, reflecting divisions within the governing class between pro-Allied liberals and pro-Axis nationalists in the military and Church."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Peronist Era (First Period)",
+      "system": "Peronist Presidential Republic",
+      "start": 1943,
+      "end": 1955,
+      "description": "A military coup in 1943 brought a new generation of nationalist officers to power, among them Colonel Juan Domingo Perón. Perón built an unprecedented political alliance between the labor movement and the state, won the 1946 election, and governed through a combination of popular social reforms, economic nationalism, and authoritarian control of institutions. His rule reshaped Argentine society and created a political movement — Peronism — that has remained the dominant force in the country ever since.",
+      "leaders": [
+        {
+          "name": "Juan Domingo Perón",
+          "wiki": "https://en.wikipedia.org/wiki/Juan_Per%C3%B3n",
+          "title": "President",
+          "start": 1946,
+          "end": 1955,
+          "events": [
+            {
+              "year": 1943,
+              "description": "A military coup overthrew the civilian government. Within the new military administration, Colonel Perón took control of the Labor Secretariat and used it to cultivate ties with trade unions, delivering wage increases and labor protections that built him a mass working-class constituency outside of traditional political structures."
+            },
+            {
+              "year": 1945,
+              "description": "A massive popular demonstration on October 17 — organized by unions and working-class neighborhoods — secured the release of Perón, who had been arrested by military rivals. The date became the foundational myth of the Peronist movement, celebrated as the Day of Loyalty."
+            },
+            {
+              "year": 1946,
+              "description": "Perón won the presidential election with 52% of the vote, supported by a coalition of unions, the Catholic Church, and nationalist groups. His platform combined social welfare policies for workers with economic nationalism and hostility to both American capitalism and Soviet communism."
+            },
+            {
+              "year": 1947,
+              "description": "Women's suffrage was enacted in Argentina, a reform championed by Eva Perón — Perón's wife and a central political figure in the movement. Women voted for the first time in the 1951 elections, in which Perón won re-election."
+            },
+            {
+              "year": 1949,
+              "description": "A new constitution was enacted, incorporating social rights for workers and allowing presidential re-election — which the 1853 constitution had prohibited. The Peronist-controlled Constituent Assembly also established state control over natural resources."
+            },
+            {
+              "year": 1952,
+              "description": "Eva Perón died of cancer at age 33. Known as 'Evita,' she had become the symbolic heart of the movement through her direct engagement with the poor, administration of social welfare programs, and role in the women's suffrage campaign. Her death generated mass public grief and deepened her mythological status."
+            },
+            {
+              "year": 1955,
+              "description": "A military coup known as the Revolución Libertadora overthrew Perón following months of political conflict with the Catholic Church, economic difficulties, and opposition from the armed forces. Perón went into exile in Spain. The coup banned the Peronist party and prohibited Perón from participating in politics, but could not eliminate the movement's popular base."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Unstable Republic and Military Cycles",
+      "system": "Federal Presidential Republic / Military Interventions",
+      "start": 1955,
+      "end": 1973,
+      "description": "The eighteen years following Perón's fall were characterized by alternation between weak civilian governments and repeated military coups. The central political problem was unresolvable under these conditions: Peronism remained the largest political force, but the military and conservative sectors refused to allow it to govern. Economic stagnation, social conflict, and armed insurgency deepened through the period.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Post-Peronist Instability",
+          "system": "Restricted Federal Presidential Republic / Military Provisional Government",
+          "start": 1955,
+          "end": 1966,
+          "description": "With Peronism banned, elections produced weak governments unable to resolve the country's structural political impasse. Military coups ended civilian administrations in 1955 and 1962, and a new elected government in 1963 governed without a reliable political base.",
+          "leaders": [
+            {
+              "name": "Pedro Eugenio Aramburu",
+              "wiki": "https://en.wikipedia.org/wiki/Pedro_Eugenio_Aramburu",
+              "title": "President (de facto)",
+              "start": 1955,
+              "end": 1958,
+              "events": [
+                {
+                  "year": 1956,
+                  "description": "The military government restored the 1853 constitution, banned the Peronist party, and prohibited the use of Perón's name or image in public. A Peronist military uprising was suppressed, and its leaders — including civilians — were summarily executed by firing squad."
+                }
+              ]
+            },
+            {
+              "name": "Arturo Frondizi",
+              "wiki": "https://en.wikipedia.org/wiki/Arturo_Frondizi",
+              "title": "President",
+              "start": 1958,
+              "end": 1962,
+              "events": [
+                {
+                  "year": 1958,
+                  "description": "Frondizi won the presidency after making a secret agreement with the exiled Perón to receive Peronist votes in exchange for eventual legalization of the movement. He pursued a policy of rapid industrialization financed by foreign investment — developmentalism — while trying to manage both the military's anti-Peronism and labor's demands."
+                },
+                {
+                  "year": 1962,
+                  "description": "When Peronist candidates won provincial elections, the military demanded that the results be annulled. Frondizi refused and was deposed by a coup — his third removal attempt by the armed forces in four years — illustrating the impossibility of governing without military approval."
+                }
+              ]
+            },
+            {
+              "name": "Arturo Illia",
+              "wiki": "https://en.wikipedia.org/wiki/Arturo_Illia",
+              "title": "President",
+              "start": 1963,
+              "end": 1966,
+              "events": [
+                {
+                  "year": 1964,
+                  "description": "Illia's government annulled oil contracts signed by Frondizi with foreign companies, a nationalist measure that antagonized powerful economic interests and deepened business sector opposition to his government."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Military Dictatorship and Armed Conflict",
+          "system": "Military Authoritarian Government",
+          "start": 1966,
+          "end": 1973,
+          "description": "General Juan Carlos Onganía led a coup that abolished political parties entirely and announced an indefinite military government. The regime's rigidity generated mass popular opposition, armed insurgency from left-wing guerrilla groups, and eventually the military's own recognition that it had to allow Peronism to compete in order to restore stability.",
+          "leaders": [
+            {
+              "name": "Juan Carlos Onganía",
+              "wiki": "https://en.wikipedia.org/wiki/Juan_Carlos_Ongania",
+              "title": "President (de facto)",
+              "start": 1966,
+              "end": 1970,
+              "events": [
+                {
+                  "year": 1966,
+                  "description": "Onganía dissolved Congress, removed the Supreme Court, banned all political parties, and placed universities under military control — an intervention that led professors and students to resign en masse in what became known as the Night of the Long Batons."
+                },
+                {
+                  "year": 1969,
+                  "description": "A massive popular uprising in Córdoba — the Cordobazo — combined a general strike with street fighting between workers, students, and the security forces. The rebellion reflected deep discontent with the military's economic policies and political repression, and fatally weakened Onganía's political position."
+                }
+              ]
+            },
+            {
+              "name": "Alejandro Lanusse",
+              "wiki": "https://en.wikipedia.org/wiki/Alejandro_Agust%C3%ADn_Lanusse",
+              "title": "President (de facto)",
+              "start": 1971,
+              "end": 1973,
+              "events": [
+                {
+                  "year": 1972,
+                  "description": "Facing growing guerrilla activity from organizations such as the ERP and Montoneros, and widespread social unrest, the military government announced a transition to free elections. Lanusse lifted the ban on Peronism but sought to prevent Perón himself — still in exile — from returning to run for office."
+                },
+                {
+                  "year": 1973,
+                  "description": "Elections were held with Peronism legalized but Perón personally barred from the ballot. The Peronist candidate Héctor Cámpora won overwhelmingly, and shortly afterward resigned to allow new elections in which Perón could participate."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Peronist Restoration and Political Crisis",
+      "system": "Federal Presidential Republic",
+      "start": 1973,
+      "end": 1976,
+      "description": "Perón returned from exile after eighteen years and won the presidency with over 60% of the vote, but died in office after less than a year. His third wife and vice president, Isabel Perón, succeeded him and proved unable to manage the economic crisis, political violence, and internal Peronist conflicts that were tearing the country apart.",
+      "leaders": [
+        {
+          "name": "Juan Domingo Perón",
+          "wiki": "https://en.wikipedia.org/wiki/Juan_Per%C3%B3n",
+          "title": "President",
+          "start": 1973,
+          "end": 1974,
+          "events": [
+            {
+              "year": 1973,
+              "description": "Perón returned to Argentina after eighteen years of exile. At Ezeiza airport, a shooting incident between left-wing and right-wing Peronist factions during the welcoming ceremony killed at least thirteen people and injured hundreds, revealing the violent internal contradictions within the movement he was supposed to unite."
+            },
+            {
+              "year": 1974,
+              "description": "Perón died in office on July 1, the first Argentine president to die of natural causes while in power. He was succeeded by his vice president and wife, María Estela Martínez de Perón (Isabel), who became the first woman to serve as head of state in Argentina — and one of the first in the world."
+            }
+          ]
+        },
+        {
+          "name": "Isabel Perón",
+          "wiki": "https://en.wikipedia.org/wiki/Isabel_Per%C3%B3n",
+          "title": "President",
+          "start": 1974,
+          "end": 1976,
+          "events": [
+            {
+              "year": 1975,
+              "description": "Left-wing guerrilla organizations — primarily the Montoneros and ERP — carried out bombings, assassinations, and a military attack on an army base in Tucumán. The government responded by deploying the army against the Tucumán insurgency and authorizing right-wing paramilitary death squads (the Triple A) that killed hundreds of left-wing activists, intellectuals, and union organizers."
+            },
+            {
+              "year": 1976,
+              "description": "With inflation exceeding 700%, political violence on multiple fronts, and Isabel Perón's government widely seen as incapable of governing, a military coup on March 24 removed her from office. She was placed under house arrest. The coup was broadly anticipated and met with little organized resistance."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Military Dictatorship (Proceso)",
+      "system": "Military Authoritarian Government",
+      "start": 1976,
+      "end": 1983,
+      "description": "A military junta governed Argentina for seven years under a self-named 'National Reorganization Process.' The regime conducted a systematic campaign of state terrorism — the Dirty War — in which an estimated 30,000 people were abducted, tortured, and killed or disappeared. It also oversaw economic liberalization, a catastrophic foreign debt, and ended in the wake of defeat in the Falklands War.",
+      "leaders": [
+        {
+          "name": "Jorge Rafael Videla",
+          "wiki": "https://en.wikipedia.org/wiki/Jorge_Rafael_Videla",
+          "title": "President (de facto)",
+          "start": 1976,
+          "end": 1981,
+          "events": [
+            {
+              "year": 1976,
+              "description": "The military junta immediately dissolved Congress, removed the Supreme Court, banned political parties and unions, and placed the country under martial law. A clandestine network of detention centers — over 500 across the country — was established where political opponents were held, tortured, and in most cases killed. The bodies were disposed of secretly, often by dropping victims alive from aircraft over the Río de la Plata."
+            },
+            {
+              "year": 1977,
+              "description": "Mothers of disappeared persons began gathering silently in the Plaza de Mayo in Buenos Aires, wearing white headscarves to represent their children's diapers, demanding information about their missing children. The Mothers of the Plaza de Mayo became one of the most visible human rights organizations in Latin American history and an international symbol of resistance to state terrorism."
+            },
+            {
+              "year": 1978,
+              "description": "Argentina hosted and won the FIFA World Cup, a moment the regime used aggressively for propaganda. The tournament was held while the dictatorship was operating torture centers within blocks of the main stadium in Buenos Aires."
+            },
+            {
+              "year": 1978,
+              "description": "Argentina and Chile came to the brink of war over the Beagle Channel islands. Papal mediation averted an armed conflict that both militaries had begun preparing for."
+            }
+          ]
+        },
+        {
+          "name": "Leopoldo Galtieri",
+          "wiki": "https://en.wikipedia.org/wiki/Leopoldo_Galtieri",
+          "title": "President (de facto)",
+          "start": 1981,
+          "end": 1982,
+          "events": [
+            {
+              "year": 1982,
+              "description": "Argentina invaded and briefly occupied the Falkland Islands (Islas Malvinas) — British-administered territories claimed by Argentina — in an attempt by the military government to boost its collapsing domestic popularity. Britain responded with a naval task force and, after ten weeks of fighting, recaptured the islands. The defeat cost approximately 650 Argentine lives and directly precipitated the regime's collapse."
+            }
+          ]
+        },
+        {
+          "name": "Reynaldo Bignone",
+          "wiki": "https://en.wikipedia.org/wiki/Reynaldo_Bignone",
+          "title": "President (de facto)",
+          "start": 1982,
+          "end": 1983,
+          "events": [
+            {
+              "year": 1983,
+              "description": "Facing total loss of political legitimacy after the Falklands defeat, the military government called elections and transferred power to civilian authorities. Before leaving, it issued a self-amnesty decree protecting military personnel from prosecution — a decree the incoming civilian government immediately annulled."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "New Democracy (Post-Dictatorship Period)",
+      "system": "Federal Presidential Republic",
+      "start": 1983,
+      "end": null,
+      "description": "Argentina's return to democracy in 1983 began one of the most consequential democratic transitions in Latin American history. The period has included the historic trial of the military juntas, severe economic crises, a sovereign default, political realignments, and ongoing debates over the legacy of the dictatorship and the country's chronic economic instability.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Democratic Transition and Accountability",
+          "system": "Federal Presidential Republic",
+          "start": 1983,
+          "end": 1989,
+          "description": "The Radical Civic Union's Raúl Alfonsín won the first free election in a decade and oversaw the prosecution of the military junta leaders — an unprecedented act of democratic accountability in the region — while struggling with hyperinflation and continued military pressure.",
+          "leaders": [
+            {
+              "name": "Raúl Alfonsín",
+              "wiki": "https://en.wikipedia.org/wiki/Ra%C3%BAl_Alfons%C3%ADn",
+              "title": "President",
+              "start": 1983,
+              "end": 1989,
+              "events": [
+                {
+                  "year": 1985,
+                  "description": "The Trial of the Juntas prosecuted the nine members of the three military juntas that had governed Argentina between 1976 and 1983. Five were convicted, including former presidents Videla and Viola; Videla received a life sentence. The trial was the first time a democratic Latin American government successfully prosecuted its own military leaders for crimes committed during a dictatorship."
+                },
+                {
+                  "year": 1986,
+                  "description": "Under military pressure following convictions of lower-ranking officers, Congress passed the Full Stop Law (Punto Final), setting a 60-day deadline for new prosecutorial complaints against military personnel, followed in 1987 by the Due Obedience Law, which granted immunity to officers who claimed to have been following orders — effectively blocking most further prosecutions."
+                },
+                {
+                  "year": 1989,
+                  "description": "Hyperinflation reached over 3,000% annually, destroying savings and generating social unrest including food riots. Alfonsín resigned six months early and transferred power ahead of schedule to president-elect Carlos Menem — only the second democratic transfer of power between parties in Argentine history."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Menemism and Market Reforms",
+          "system": "Federal Presidential Republic",
+          "start": 1989,
+          "end": 1999,
+          "description": "Carlos Menem governed for two terms, implementing sweeping market-oriented economic reforms — privatization, currency convertibility, and trade liberalization — that halted hyperinflation and produced growth, while also generating structural unemployment, debt, and corruption. He pardoned the convicted junta leaders and amended the constitution to allow his own re-election.",
+          "leaders": [
+            {
+              "name": "Carlos Menem",
+              "wiki": "https://en.wikipedia.org/wiki/Carlos_Menem",
+              "title": "President",
+              "start": 1989,
+              "end": 1999,
+              "events": [
+                {
+                  "year": 1989,
+                  "description": "Menem issued pardons for the military commanders convicted in the 1985 trial — including Videla and Massera — as well as for guerrilla leaders imprisoned from the 1970s. The pardons were presented as a measure of national reconciliation but generated widespread outrage from human rights organizations."
+                },
+                {
+                  "year": 1991,
+                  "description": "The Convertibility Plan pegged the Argentine peso at parity with the U.S. dollar and made it illegal to issue currency not backed by reserves. The measure eliminated hyperinflation almost overnight and stabilized the economy, but at the cost of fixing a rate that would eventually prove unsustainable."
+                },
+                {
+                  "year": 1994,
+                  "description": "A constitutional reform allowed Menem's re-election (previously prohibited) in exchange for reducing the presidential term from six to four years and introducing other institutional changes including a runoff system and independent audit bodies."
+                },
+                {
+                  "year": 1994,
+                  "description": "A bombing destroyed the AMIA Jewish community center in Buenos Aires, killing 85 people in the deadliest terrorist attack in Argentine history. The investigation was widely criticized for its failures, and Argentine prosecutors later accused Iranian officials of ordering the attack, a charge Iran denied."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Crisis, Default, and Recovery",
+          "system": "Federal Presidential Republic",
+          "start": 1999,
+          "end": 2003,
+          "description": "The currency peg and accumulated debt made Argentina increasingly uncompetitive. A prolonged recession combined with IMF austerity conditions triggered a political and economic collapse in 2001: five presidents held office in two weeks, Argentina defaulted on its sovereign debt, and the peso was devalued. Recovery followed faster than many had predicted.",
+          "leaders": [
+            {
+              "name": "Fernando de la Rúa",
+              "wiki": "https://en.wikipedia.org/wiki/Fernando_de_la_R%C3%BAa",
+              "title": "President",
+              "start": 1999,
+              "end": 2001,
+              "events": [
+                {
+                  "year": 2001,
+                  "description": "As a bank run threatened to drain reserves, the government imposed the corralito — a freeze on bank withdrawals that limited Argentines to small amounts of cash per week. The measure triggered massive popular protests; demonstrators clashed with police for two days in Buenos Aires and other cities, leaving over 30 people dead. De la Rúa resigned and was evacuated from Government House by helicopter."
+                },
+                {
+                  "year": 2001,
+                  "description": "Argentina defaulted on approximately $100 billion in sovereign debt — the largest sovereign default in history at the time — ending the convertibility system and forcing the government to devalue the peso, which lost roughly two-thirds of its value against the dollar within months, wiping out the savings of millions of middle-class Argentines."
+                }
+              ]
+            },
+            {
+              "name": "Eduardo Duhalde",
+              "wiki": "https://en.wikipedia.org/wiki/Eduardo_Duhalde",
+              "title": "President",
+              "start": 2002,
+              "end": 2003,
+              "events": [
+                {
+                  "year": 2002,
+                  "description": "Duhalde's transitional government managed the post-devaluation emergency, reaching a fragile stabilization. Despite fears of prolonged depression, the economy began recovering as a cheaper peso boosted exports and domestic industry. Duhalde called early elections for 2003 after police killed two protesters, fatally weakening his political position."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kirchnerism",
+          "system": "Federal Presidential Republic",
+          "start": 2003,
+          "end": 2015,
+          "description": "Néstor Kirchner and his wife Cristina Fernández de Kirchner governed Argentina for twelve years under a broadly left-nationalist political project that combined commodity-export growth, social redistribution, confrontation with creditors, human rights accountability, and increasing state intervention in the economy.",
+          "leaders": [
+            {
+              "name": "Néstor Kirchner",
+              "wiki": "https://en.wikipedia.org/wiki/N%C3%A9stor_Kirchner",
+              "title": "President",
+              "start": 2003,
+              "end": 2007,
+              "events": [
+                {
+                  "year": 2003,
+                  "description": "Kirchner won the presidency with only 22% of the vote after Menem withdrew from a runoff, giving him a weak initial mandate. He nonetheless moved quickly to consolidate power by replacing the Supreme Court, purging military officers with dictatorship-era records, and aligning with the human rights movement."
+                },
+                {
+                  "year": 2003,
+                  "description": "Congress annulled the Full Stop and Due Obedience laws, which the Supreme Court subsequently ruled unconstitutional, reopening prosecution of military personnel for crimes committed during the dictatorship. Trials of former officials resumed and continued for years, producing hundreds of convictions."
+                },
+                {
+                  "year": 2005,
+                  "description": "Argentina reached a debt restructuring agreement with most of its creditors, offering bondholders approximately 30 cents on the dollar — one of the deepest haircuts in sovereign debt history. Kirchner also paid off Argentina's entire outstanding debt to the IMF in a single payment, symbolically distancing the country from the institution associated with the 2001 crisis."
+                }
+              ]
+            },
+            {
+              "name": "Cristina Fernández de Kirchner",
+              "wiki": "https://en.wikipedia.org/wiki/Cristina_Fern%C3%A1ndez_de_Kirchner",
+              "title": "President",
+              "start": 2007,
+              "end": 2015,
+              "events": [
+                {
+                  "year": 2008,
+                  "description": "A conflict with the agricultural sector over export taxes on soybeans produced a months-long lockout by farmers, a political crisis, and a Congressional defeat for the government — one of the most significant domestic political confrontations of the Kirchner era."
+                },
+                {
+                  "year": 2010,
+                  "description": "Argentina became the first country in Latin America to legalize same-sex marriage, following a national legislative debate and significant opposition from the Catholic Church."
+                },
+                {
+                  "year": 2012,
+                  "description": "The government renationalized YPF, the oil company privatized under Menem, after expropriating the 51% stake held by the Spanish company Repsol. The measure was framed as a recovery of energy sovereignty."
+                },
+                {
+                  "year": 2014,
+                  "description": "Argentina defaulted on its debt for the second time in thirteen years after a U.S. court ruled it could not pay restructured bondholders without also paying a group of holdout creditors — known as 'vulture funds' — who had refused the 2005 restructuring. The ruling created a legal standoff that blocked Argentina's access to international credit markets."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Macri Government and Political Realignment",
+          "system": "Federal Presidential Republic",
+          "start": 2015,
+          "end": 2019,
+          "description": "The center-right Cambiemos coalition won the 2015 election, ending twelve years of Kirchnerism. The government reversed several economic policies, reached a settlement with holdout creditors, and returned Argentina to international capital markets — but a currency crisis in 2018 required an IMF bailout and triggered a recession.",
+          "leaders": [
+            {
+              "name": "Mauricio Macri",
+              "wiki": "https://en.wikipedia.org/wiki/Mauricio_Macri",
+              "title": "President",
+              "start": 2015,
+              "end": 2019,
+              "events": [
+                {
+                  "year": 2016,
+                  "description": "Macri's government settled with holdout creditors for approximately 75 cents on the dollar, ending the legal standoff and allowing Argentina to re-enter international bond markets. Argentina immediately issued $16.5 billion in sovereign bonds — the largest bond issuance in Argentine history."
+                },
+                {
+                  "year": 2018,
+                  "description": "A currency crisis caused the peso to lose over half its value against the dollar. The government signed a $57 billion standby agreement with the IMF — the largest in the fund's history — in exchange for fiscal austerity measures. The resulting recession and inflation undermined Macri's re-election prospects."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Return of Peronism and Ongoing Crisis",
+          "system": "Federal Presidential Republic",
+          "start": 2019,
+          "end": null,
+          "description": "The Peronist Alberto Fernández won the 2019 election with Cristina Kirchner as his vice president, but the government struggled with the economic legacy of the Macri period, the COVID-19 pandemic, and its own internal divisions. A new political figure — the libertarian economist Javier Milei — emerged as the dominant force by 2023, winning the presidency on a radical economic reform platform.",
+          "leaders": [
+            {
+              "name": "Alberto Fernández",
+              "wiki": "https://en.wikipedia.org/wiki/Alberto_Fern%C3%A1ndez",
+              "title": "President",
+              "start": 2019,
+              "end": 2023,
+              "events": [
+                {
+                  "year": 2020,
+                  "description": "Argentina restructured approximately $65 billion in foreign-held debt, reaching an agreement with most creditors that reduced payments and extended maturities — its third debt restructuring in two decades."
+                },
+                {
+                  "year": 2020,
+                  "description": "Congress legalized abortion up to fourteen weeks of pregnancy — a landmark reform after decades of prohibition and one of the most significant social policy changes in Argentine history, passed after years of feminist mobilization."
+                },
+                {
+                  "year": 2022,
+                  "description": "Annual inflation exceeded 90% for the first time since the hyperinflation of the late 1980s, reflecting the accumulated pressures of currency controls, fiscal deficits, and structural economic imbalances."
+                }
+              ]
+            },
+            {
+              "name": "Javier Milei",
+              "wiki": "https://en.wikipedia.org/wiki/Javier_Milei",
+              "title": "President",
+              "start": 2023,
+              "end": null,
+              "events": [
+                {
+                  "year": 2023,
+                  "description": "Javier Milei, a self-described anarcho-capitalist economist with no prior government experience, won the presidential election in a runoff against the Peronist economy minister, receiving 56% of the vote. His campaign centered on eliminating the central bank, dollarizing the economy, and drastically reducing the size of the state."
+                },
+                {
+                  "year": 2024,
+                  "description": "Milei's government implemented the largest fiscal adjustment in Argentine history, cutting public spending sharply enough to produce a primary budget surplus for the first time in over a decade — while simultaneously presiding over a contraction in real wages and consumption. Annual inflation briefly exceeded 200% before beginning to decline as the fiscal and monetary tightening took effect."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
