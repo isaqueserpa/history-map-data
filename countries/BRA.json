@@ -23,11 +23,11 @@
               "events": [
                 {
                   "year": 1500,
-                  "description": "A frota portuguesa comandada por Pedro Álvares Cabral chegou ao litoral brasileiro e reivindicou o território para a Coroa."
+                  "description": "A Portuguese fleet commanded by Pedro Álvares Cabral landed on the Brazilian coast and claimed the territory for the Crown."
                 },
                 {
                   "year": 1500,
-                  "description": "Nas primeiras décadas, Portugal limitou sua presença a feitorias costeiras, trocando mercadorias por pau-brasil com os povos indígenas sem estabelecer colônias permanentes."
+                  "description": "In the first decades, Portugal limited its presence to coastal trading posts, exchanging goods for brazilwood with Indigenous peoples rather than establishing permanent settlements."
                 }
               ]
             },
@@ -40,7 +40,7 @@
               "events": [
                 {
                   "year": 1530,
-                  "description": "Preocupado com as incursões francesas no litoral, João III enviou a primeira expedição de colonização, liderada por Martim Afonso de Sousa, para estabelecer assentamentos permanentes e afirmar o controle territorial."
+                  "description": "Concerned by French incursions along the coast, John III dispatched the first colonization expedition, led by Martim Afonso de Sousa, to establish permanent settlements and assert territorial control."
                 }
               ]
             }
@@ -61,11 +61,11 @@
               "events": [
                 {
                   "year": 1534,
-                  "description": "Portugal dividiu o território em quinze capitanias hereditárias concedidas a nobres particulares, que arcavam com os custos da colonização em troca de direitos territoriais e autoridade administrativa."
+                  "description": "Portugal divided the territory into fifteen hereditary captaincies granted to private nobles, who bore the costs of colonization in exchange for land rights and administrative authority."
                 },
                 {
                   "year": 1534,
-                  "description": "A maioria das capitanias fracassou; apenas Pernambuco e São Vicente demonstraram viabilidade real."
+                  "description": "Most captaincies failed; only Pernambuco and São Vicente showed real viability."
                 }
               ]
             }
@@ -86,11 +86,11 @@
               "events": [
                 {
                   "year": 1549,
-                  "description": "Portugal substituiu o sistema de capitanias por um governo real centralizado, fundando Salvador como capital colonial."
+                  "description": "Portugal replaced the failed captaincy system with a centralized royal government, founding Salvador as the colonial capital."
                 },
                 {
                   "year": 1549,
-                  "description": "Os primeiros missionários jesuítas chegaram junto com a nova administração, desempenhando papel central nas relações com os povos indígenas pelos dois séculos seguintes."
+                  "description": "The first Jesuit missionaries arrived alongside the new administration, playing a major role in Indigenous relations for the next two centuries."
                 }
               ]
             },
@@ -103,11 +103,11 @@
               "events": [
                 {
                   "year": 1580,
-                  "description": "As Coroas portuguesa e espanhola foram unidas sob Filipe II — a União Ibérica — expondo o Brasil aos inimigos da Espanha, em especial os holandeses."
+                  "description": "The Portuguese and Spanish Crowns were united under Philip II — the Iberian Union — exposing Brazil to Spain's enemies, particularly the Dutch."
                 },
                 {
                   "year": 1580,
-                  "description": "A União Ibérica permitiu que colonos expandissem o território muito além das fronteiras originais estabelecidas pelo Tratado de Tordesilhas."
+                  "description": "The Iberian Union also enabled settlers to push territorial expansion far beyond the original Tordesillas boundaries."
                 }
               ]
             },
@@ -120,11 +120,11 @@
               "events": [
                 {
                   "year": 1640,
-                  "description": "Portugal restaurou sua independência da Espanha por meio da Guerra da Restauração."
+                  "description": "Portugal restored its independence from Spain through the Restoration War."
                 },
                 {
                   "year": 1654,
-                  "description": "As forças holandesas, que ocupavam o nordeste açucareiro desde a década de 1630, foram definitivamente expulsas, restaurando o controle português sobre a região."
+                  "description": "Dutch forces, who had occupied the sugar-producing northeast since the 1630s, were definitively expelled, restoring full Portuguese control over the region."
                 }
               ]
             },
@@ -137,15 +137,15 @@
               "events": [
                 {
                   "year": 1750,
-                  "description": "O Tratado de Madri substituiu o limite de Tordesilhas pelo princípio da ocupação efetiva, reconhecendo formalmente o vasto território conquistado pelos colonos no interior."
+                  "description": "The Treaty of Madrid replaced the Tordesillas boundary with a principle of effective occupation, formally recognizing the vast territory settlers had claimed inland."
                 },
                 {
                   "year": 1759,
-                  "description": "O Marquês de Pombal expulsou a Companhia de Jesus de todos os territórios portugueses, removendo os missionários que administravam grandes populações indígenas."
+                  "description": "Chief minister the Marquis of Pombal expelled the Jesuit order from all Portuguese territories, removing the missionaries who had administered large Indigenous populations."
                 },
                 {
                   "year": 1763,
-                  "description": "A capital colonial foi transferida de Salvador para o Rio de Janeiro, refletindo o deslocamento do peso econômico para o sul após o ciclo do ouro em Minas Gerais."
+                  "description": "The colonial capital moved from Salvador to Rio de Janeiro, reflecting the southward shift of economic weight following the gold boom in Minas Gerais."
                 }
               ]
             },
@@ -158,19 +158,19 @@
               "events": [
                 {
                   "year": 1789,
-                  "description": "A Inconfidência Mineira — conspiração em Minas Gerais liderada por intelectuais influenciados pelas revoluções americana e francesa — foi o primeiro movimento sério de independência no Brasil."
+                  "description": "The Inconfidência Mineira — a conspiracy in Minas Gerais led by intellectuals inspired by the American and French revolutions — was the first serious independence plot in Brazil."
                 },
                 {
                   "year": 1792,
-                  "description": "O movimento foi suprimido e seu principal líder, Tiradentes, foi executado, tornando-se mártir para as gerações seguintes."
+                  "description": "The conspiracy was suppressed and its main leader, Tiradentes, was executed."
                 },
                 {
                   "year": 1808,
-                  "description": "A invasão napoleônica de Portugal forçou a família real a fugir para o Brasil sob escolta naval britânica, tornando o Rio de Janeiro sede do Império Português."
+                  "description": "Napoleon's invasion of Portugal forced the entire royal court to flee to Brazil under British naval escort, making Rio de Janeiro the seat of the Portuguese Empire."
                 },
                 {
                   "year": 1808,
-                  "description": "A chegada da Corte ao Brasil resultou na abertura dos portos brasileiros ao comércio internacional pela primeira vez."
+                  "description": "Brazilian ports were opened to international trade for the first time."
                 }
               ]
             }
@@ -183,7 +183,7 @@
       "system": "Constitutional Monarchy",
       "start": 1815,
       "end": 1822,
-      "description": "Com a Corte portuguesa ainda residente no Rio de Janeiro, o Brasil foi elevado de colônia a reino igual dentro do reino português. Quando a Corte retornou a Lisboa e Portugal tentou restaurar restrições coloniais, a separação tornou-se cada vez mais provável.",
+      "description": "With the Portuguese court still resident in Rio de Janeiro, Brazil was elevated from colony to an equal constituent kingdom within the Portuguese realm. When the court returned to Lisbon and Portugal moved to restore colonial restrictions, separation became increasingly likely.",
       "leaders": [
         {
           "name": "John VI",
@@ -194,19 +194,19 @@
           "events": [
             {
               "year": 1815,
-              "description": "O Brasil foi formalmente elevado à condição de reino igual a Portugal, tornando politicamente inaceitável qualquer retorno à subordinação colonial para as elites locais."
+              "description": "Brazil was formally elevated to the status of a kingdom equal to Portugal, making any return to colonial subordination politically untenable for local elites."
             },
             {
               "year": 1820,
-              "description": "Uma revolução liberal em Portugal exigiu o retorno do rei a Lisboa e buscou recolonizar o Brasil desmontando as instituições criadas desde 1808."
+              "description": "A liberal revolution in Portugal demanded the king's return to Lisbon and sought to recolonize Brazil by dismantling the institutions created since 1808."
             },
             {
               "year": 1821,
-              "description": "João VI retornou a Lisboa, deixando seu filho Pedro como regente no Brasil."
+              "description": "John VI returned to Lisbon, leaving his son Pedro as regent in Brazil."
             },
             {
               "year": 1822,
-              "description": "O Parlamento português ordenou que Pedro retornasse à Europa e buscou suprimir as instituições brasileiras, convencendo as elites locais de que a independência era preferível à recolonização."
+              "description": "The Portuguese legislature ordered Pedro to return to Europe and moved to strip Brazil of its institutions, convincing local elites that independence was preferable to recolonization."
             }
           ]
         }
@@ -218,7 +218,7 @@
       "system": "Constitutional Monarchy",
       "start": 1822,
       "end": 1889,
-      "description": "O Brasil declarou independência e estabeleceu uma monarquia constitucional sob a Casa de Bragança. O império durou quase sete décadas, mantendo a unidade nacional enquanto as nações hispano-americanas vizinhas se fragmentavam, e terminou com um golpe militar que estabeleceu a república.",
+      "description": "Brazil declared independence and established a constitutional monarchy under the House of Braganza. The empire lasted nearly seven decades, maintaining national unity while neighboring Spanish American nations fragmented, and ended with a military coup that established a republic.",
       "leaders": [],
       "subperiods": [
         {
@@ -236,27 +236,27 @@
               "events": [
                 {
                   "year": 1822,
-                  "description": "Pedro I declarou a independência do Brasil em 7 de setembro — o Grito do Ipiranga — e foi coroado imperador."
+                  "description": "Pedro I declared Brazil's independence from Portugal on September 7 — the 'Cry of Ipiranga' — and was crowned emperor."
                 },
                 {
                   "year": 1822,
-                  "description": "Diferentemente das ex-colônias espanholas, o Brasil manteve-se unificado como um único Estado sob a forma monárquica."
+                  "description": "Unlike former Spanish colonies, Brazil remained unified as a single state under a monarchical system."
                 },
                 {
                   "year": 1824,
-                  "description": "O Brasil adotou sua primeira constituição, estabelecendo um sistema monárquico com um quarto 'poder moderador' que colocava o imperador acima dos poderes executivo, legislativo e judiciário."
+                  "description": "Brazil adopted its first constitution, establishing a monarchical system with a distinctive fourth 'moderating power' that placed the emperor above the executive, legislative, and judicial branches."
                 },
                 {
                   "year": 1824,
-                  "description": "A Confederação do Equador, revolta separatista republicana nas províncias do nordeste, foi suprimida em poucos meses."
+                  "description": "The Confederation of the Equator, a republican separatist revolt in the northeastern provinces, was suppressed within months."
                 },
                 {
                   "year": 1828,
-                  "description": "Após uma guerra custosa e inconclusiva contra a Argentina pela Província Cisplatina, o Brasil reconheceu a independência do Uruguai como estado-tampão neutro, mediado pela Grã-Bretanha."
+                  "description": "After a costly and inconclusive war against Argentina over the Cisplatine province, Brazil recognized the independence of Uruguay as a neutral buffer state brokered by Britain."
                 },
                 {
                   "year": 1831,
-                  "description": "Diante de motins militares, protestos populares e perda de apoio das elites, Pedro I abdicou em favor de seu filho de cinco anos e retornou à Europa."
+                  "description": "Facing military mutinies, popular protests, and loss of elite support, Pedro I abdicated in favor of his five-year-old son and returned to Europe."
                 }
               ]
             }
@@ -277,11 +277,11 @@
               "events": [
                 {
                   "year": 1831,
-                  "description": "Sem um imperador adulto no trono, o Brasil foi governado por uma regência trina, primeiro provisória e depois eleita."
+                  "description": "With no adult emperor on the throne, Brazil was governed first by a provisional then by an elected three-person regency."
                 },
                 {
                   "year": 1834,
-                  "description": "O Ato Adicional descentralizou o poder criando assembleias provinciais e substituindo a regência coletiva por um regente único eleito."
+                  "description": "The Additional Act decentralized power by creating provincial assemblies and replacing the collective regency with a single elected regent."
                 }
               ]
             },
@@ -294,15 +294,15 @@
               "events": [
                 {
                   "year": 1835,
-                  "description": "A Cabanagem eclodiu na Amazônia — uma das revoltas mais sangrentas da história brasileira — refletindo tensões sociais e regionais profundas."
+                  "description": "The Cabanagem revolt erupted in the Amazon — one of the bloodiest in Brazilian history — reflecting deep social and regional tensions."
                 },
                 {
                   "year": 1835,
-                  "description": "A Guerra dos Farrapos eclodiu no Rio Grande do Sul, contestando a autoridade do governo central."
+                  "description": "The Ragamuffin War broke out in Rio Grande do Sul, challenging the authority of the central government."
                 },
                 {
                   "year": 1837,
-                  "description": "Incapaz de estabilizar o país, Feijó renunciou ao cargo de regente."
+                  "description": "Unable to stabilize the country, Feijó resigned as regent."
                 }
               ]
             },
@@ -315,11 +315,11 @@
               "events": [
                 {
                   "year": 1838,
-                  "description": "A Balaiada eclodiu no Maranhão — revolta social de pobres, escravizados fugidos e desertores contra as oligarquias locais."
+                  "description": "The Balaiada revolt erupted in Maranhão — a social uprising of the poor, escaped enslaved people, and deserters against local oligarchies."
                 },
                 {
                   "year": 1840,
-                  "description": "O Parlamento declarou Pedro II legalmente maior de idade para assumir o trono, manobra política para encerrar a instabilidade da regência e restaurar a autoridade central."
+                  "description": "Parliament declared fourteen-year-old Pedro II legally of age to assume the throne, a political maneuver to end the instability of the regency and restore central authority."
                 }
               ]
             }
@@ -340,27 +340,27 @@
               "events": [
                 {
                   "year": 1850,
-                  "description": "A Lei Eusébio de Queirós encerrou o tráfico transatlântico de escravizados sob pressão britânica, embora a escravidão doméstica continuasse por mais décadas."
+                  "description": "The Eusébio de Queirós Law ended the transatlantic slave trade under British pressure, though slavery itself continued domestically for decades."
                 },
                 {
                   "year": 1864,
-                  "description": "A Guerra do Paraguai — o maior conflito da história sul-americana — teve início após o Paraguai atacar o Brasil e a Argentina."
+                  "description": "The Paraguayan War — the largest conflict in South American history — began after Paraguay attacked Brazil and Argentina."
                 },
                 {
                   "year": 1870,
-                  "description": "O conflito terminou devastando a população paraguaia e deixando o exército brasileiro mais forte e politicamente assertivo."
+                  "description": "The war ended, devastating Paraguay's population and leaving the Brazilian military stronger and politically assertive."
                 },
                 {
                   "year": 1888,
-                  "description": "A Princesa Isabel assinou a Lei Áurea, abolindo imediatamente a escravidão sem indenização aos senhores — o último país do hemisfério ocidental a fazê-lo."
+                  "description": "Princess Imperial Isabel signed the Golden Law, immediately abolishing slavery without compensation to slaveholders — the last country in the Western Hemisphere to do so."
                 },
                 {
                   "year": 1888,
-                  "description": "A abolição alienou os poderosos proprietários de terra da monarquia, enfraquecendo fatalmente a base política de Pedro II."
+                  "description": "The abolition alienated powerful landowners from the monarchy, fatally weakening Pedro II's political base."
                 },
                 {
                   "year": 1889,
-                  "description": "Um golpe militar liderado pelo Marechal Deodoro da Fonseca derrubou Pedro II, que optou por não resistir e foi exilado para a Europa, encerrando 67 anos de governo imperial."
+                  "description": "A military coup led by Marshal Deodoro da Fonseca overthrew Pedro II, who chose not to resist and was exiled to Europe, ending sixty-seven years of imperial rule."
                 }
               ]
             }
@@ -373,7 +373,7 @@
       "system": "Federal Presidential Republic",
       "start": 1889,
       "end": 1930,
-      "description": "A república herdou uma estrutura federalista que concentrava o poder nas mãos das elites agrárias regionais, em especial as de São Paulo e Minas Gerais. O período foi marcado por arranjos políticos que excluíam a maioria da população, pontuados por intervenções militares e conflitos sociais.",
+      "description": "The republic inherited a federalist structure that concentrated power in the hands of regional agricultural elites, particularly those of São Paulo and Minas Gerais. The period was marked by political arrangements that excluded most of the population from meaningful participation, punctuated by military interventions and social conflicts.",
       "leaders": [],
       "subperiods": [
         {
@@ -391,15 +391,15 @@
               "events": [
                 {
                   "year": 1889,
-                  "description": "A República foi proclamada em 15 de novembro por meio de golpe militar, encerrando a monarquia sem mobilização popular significativa."
+                  "description": "The Republic was proclaimed on November 15 through a military coup, ending the monarchy without significant popular mobilization."
                 },
                 {
                   "year": 1891,
-                  "description": "A primeira constituição republicana do Brasil foi promulgada, estabelecendo um sistema federal."
+                  "description": "Brazil's first republican constitution was promulgated, establishing a federal system."
                 },
                 {
                   "year": 1891,
-                  "description": "Deodoro dissolveu o Congresso na tentativa de governar por decreto, desencadeando uma crise que o forçou a renunciar em favor de seu vice-presidente, Floriano Peixoto."
+                  "description": "Deodoro dissolved Congress in an attempt to rule by decree, triggering a crisis that forced his resignation in favor of his vice president, Floriano Peixoto."
                 }
               ]
             },
@@ -412,11 +412,11 @@
               "events": [
                 {
                   "year": 1893,
-                  "description": "Uma revolta naval e a simultânea Revolução Federalista no sul desafiaram o governo de Peixoto."
+                  "description": "A naval revolt and a concurrent Federalist Revolution in the south challenged Peixoto's government."
                 },
                 {
                   "year": 1894,
-                  "description": "Ambos os conflitos foram suprimidos a alto custo humano, abrindo caminho para a transição ao governo civil."
+                  "description": "Both conflicts were suppressed at significant human cost, paving the way for a transition to civilian rule."
                 }
               ]
             }
@@ -437,11 +437,11 @@
               "events": [
                 {
                   "year": 1894,
-                  "description": "As elites civis de São Paulo e Minas Gerais assumiram o controle do governo federal por meio de um sistema de barganha política conhecido como política do 'café com leite', excluindo trabalhadores, pobres e militares do poder."
+                  "description": "Civilian elites from São Paulo and Minas Gerais took control of the federal government through a system of political bargaining known as 'café com leite' politics, excluding workers, the poor, and the military from power."
                 },
                 {
                   "year": 1897,
-                  "description": "A Guerra de Canudos terminou com a destruição de uma grande comunidade religiosa no sertão nordestino. Após três expedições militares repelidas, uma quarta massacrou o arraial, deixando cerca de 25.000 mortos."
+                  "description": "The War of Canudos ended with the destruction of a large religious community in the northeastern sertão. After three military expeditions were repelled, a fourth massacred the settlement, leaving around 25,000 dead."
                 }
               ]
             },
@@ -454,7 +454,7 @@
               "events": [
                 {
                   "year": 1898,
-                  "description": "Campos Sales formalizou a 'política dos governadores', sistema de apoio mútuo entre o governo federal e as oligarquias estaduais que garantia resultados eleitorais e consolidava o poder das elites regionais."
+                  "description": "Campos Sales formalized the 'política dos governadores,' a system of mutual support between the federal government and state oligarchies that guaranteed electoral results and consolidated the power of regional elites."
                 }
               ]
             },
@@ -467,11 +467,11 @@
               "events": [
                 {
                   "year": 1904,
-                  "description": "A Revolta da Vacina eclodiu no Rio de Janeiro após o governo tornar obrigatória a vacinação contra a varíola, transformando a resistência popular em dias de combates de rua."
+                  "description": "The Vaccine Revolt erupted in Rio de Janeiro after the government made smallpox vaccination compulsory, turning popular resistance into days of street fighting."
                 },
                 {
                   "year": 1904,
-                  "description": "O governo suspendeu temporariamente o decreto de vacinação compulsória após os confrontos."
+                  "description": "The government temporarily suspended the compulsory vaccination decree following the unrest."
                 }
               ]
             },
@@ -492,7 +492,7 @@
               "events": [
                 {
                   "year": 1909,
-                  "description": "Nilo Peçanha assumiu a presidência após a morte de Afonso Pena, tornando-se o primeiro presidente afro-brasileiro — fato silenciado por longo tempo pela historiografia oficial."
+                  "description": "Nilo Peçanha assumed the presidency after the death of Afonso Pena, becoming the first Afro-Brazilian president — a fact long silenced by official historiography."
                 }
               ]
             },
@@ -505,11 +505,11 @@
               "events": [
                 {
                   "year": 1910,
-                  "description": "A Revolta da Chibata foi um motim de marinheiros negros da Marinha brasileira contra o uso contínuo de açoites — punição associada à escravidão."
+                  "description": "The Revolt of the Lash was a mutiny by Black sailors of the Brazilian navy protesting the continued use of flogging — a punishment associated with slavery."
                 },
                 {
                   "year": 1910,
-                  "description": "O governo concordou em abolir a prática para debelar o motim, mas depois prendeu e matou muitos dos amotinados."
+                  "description": "The government agreed to end the practice to defuse the revolt, but subsequently arrested and killed many of the mutineers."
                 }
               ]
             },
@@ -522,7 +522,7 @@
               "events": [
                 {
                   "year": 1917,
-                  "description": "Após submarinos alemães afundarem navios mercantes brasileiros, o Brasil declarou guerra à Alemanha e às Potências Centrais, tornando-se o único país sul-americano a participar militarmente da Primeira Guerra Mundial."
+                  "description": "After German submarines sank Brazilian merchant ships, Brazil declared war on Germany and the Central Powers, becoming the only South American country to participate militarily in World War I."
                 }
               ]
             },
@@ -543,11 +543,11 @@
               "events": [
                 {
                   "year": 1922,
-                  "description": "A Semana de Arte Moderna em São Paulo reuniu escritores, pintores e músicos que desafiaram as tradições acadêmicas europeias para definir uma identidade cultural brasileira própria."
+                  "description": "The Modern Art Week in São Paulo gathered writers, painters, and musicians who challenged European academic traditions to define a distinctly Brazilian cultural identity."
                 },
                 {
                   "year": 1922,
-                  "description": "Oficiais militares de baixa patente tentaram uma rebelião no Forte de Copacabana — um dos primeiros levantes tenentistas que refletiam a oposição crescente ao regime oligárquico."
+                  "description": "Junior military officers attempted a rebellion at the Copacabana Fort — one of a series of tenentista uprisings reflecting growing opposition to oligarchic rule."
                 }
               ]
             },
@@ -560,11 +560,11 @@
               "events": [
                 {
                   "year": 1924,
-                  "description": "Um novo levante tenentista eclodiu em São Paulo e no sul do país."
+                  "description": "A new tenentista revolt erupted in São Paulo and the south."
                 },
                 {
                   "year": 1924,
-                  "description": "Parte dos rebeldes formou a Coluna Prestes, que marchou pelo interior brasileiro por quase três anos tentando mobilizar a população contra o governo."
+                  "description": "Part of the rebels formed the Prestes Column, which marched through the Brazilian interior for nearly three years attempting to mobilize the population against the government."
                 }
               ]
             },
@@ -577,15 +577,15 @@
               "events": [
                 {
                   "year": 1929,
-                  "description": "A Grande Depressão global derrubou os preços do café, devastando a economia exportadora brasileira."
+                  "description": "The global Great Depression caused coffee prices to collapse, devastating Brazil's export economy."
                 },
                 {
                   "year": 1929,
-                  "description": "Washington Luís agravou a crise política ao indicar outro político paulista como seu sucessor, quebrando o consenso com Minas Gerais que sustentava a república oligárquica."
+                  "description": "Washington Luís compounded the political crisis by nominating another São Paulo politician as his successor, fracturing the elite consensus with Minas Gerais that had held the republic together."
                 },
                 {
                   "year": 1930,
-                  "description": "Uma revolução apoiada pelos militares e liderada por Getúlio Vargas derrubou o governo, encerrando a República Velha após 41 anos."
+                  "description": "A military-backed revolution led by Getúlio Vargas overthrew the government, ending the Old Republic after forty-one years."
                 }
               ]
             }
@@ -598,7 +598,7 @@
       "system": "Authoritarian Presidential Government",
       "start": 1930,
       "end": 1945,
-      "description": "Getúlio Vargas dominou a política brasileira por quinze anos, primeiro por um governo provisório revolucionário, depois por uma presidência eleita e finalmente por uma ditadura autoproclamada conhecida como Estado Novo. Seu governo promoveu a industrialização acelerada, criou a legislação trabalhista brasileira e construiu um Estado centralizado forte, ao mesmo tempo que suprimia a oposição.",
+      "description": "Getúlio Vargas dominated Brazilian politics for fifteen years, first through a revolutionary provisional government, then through an elected presidency, and finally through a self-proclaimed dictatorship known as the Estado Novo. His government pursued rapid industrialization, created the framework of Brazilian labor law, and built a powerful centralized state, while suppressing political opposition.",
       "leaders": [
         {
           "name": "Getúlio Vargas",
@@ -609,31 +609,31 @@
           "events": [
             {
               "year": 1932,
-              "description": "São Paulo lançou a Revolução Constitucionalista, levante armado que exigia o retorno ao governo constitucional após dois anos de Vargas governando por decreto."
+              "description": "São Paulo launched the Constitutionalist Revolution, an armed uprising demanding a return to constitutional government after two years of Vargas ruling by decree."
             },
             {
               "year": 1932,
-              "description": "A revolução foi suprimida após três meses, mas Vargas concedeu a elaboração de uma nova constituição como concessão."
+              "description": "The revolt was suppressed after three months, though Vargas allowed a new constitution to be drafted as a concession."
             },
             {
               "year": 1934,
-              "description": "Uma nova constituição introduziu o sufrágio feminino e o voto secreto pela primeira vez no Brasil."
+              "description": "A new constitution introduced women's suffrage and secret ballots for the first time in Brazil."
             },
             {
               "year": 1937,
-              "description": "Vargas cancelou as eleições previstas, dissolveu o Congresso e impôs o Estado Novo — regime autoritário que concentrou todo o poder no Executivo e proibiu partidos políticos."
+              "description": "Vargas canceled upcoming elections, dissolved Congress, and imposed the Estado Novo — an authoritarian regime that concentrated all power in the executive and banned political parties."
             },
             {
               "year": 1942,
-              "description": "Após submarinos alemães afundarem navios brasileiros, o Brasil entrou na Segunda Guerra Mundial ao lado dos Aliados e enviou cerca de 25.000 soldados para combater na Itália."
+              "description": "After German submarines sank Brazilian ships, Brazil entered World War II on the Allied side and deployed some 25,000 soldiers to fight in Italy."
             },
             {
               "year": 1943,
-              "description": "A Consolidação das Leis do Trabalho (CLT) codificou direitos trabalhistas como salário mínimo, férias remuneradas e jornada regulamentada, moldando as relações de trabalho no Brasil por décadas."
+              "description": "The Consolidation of Labor Laws (CLT) codified workers' rights including minimum wage, paid vacation, and regulated working hours, shaping Brazilian labor relations for decades."
             },
             {
               "year": 1945,
-              "description": "Pressionado pelos militares, Vargas foi deposto por generais seniores e enviado para a reserva, abrindo caminho para eleições democráticas."
+              "description": "Facing military pressure, Vargas was deposed by senior generals and sent into retirement, opening the way for democratic elections."
             }
           ]
         }
@@ -645,7 +645,7 @@
       "system": "Federal Presidential Republic",
       "start": 1945,
       "end": 1964,
-      "description": "O segundo período democrático do Brasil começou com eleições multipartidárias competitivas e uma nova constituição. Trouxe crescimento urbano e industrial expressivo, a construção de uma nova capital e programas de desenvolvimento ambiciosos, mas também polarização política crescente que terminou com um golpe militar.",
+      "description": "Brazil's second democratic period began with competitive multiparty elections and a new constitution. It brought major urban and industrial growth, the construction of a new capital, and ambitious development programs, but also growing political polarization that ultimately ended with a military coup.",
       "leaders": [],
       "subperiods": [
         {
@@ -663,11 +663,11 @@
               "events": [
                 {
                   "year": 1946,
-                  "description": "Uma nova constituição democrática restabeleceu eleições diretas, liberdades civis e um sistema multipartidário após anos de governo autoritário."
+                  "description": "A new democratic constitution re-established direct elections, civil liberties, and a multiparty system after years of authoritarian rule."
                 },
                 {
                   "year": 1947,
-                  "description": "O Partido Comunista Brasileiro, que havia obtido mais de 10% dos votos em 1945, foi cassado sob pressão da Guerra Fria e seus representantes eleitos foram expulsos."
+                  "description": "The Brazilian Communist Party, which had won over 10% of votes in 1945, was banned under Cold War pressure and its elected representatives expelled."
                 }
               ]
             }
@@ -688,15 +688,15 @@
               "events": [
                 {
                   "year": 1951,
-                  "description": "Vargas retornou à presidência por meio de eleição democrática e retomou sua agenda de desenvolvimento nacionalista."
+                  "description": "Vargas returned to the presidency through a democratic election and resumed his nationalist development agenda."
                 },
                 {
                   "year": 1953,
-                  "description": "Vargas criou a Petrobras como empresa estatal de petróleo sob o slogan 'O petróleo é nosso', impulsionando a industrialização liderada pelo Estado."
+                  "description": "Vargas created Petrobras as a state-owned oil company under the nationalist slogan 'O petróleo é nosso' (The oil is ours), driving state-led industrialization."
                 },
                 {
                   "year": 1954,
-                  "description": "Diante de grave crise política e pressão militar pela sua renúncia, Vargas tirou sua própria vida — deixando uma carta que responsabilizava interesses financeiros externos e internos por sua queda."
+                  "description": "Facing a severe political crisis and military pressure for his resignation, Vargas took his own life — leaving a letter blaming foreign and domestic financial interests for his downfall."
                 }
               ]
             },
@@ -725,11 +725,11 @@
               "events": [
                 {
                   "year": 1955,
-                  "description": "Setores militares conservadores tentaram impedir a posse do eleito Juscelino Kubitschek."
+                  "description": "Conservative military sectors tried to prevent the elected Juscelino Kubitschek from taking office."
                 },
                 {
                   "year": 1955,
-                  "description": "Um contragolpe do Ministro da Guerra removeu o presidente interino Carlos Luz após apenas três dias; seu sucessor Nereu Ramos garantiu a transição e entregou o poder a Kubitschek em janeiro de 1956."
+                  "description": "A counter-coup by the War Minister removed acting president Carlos Luz after just three days; his successor Nereu Ramos guaranteed the transition and handed power to Kubitschek in January 1956."
                 }
               ]
             },
@@ -742,11 +742,11 @@
               "events": [
                 {
                   "year": 1956,
-                  "description": "Kubitschek lançou seu programa de industrialização 'Cinquenta Anos em Cinco', atraindo montadoras estrangeiras e expandindo a infraestrutura do país."
+                  "description": "Kubitschek launched his 'Fifty Years in Five' industrialization program, attracting foreign automakers and expanding infrastructure across the country."
                 },
                 {
                   "year": 1960,
-                  "description": "A nova capital federal Brasília foi inaugurada no interior do país após apenas quatro anos de construção, simbolizando as ambições modernizadoras do Brasil."
+                  "description": "The new federal capital Brasília was inaugurated in the interior after just four years of construction, symbolizing Brazil's modernizing ambitions."
                 }
               ]
             },
@@ -759,11 +759,11 @@
               "events": [
                 {
                   "year": 1961,
-                  "description": "Quadros renunciou após apenas sete meses no cargo — aparentemente esperando que o Congresso lhe concedesse poderes mais amplos."
+                  "description": "Quadros resigned after just seven months in office — apparently hoping Congress would grant him broader powers."
                 },
                 {
                   "year": 1961,
-                  "description": "O Congresso aceitou a renúncia, desencadeando uma crise constitucional sobre se o vice-presidente de esquerda João Goulart poderia assumir o cargo diante das objeções militares."
+                  "description": "Congress accepted the resignation, triggering a constitutional crisis over whether his left-leaning vice president, João Goulart, could take office over military objections."
                 }
               ]
             },
@@ -784,15 +784,15 @@
               "events": [
                 {
                   "year": 1961,
-                  "description": "Para superar a resistência militar, o Congresso adotou temporariamente um sistema parlamentarista que reduzia os poderes presidenciais, permitindo que Goulart tomasse posse como compromisso constitucional."
+                  "description": "To overcome military resistance, Congress temporarily adopted a parliamentary system that reduced presidential powers, allowing Goulart to take office as a constitutional compromise."
                 },
                 {
                   "year": 1963,
-                  "description": "Um referendo nacional restaurou os plenos poderes presidenciais a Goulart, que acelerou políticas econômicas nacionalistas e reformas sociais, incluindo polêmicas propostas de reforma agrária."
+                  "description": "A national referendum restored full presidential powers to Goulart, who accelerated nationalist economic policies and social reforms, including controversial land reform proposals."
                 },
                 {
                   "year": 1964,
-                  "description": "Um golpe militar apoiado por grupos civis conservadores e tacitamente respaldado pelos Estados Unidos derrubou Goulart, que fugiu para o exílio, encerrando o governo democrático e inaugurando mais de duas décadas de ditadura militar."
+                  "description": "A military coup supported by conservative civilian groups and tacitly backed by the United States ousted Goulart, who fled into exile, ending democratic rule and inaugurating over two decades of military government."
                 }
               ]
             }
@@ -805,7 +805,7 @@
       "system": "Military Authoritarian Government",
       "start": 1964,
       "end": 1985,
-      "description": "Cinco presidentes militares sucessivos governaram o Brasil por vinte e um anos. O regime suprimiu a oposição política, censurou a imprensa e usou tortura sistemática contra dissidentes. Também supervisionou rápido crescimento econômico no fim dos anos 1960 e início dos anos 1970, seguido de declínio, antes de iniciar uma transição controlada ao governo civil.",
+      "description": "Five successive military presidents governed Brazil for twenty-one years. The regime suppressed political opposition, censored the press, and used systematic torture against dissidents. It also oversaw rapid economic growth in the late 1960s and early 1970s followed by economic decline, before initiating a controlled transition back to civilian rule.",
       "leaders": [],
       "subperiods": [
         {
@@ -823,7 +823,7 @@
               "events": [
                 {
                   "year": 1964,
-                  "description": "O Ato Institucional nº 1 permitiu ao regime cassar direitos políticos de cidadãos por decreto executivo e purgar opositores da administração pública, das Forças Armadas e do Judiciário."
+                  "description": "Institutional Act No. 1 allowed the regime to strip citizens' political rights by executive decree and purge opponents from the civil service, military, and judiciary."
                 }
               ]
             },
@@ -836,11 +836,11 @@
               "events": [
                 {
                   "year": 1968,
-                  "description": "Grandes protestos estudantis e greves varreram as cidades brasileiras."
+                  "description": "Mass student protests and strikes swept Brazilian cities."
                 },
                 {
                   "year": 1968,
-                  "description": "O governo respondeu com o Ato Institucional nº 5, suspendendo o Congresso, autorizando prisões arbitrárias e impondo censura — marcando o início da fase mais dura da ditadura."
+                  "description": "The government responded with Institutional Act No. 5, suspending Congress, authorizing arbitrary arrest, and imposing censorship — marking the beginning of the harshest phase of the dictatorship."
                 }
               ]
             },
@@ -861,11 +861,11 @@
               "events": [
                 {
                   "year": 1970,
-                  "description": "O regime promoveu intensamente a vitória do Brasil na Copa do Mundo para reforçar sua imagem."
+                  "description": "The regime heavily promoted Brazil's FIFA World Cup victory to boost its image."
                 },
                 {
                   "year": 1970,
-                  "description": "A economia cresceu a mais de 10% ao ano durante o chamado 'milagre econômico', embora os ganhos fossem profundamente desiguais e a dissidência implicasse prisão ou tortura."
+                  "description": "The economy grew at over 10% annually during the so-called 'economic miracle,' though gains were deeply unequal and dissent meant imprisonment or torture."
                 }
               ]
             }
@@ -886,19 +886,19 @@
               "events": [
                 {
                   "year": 1974,
-                  "description": "Geisel anunciou uma política de liberalização política lenta, gradual e controlada — processo de cima para baixo destinado a manter os militares no controle da transição."
+                  "description": "Geisel announced a policy of slow, gradual, and controlled political liberalization — a top-down process designed to keep the military in charge of the transition."
                 },
                 {
                   "year": 1975,
-                  "description": "O jornalista Vladimir Herzog foi encontrado morto em um centro de detenção militar em circunstâncias que o regime alegou serem suicídio, mas que eram amplamente reconhecidas como assassinato, provocando indignação pública e acelerando a pressão pela abertura."
+                  "description": "Journalist Vladimir Herzog was found dead in a military detention center in circumstances the regime claimed were suicide but were widely understood to be murder, provoking public outrage and accelerating pressure for liberalization."
                 },
                 {
                   "year": 1979,
-                  "description": "O Ato Institucional nº 5 foi revogado e uma lei de anistia libertou presos políticos e permitiu o retorno dos exilados."
+                  "description": "Institutional Act No. 5 was revoked and an amnesty law freed political prisoners and allowed exiles to return."
                 },
                 {
                   "year": 1979,
-                  "description": "A mesma lei de anistia protegeu militares de processos por violações de direitos humanos — concessão controversa cujas implicações jurídicas persistem até hoje."
+                  "description": "The same amnesty law shielded military personnel from prosecution for human rights abuses — a controversial trade-off whose legal implications persist."
                 }
               ]
             },
@@ -911,15 +911,15 @@
               "events": [
                 {
                   "year": 1983,
-                  "description": "O movimento Diretas Já mobilizou milhões nas maiores manifestações de rua da história brasileira, exigindo o direito de votar diretamente para presidente."
+                  "description": "The Diretas Já ('Direct Elections Now') movement mobilized millions in the largest street protests in Brazilian history, demanding the right to vote directly for president."
                 },
                 {
                   "year": 1984,
-                  "description": "A emenda constitucional para eleições diretas foi rejeitada no Congresso por margem estreita."
+                  "description": "The constitutional amendment for direct elections was rejected in Congress by a narrow margin."
                 },
                 {
                   "year": 1985,
-                  "description": "O Colégio Eleitoral elegeu o candidato da oposição Tancredo Neves, encerrando formalmente o governo militar. Neves adoeceu gravemente antes da posse e morreu sem assumir o cargo; seu vice José Sarney assumiu a presidência."
+                  "description": "The Electoral College elected opposition candidate Tancredo Neves, formally ending military rule. Neves fell gravely ill before his inauguration and died without taking office; his vice president José Sarney assumed the presidency."
                 }
               ]
             }
@@ -932,7 +932,7 @@
       "system": "Federal Presidential Republic",
       "start": 1985,
       "end": null,
-      "description": "O período democrático em curso no Brasil teve início com o fim do regime militar. Uma nova constituição em 1988 estabeleceu amplos direitos civis e sociais, e o país realizou eleições competitivas regulares desde então. O período incluiu estabilização econômica, redução sustentada da pobreza, uma grande crise de corrupção e polarização política recorrente.",
+      "description": "Brazil's ongoing democratic period began after the end of military rule. A new constitution enacted in 1988 established broad civil and social rights, and the country has since held regular competitive elections. The period has included economic stabilization, sustained poverty reduction, a major corruption crisis, and recurring political polarization.",
       "leaders": [],
       "subperiods": [
         {
@@ -950,19 +950,19 @@
               "events": [
                 {
                   "year": 1986,
-                  "description": "O Plano Cruzado tentou eliminar a hiperinflação crônica por meio de congelamento de preços e salários."
+                  "description": "The Cruzado Plan attempted to eliminate chronic hyperinflation through a freeze on prices and wages."
                 },
                 {
                   "year": 1986,
-                  "description": "Inicialmente popular, o plano colapsou em meses com o surgimento de desabastecimento e o retorno da inflação com maior força."
+                  "description": "The plan collapsed within months as shortages emerged and inflation returned with greater force."
                 },
                 {
                   "year": 1988,
-                  "description": "A Constituição Federal — conhecida como 'Constituição Cidadã' — foi promulgada, estabelecendo eleições diretas, Judiciário independente, direitos sociais à saúde e educação, e proteções para comunidades indígenas e afro-brasileiras."
+                  "description": "The Federal Constitution — known as the 'Citizen Constitution' — was promulgated, establishing direct elections, an independent judiciary, social rights to health and education, and protections for Indigenous and Afro-Brazilian communities."
                 },
                 {
                   "year": 1989,
-                  "description": "O Brasil realizou sua primeira eleição presidencial direta em 29 anos, vencida por Fernando Collor de Mello."
+                  "description": "Brazil held its first direct presidential election in twenty-nine years, won by Fernando Collor de Mello."
                 }
               ]
             }
@@ -983,15 +983,15 @@
               "events": [
                 {
                   "year": 1990,
-                  "description": "O Plano Collor congelou contas bancárias privadas acima de determinado limite para combater a hiperinflação, afetando as poupanças de milhões de brasileiros da noite para o dia."
+                  "description": "The Collor Plan froze private bank accounts above a set threshold to combat hyperinflation, disrupting the savings of millions of Brazilians overnight."
                 },
                 {
                   "year": 1992,
-                  "description": "Uma investigação do Congresso revelou um amplo esquema de tráfico de influência operado pelo tesoureiro da campanha de Collor."
+                  "description": "A congressional investigation revealed a broad influence-peddling scheme run by Collor's campaign treasurer."
                 },
                 {
                   "year": 1992,
-                  "description": "Diante de impeachment praticamente certo, Collor renunciou; o Senado o condenou assim mesmo e suspendeu seus direitos políticos por oito anos."
+                  "description": "Facing near-certain impeachment, Collor resigned; the Senate voted to impeach him regardless and suspended his political rights for eight years."
                 }
               ]
             },
@@ -1004,7 +1004,7 @@
               "events": [
                 {
                   "year": 1994,
-                  "description": "O Plano Real, desenvolvido pelo ministro da Fazenda Fernando Henrique Cardoso, introduziu uma nova moeda e quebrou o ciclo de hiperinflação brasileiro, transformando a vida cotidiana e impulsionando a carreira política de Cardoso."
+                  "description": "The Real Plan, developed by Finance Minister Fernando Henrique Cardoso, introduced a new currency and broke Brazil's cycle of hyperinflation."
                 }
               ]
             },
@@ -1017,15 +1017,15 @@
               "events": [
                 {
                   "year": 1995,
-                  "description": "Cardoso acelerou a privatização de grandes estatais nas áreas de telecomunicações e energia, orientando o Brasil para uma gestão econômica mais voltada ao mercado."
+                  "description": "Cardoso accelerated privatization of large state companies in telecommunications and energy, shifting Brazil toward market-oriented economic management."
                 },
                 {
                   "year": 1999,
-                  "description": "Uma crise cambial forçou o Brasil a abandonar o câmbio fixo e deixar o real flutuar, exigindo um pacote de estabilização do FMI."
+                  "description": "A currency crisis forced Brazil to abandon its fixed exchange rate and float the real, requiring an IMF stabilization package."
                 },
                 {
                   "year": 2002,
-                  "description": "O Brasil se recuperou relativamente depressa da crise, mantendo o marco macroeconômico herdado pelo governo seguinte."
+                  "description": "Brazil recovered relatively quickly from the crisis, maintaining the macroeconomic framework inherited by the next government."
                 }
               ]
             }
@@ -1046,19 +1046,19 @@
               "events": [
                 {
                   "year": 2003,
-                  "description": "Um boom global de commodities fortaleceu a economia exportadora brasileira enquanto o novo governo voltava sua atenção a políticas redistributivas."
+                  "description": "A global commodity boom strengthened Brazil's export economy as the new government turned to redistributive social policy."
                 },
                 {
                   "year": 2003,
-                  "description": "O programa Bolsa Família passou a fornecer transferências mensais de renda a famílias de baixa renda condicionadas à frequência escolar e à vacinação, tornando-se um dos maiores programas de combate à pobreza do mundo."
+                  "description": "The Bolsa Família program provided monthly payments to low-income families contingent on school attendance and vaccination, becoming one of the largest anti-poverty programs in the world."
                 },
                 {
                   "year": 2007,
-                  "description": "Vastas reservas de petróleo foram descobertas nas camadas de pré-sal em águas profundas ao largo do Rio de Janeiro, transformando as perspectivas energéticas de longo prazo do Brasil."
+                  "description": "Vast oil reserves were discovered in deepwater pre-salt layers off the coast of Rio de Janeiro, transforming Brazil's long-term energy prospects."
                 },
                 {
                   "year": 2010,
-                  "description": "A economia brasileira cresceu 7,5% e Lula deixou o cargo com aprovação acima de 80%, após a maior redução de pobreza e desigualdade da história moderna do país."
+                  "description": "Brazil's economy grew 7.5% as Lula left office with approval ratings above 80%, after the largest reduction in poverty and inequality in the country's modern history."
                 }
               ]
             },
@@ -1071,19 +1071,19 @@
               "events": [
                 {
                   "year": 2013,
-                  "description": "Grandes protestos varreram as cidades brasileiras, inicialmente motivados pelo aumento da tarifa de ônibus em São Paulo e rapidamente ampliados para insatisfações com os serviços públicos, corrupção e os custos de sediar a Copa do Mundo de 2014 e as Olimpíadas de 2016."
+                  "description": "Mass protests swept Brazilian cities, initially triggered by a bus fare increase in São Paulo and quickly broadened into discontent over public services, corruption, and the costs of hosting the 2014 World Cup and 2016 Olympics."
                 },
                 {
                   "year": 2014,
-                  "description": "A investigação Lava Jato revelou um vasto esquema em que empreiteiras pagavam propinas a executivos da Petrobras e políticos por contratos superfaturados, implicando figuras de todo o espectro político."
+                  "description": "The Lava Jato (Car Wash) investigation uncovered a vast scheme in which construction companies paid bribes to Petrobras executives and politicians for inflated contracts, implicating figures across the political spectrum."
                 },
                 {
                   "year": 2015,
-                  "description": "O boom das commodities arrefeceu e o Brasil entrou em grave recessão, aprofundando a crise política do governo Rousseff."
+                  "description": "The commodity boom faded and Brazil entered a severe recession, deepening the political crisis around Rousseff's government."
                 },
                 {
                   "year": 2016,
-                  "description": "O Senado votou pela destituição de Rousseff por acusações de manipulação de contas orçamentárias para encobrir déficit fiscal. Rousseff e seus apoiadores sustentaram que se tratava de uma remoção politicamente motivada."
+                  "description": "The Senate voted to remove Rousseff on charges of manipulating budget accounts to conceal a fiscal deficit. Rousseff and her supporters maintained it was a politically motivated removal."
                 }
               ]
             }
@@ -1104,11 +1104,11 @@
               "events": [
                 {
                   "year": 2017,
-                  "description": "O Congresso aprovou uma ampla reforma trabalhista reduzindo proteções estabelecidas desde a CLT de 1943."
+                  "description": "Congress approved a sweeping labor reform reducing protections established since the 1943 CLT."
                 },
                 {
                   "year": 2017,
-                  "description": "Uma emenda constitucional congelou o crescimento dos gastos públicos por vinte anos — mudanças estruturais que Temer apresentou como necessárias para restaurar o equilíbrio fiscal após a recessão."
+                  "description": "A constitutional amendment capped public spending growth for twenty years, changes Temer framed as necessary to restore fiscal balance after the recession."
                 }
               ]
             },
@@ -1121,23 +1121,23 @@
               "events": [
                 {
                   "year": 2019,
-                  "description": "O desmatamento na Amazônia aumentou acentuadamente após o novo governo desmantelar a fiscalização ambiental, gerando críticas internacionais persistentes."
+                  "description": "Deforestation in the Amazon increased sharply as the new government rolled back environmental enforcement, drawing sustained international criticism."
                 },
                 {
                   "year": 2020,
-                  "description": "A pandemia de COVID-19 matou mais de 700.000 brasileiros — o segundo maior número absoluto de mortes no mundo."
+                  "description": "The COVID-19 pandemic killed over 700,000 Brazilians — the second-highest absolute death toll in the world."
                 },
                 {
                   "year": 2020,
-                  "description": "A resposta do governo foi amplamente criticada por atrasos na aquisição de vacinas e pelas reiteradas declarações do presidente minimizando a gravidade da doença."
+                  "description": "The government's response was widely criticized for delays in vaccine procurement and the president's repeated dismissal of the disease's severity."
                 },
                 {
                   "year": 2022,
-                  "description": "Lula derrotou Bolsonaro no segundo turno das eleições presidenciais por menos de dois pontos percentuais — o resultado mais apertado da história da república."
+                  "description": "Lula defeated Bolsonaro in the presidential election's second round by less than two percentage points — the closest result in the history of the republic."
                 },
                 {
                   "year": 2023,
-                  "description": "Dias após a posse de Lula, milhares de apoiadores de Bolsonaro invadiram e depredaram o Palácio Presidencial, o Congresso e o Supremo Tribunal Federal — o ataque mais grave às instituições democráticas brasileiras desde o golpe de 1964."
+                  "description": "Days after Lula's inauguration, thousands of Bolsonaro supporters stormed and ransacked the Presidential Palace, Congress, and the Supreme Court — the most serious attack on Brazilian democratic institutions since the 1964 coup."
                 }
               ]
             }
@@ -1158,15 +1158,15 @@
               "events": [
                 {
                   "year": 2023,
-                  "description": "Lula retornou à presidência para um terceiro mandato não consecutivo, com foco na reconstrução da política ambiental, reativação de programas sociais e estabilização das instituições democráticas após os ataques de 8 de janeiro."
+                  "description": "Lula returned to the presidency for a third non-consecutive term, focused on rebuilding environmental policy, reactivating social programs, and stabilizing democratic institutions after the January 8 attacks."
                 },
                 {
                   "year": 2023,
-                  "description": "O Brasil reingressou nos compromissos climáticos internacionais e reinstaurou órgãos ambientais desmontados no governo anterior, com a meta de eliminar o desmatamento ilegal na Amazônia até 2030."
+                  "description": "Brazil rejoined international climate commitments and reinstated environmental agencies dismantled under the previous government, pledging to eliminate illegal deforestation in the Amazon by 2030."
                 },
                 {
                   "year": 2024,
-                  "description": "O Brasil sediou a cúpula do G20 no Rio de Janeiro, avançando propostas de imposto mínimo global sobre bilionários e maior alívio da dívida para países em desenvolvimento."
+                  "description": "Brazil hosted the G20 summit in Rio de Janeiro, advancing proposals for a global minimum tax on billionaires and increased debt relief for developing countries."
                 }
               ]
             }
