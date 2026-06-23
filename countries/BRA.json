@@ -10,7 +10,6 @@
       "subperiods": [
         {
           "name": "Early Contact and Extraction",
-          "system": "Colonial Administration",
           "start": 1500,
           "end": 1530,
           "leaders": [
@@ -48,7 +47,6 @@
         },
         {
           "name": "Settlement and the Captaincy System",
-          "system": "Colonial Administration",
           "start": 1530,
           "end": 1549,
           "leaders": [
@@ -73,7 +71,6 @@
         },
         {
           "name": "Royal Government and Territorial Expansion",
-          "system": "Colonial Administration",
           "start": 1549,
           "end": 1808,
           "leaders": [
@@ -223,7 +220,6 @@
       "subperiods": [
         {
           "name": "First Reign",
-          "system": "Constitutional Monarchy",
           "start": 1822,
           "end": 1831,
           "leaders": [
@@ -264,7 +260,6 @@
         },
         {
           "name": "Regency Period",
-          "system": "Parliamentary Regency",
           "start": 1831,
           "end": 1840,
           "leaders": [
@@ -327,7 +322,6 @@
         },
         {
           "name": "Second Reign",
-          "system": "Constitutional Monarchy",
           "start": 1840,
           "end": 1889,
           "leaders": [
@@ -369,7 +363,7 @@
       ]
     },
     {
-      "name": "First Brazilian Republic",
+      "name": "Old Republic",
       "system": "Federal Presidential Republic",
       "start": 1889,
       "end": 1930,
@@ -377,8 +371,7 @@
       "leaders": [],
       "subperiods": [
         {
-          "name": "Military Republic",
-          "system": "Military Provisional Government",
+          "name": "Republic of the Sword",
           "start": 1889,
           "end": 1894,
           "leaders": [
@@ -424,7 +417,6 @@
         },
         {
           "name": "Oligarchic Republic",
-          "system": "Federal Presidential Republic",
           "start": 1894,
           "end": 1930,
           "leaders": [
@@ -595,7 +587,7 @@
     },
     {
       "name": "Vargas Era",
-      "system": "Authoritarian Presidential Government",
+      "system": "Federal Presidential Republic",
       "start": 1930,
       "end": 1945,
       "wikiperiod": "https://en.wikipedia.org/wiki/Vargas_Era",
@@ -641,7 +633,7 @@
       "subperiods": []
     },
     {
-      "name": "Fourth Brazilian Republic",
+      "name": "Populist Republic",
       "system": "Federal Presidential Republic",
       "start": 1945,
       "end": 1964,
@@ -650,7 +642,6 @@
       "subperiods": [
         {
           "name": "Democratic Transition",
-          "system": "Federal Presidential Republic",
           "start": 1945,
           "end": 1950,
           "leaders": [
@@ -675,7 +666,6 @@
         },
         {
           "name": "Developmentalism and Political Crisis",
-          "system": "Federal Presidential Republic",
           "start": 1950,
           "end": 1964,
           "leaders": [
@@ -802,7 +792,7 @@
     },
     {
       "name": "Military Dictatorship",
-      "system": "Military Authoritarian Government",
+      "system": "Federal Presidential Republic",
       "start": 1964,
       "end": 1985,
       "wikiperiod": "https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil",
@@ -810,7 +800,6 @@
       "subperiods": [
         {
           "name": "Consolidation and Repression",
-          "system": "Military Authoritarian Government",
           "start": 1964,
           "end": 1974,
           "leaders": [
@@ -873,7 +862,6 @@
         },
         {
           "name": "Controlled Transition (Abertura)",
-          "system": "Military Authoritarian Government",
           "start": 1974,
           "end": 1985,
           "leaders": [
@@ -937,7 +925,6 @@
       "subperiods": [
         {
           "name": "Transition and New Constitution",
-          "system": "Federal Presidential Republic",
           "start": 1985,
           "end": 1990,
           "leaders": [
@@ -970,7 +957,6 @@
         },
         {
           "name": "Economic Liberalization and Stabilization",
-          "system": "Federal Presidential Republic",
           "start": 1990,
           "end": 2003,
           "leaders": [
@@ -1033,7 +1019,6 @@
         },
         {
           "name": "Social Development and Commodity Boom",
-          "system": "Federal Presidential Republic",
           "start": 2003,
           "end": 2016,
           "leaders": [
@@ -1091,7 +1076,6 @@
         },
         {
           "name": "Political Polarization and Institutional Crisis",
-          "system": "Federal Presidential Republic",
           "start": 2016,
           "end": 2023,
           "leaders": [
@@ -1145,7 +1129,6 @@
         },
         {
           "name": "Third Lula Government",
-          "system": "Federal Presidential Republic",
           "start": 2023,
           "end": null,
           "leaders": [
