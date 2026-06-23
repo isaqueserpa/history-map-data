@@ -5,7 +5,7 @@
       "system": "Colonial Administration",
       "start": 1500,
       "end": 1815,
-      "description": "After Portugal claimed the territory in 1500, the region was gradually transformed from a trading outpost into a large plantation colony dependent on enslaved African labor. Over three centuries, settlement expanded far inland, the colonial economy grew around sugar and later gold, and periodic conflicts revealed the tensions of imperial rule.",
+      "wikiperiod": "https://en.wikipedia.org/wiki/Colonial_Brazil",
       "leaders": [],
       "subperiods": [
         {
@@ -183,7 +183,7 @@
       "system": "Constitutional Monarchy",
       "start": 1815,
       "end": 1822,
-      "description": "With the Portuguese court still resident in Rio de Janeiro, Brazil was elevated from colony to an equal constituent kingdom within the Portuguese realm. When the court returned to Lisbon and Portugal moved to restore colonial restrictions, separation became increasingly likely.",
+      "wikiperiod": "https://en.wikipedia.org/wiki/United_Kingdom_of_Portugal,_Brazil_and_the_Algarves",
       "leaders": [
         {
           "name": "John VI",
@@ -218,7 +218,7 @@
       "system": "Constitutional Monarchy",
       "start": 1822,
       "end": 1889,
-      "description": "Brazil declared independence and established a constitutional monarchy under the House of Braganza. The empire lasted nearly seven decades, maintaining national unity while neighboring Spanish American nations fragmented, and ended with a military coup that established a republic.",
+      "wikiperiod": "https://en.wikipedia.org/wiki/Empire_of_Brazil",
       "leaders": [],
       "subperiods": [
         {
@@ -373,7 +373,7 @@
       "system": "Federal Presidential Republic",
       "start": 1889,
       "end": 1930,
-      "description": "The republic inherited a federalist structure that concentrated power in the hands of regional agricultural elites, particularly those of São Paulo and Minas Gerais. The period was marked by political arrangements that excluded most of the population from meaningful participation, punctuated by military interventions and social conflicts.",
+      "wikiperiod": "https://en.wikipedia.org/wiki/First_Brazilian_Republic",
       "leaders": [],
       "subperiods": [
         {
@@ -598,7 +598,7 @@
       "system": "Authoritarian Presidential Government",
       "start": 1930,
       "end": 1945,
-      "description": "Getúlio Vargas dominated Brazilian politics for fifteen years, first through a revolutionary provisional government, then through an elected presidency, and finally through a self-proclaimed dictatorship known as the Estado Novo. His government pursued rapid industrialization, created the framework of Brazilian labor law, and built a powerful centralized state, while suppressing political opposition.",
+      "wikiperiod": "https://en.wikipedia.org/wiki/Vargas_Era",
       "leaders": [
         {
           "name": "Getúlio Vargas",
@@ -641,11 +641,11 @@
       "subperiods": []
     },
     {
-      "name": "Second Brazilian Republic",
+      "name": "Fourth Brazilian Republic",
       "system": "Federal Presidential Republic",
       "start": 1945,
       "end": 1964,
-      "description": "Brazil's second democratic period began with competitive multiparty elections and a new constitution. It brought major urban and industrial growth, the construction of a new capital, and ambitious development programs, but also growing political polarization that ultimately ended with a military coup.",
+      "wikiperiod": "https://en.wikipedia.org/wiki/Fourth_Brazilian_Republic",
       "leaders": [],
       "subperiods": [
         {
@@ -805,7 +805,7 @@
       "system": "Military Authoritarian Government",
       "start": 1964,
       "end": 1985,
-      "description": "Five successive military presidents governed Brazil for twenty-one years. The regime suppressed political opposition, censored the press, and used systematic torture against dissidents. It also oversaw rapid economic growth in the late 1960s and early 1970s followed by economic decline, before initiating a controlled transition back to civilian rule.",
+      "wikiperiod": "https://en.wikipedia.org/wiki/Military_dictatorship_in_Brazil",
       "leaders": [],
       "subperiods": [
         {
@@ -932,7 +932,7 @@
       "system": "Federal Presidential Republic",
       "start": 1985,
       "end": null,
-      "description": "Brazil's ongoing democratic period began after the end of military rule. A new constitution enacted in 1988 established broad civil and social rights, and the country has since held regular competitive elections. The period has included economic stabilization, sustained poverty reduction, a major corruption crisis, and recurring political polarization.",
+      "wikiperiod": "https://en.wikipedia.org/wiki/History_of_Brazil_(1985%E2%80%93present)",
       "leaders": [],
       "subperiods": [
         {
