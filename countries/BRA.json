@@ -586,18 +586,24 @@
       ]
     },
     {
-      "name": "Vargas Era",
-      "system": "Federal Presidential Republic",
+  "name": "Vargas Era",
+  "system": "Federal Presidential Republic",
+  "start": 1930,
+  "end": 1945,
+  "wikiperiod": "https://en.wikipedia.org/wiki/Vargas_Era",
+  "leaders": [],
+  "subperiods": [
+    {
+      "name": "Governo Provisório",
       "start": 1930,
-      "end": 1945,
-      "wikiperiod": "https://en.wikipedia.org/wiki/Vargas_Era",
+      "end": 1934,
       "leaders": [
         {
           "name": "Getúlio Vargas",
           "wiki": "https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas",
           "title": "President / Head of State",
           "start": 1930,
-          "end": 1945,
+          "end": 1934,
           "events": [
             {
               "year": 1932,
@@ -606,11 +612,43 @@
             {
               "year": 1932,
               "description": "The revolt was suppressed after three months, though Vargas allowed a new constitution to be drafted as a concession."
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Governo Constitucional",
+      "start": 1934,
+      "end": 1937,
+      "leaders": [
+        {
+          "name": "Getúlio Vargas",
+          "wiki": "https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas",
+          "title": "President / Head of State",
+          "start": 1934,
+          "end": 1937,
+          "events": [
             {
               "year": 1934,
               "description": "A new constitution introduced women's suffrage and secret ballots for the first time in Brazil."
-            },
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Estado Novo",
+      "start": 1937,
+      "end": 1945,
+      "leaders": [
+        {
+          "name": "Getúlio Vargas",
+          "wiki": "https://en.wikipedia.org/wiki/Get%C3%BAlio_Vargas",
+          "title": "President / Head of State",
+          "start": 1937,
+          "end": 1945,
+          "events": [
             {
               "year": 1937,
               "description": "Vargas canceled upcoming elections, dissolved Congress, and imposed the Estado Novo — an authoritarian regime that concentrated all power in the executive and banned political parties."
@@ -629,9 +667,10 @@
             }
           ]
         }
-      ],
-      "subperiods": []
-    },
+      ]
+    }
+  ]
+},
     {
       "name": "Populist Republic",
       "system": "Federal Presidential Republic",
