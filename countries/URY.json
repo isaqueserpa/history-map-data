@@ -1,0 +1,962 @@
+{
+  "periods": [
+    {
+      "name": "Colonial Banda Oriental",
+      "system": "Colonial Administration",
+      "start": 1516,
+      "end": 1811,
+      "description": "The territory east of the Uruguay River, known as the Banda Oriental, was among the last parts of the Spanish Empire in South America to be settled, largely because it lacked precious metals and was inhabited by the resistant Charrúa and other Indigenous peoples. Permanent settlement only began in the early eighteenth century, driven mainly by the strategic need to contain Portuguese expansion from Brazil.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Early Contact and Neglect",
+          "system": "Colonial Administration",
+          "start": 1516,
+          "end": 1680,
+          "description": "Spanish explorers reached the Río de la Plata estuary in the early sixteenth century, but the absence of mineral wealth and persistent Indigenous resistance discouraged colonization for over a century and a half, leaving the territory largely unsettled by Europeans.",
+          "leaders": [
+            {
+              "name": "Charles I",
+              "wiki": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
+              "title": "King of Spain",
+              "start": 1516,
+              "end": 1556,
+              "events": [
+                {
+                  "year": 1516,
+                  "description": "Spanish navigator Juan Díaz de Solís became the first European to reach the Río de la Plata estuary, but he and several of his men were killed by Indigenous Charrúa shortly after landing, discouraging further exploration for years."
+                }
+              ]
+            },
+            {
+              "name": "Philip II",
+              "wiki": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+              "title": "King of Spain",
+              "start": 1556,
+              "end": 1598,
+              "events": [
+                {
+                  "year": 1574,
+                  "description": "Spanish settlers introduced cattle to the region, which bred prolifically on the open grasslands and would later become the foundation of the territory's pastoral economy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Founding of Montevideo and Imperial Rivalry",
+          "system": "Colonial Administration",
+          "start": 1680,
+          "end": 1776,
+          "description": "Portuguese efforts to establish a foothold north of the Río de la Plata pushed Spain to fortify and settle the Banda Oriental in response. The resulting decades were marked by repeated disputes over the small outpost of Colonia del Sacramento and the founding of Montevideo as a permanent Spanish stronghold.",
+          "leaders": [
+            {
+              "name": "Pedro II",
+              "wiki": "https://en.wikipedia.org/wiki/Pedro_II_of_Portugal",
+              "title": "King of Portugal",
+              "start": 1683,
+              "end": 1706,
+              "events": [
+                {
+                  "year": 1680,
+                  "description": "Portugal founded Colonia del Sacramento on the northern bank of the Río de la Plata, directly across from Buenos Aires, establishing a smuggling and trading post that Spain considered an intrusion into its territory and repeatedly besieged in the following decades."
+                }
+              ]
+            },
+            {
+              "name": "Philip V",
+              "wiki": "https://en.wikipedia.org/wiki/Philip_V_of_Spain",
+              "title": "King of Spain",
+              "start": 1700,
+              "end": 1746,
+              "events": [
+                {
+                  "year": 1724,
+                  "description": "Spanish forces established a fort at Montevideo Bay to preempt a Portuguese settlement there, and colonists from the Canary Islands and Buenos Aires were brought in over the following years to populate the new town."
+                },
+                {
+                  "year": 1726,
+                  "description": "Montevideo was formally founded as a fortified port city, which would grow into the main Spanish administrative and military center of the Banda Oriental, rivaling Buenos Aires in regional importance."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Late Colonial Period",
+          "system": "Colonial Administration",
+          "start": 1776,
+          "end": 1811,
+          "description": "The creation of the Viceroyalty of the Río de la Plata reorganized Spanish administration in the region and brought Montevideo greater commercial and military significance, including a brief but consequential British occupation that exposed the weakness of Spanish control on the eve of the independence era.",
+          "leaders": [
+            {
+              "name": "Charles III",
+              "wiki": "https://en.wikipedia.org/wiki/Charles_III_of_Spain",
+              "title": "King of Spain",
+              "start": 1759,
+              "end": 1788,
+              "events": [
+                {
+                  "year": 1776,
+                  "description": "Spain created the Viceroyalty of the Río de la Plata, with Buenos Aires as its capital, placing the Banda Oriental under a new administrative structure that also elevated Montevideo's role as the principal naval port and customs post of the region."
+                },
+                {
+                  "year": 1777,
+                  "description": "The Treaty of San Ildefonso transferred Colonia del Sacramento permanently from Portugal to Spain, ending nearly a century of dispute over the outpost and consolidating Spanish control of the Banda Oriental's coastline."
+                }
+              ]
+            },
+            {
+              "name": "Charles IV",
+              "wiki": "https://en.wikipedia.org/wiki/Charles_IV_of_Spain",
+              "title": "King of Spain",
+              "start": 1788,
+              "end": 1808,
+              "events": [
+                {
+                  "year": 1806,
+                  "description": "British forces briefly captured Buenos Aires during the Napoleonic Wars; although Montevideo was not yet the target, the invasion exposed the vulnerability of Spanish defenses in the estuary."
+                },
+                {
+                  "year": 1807,
+                  "description": "British troops occupied Montevideo for several months during a second invasion attempt on the Río de la Plata before being repelled from Buenos Aires and withdrawing from the entire region, leaving lasting commercial contacts and a weakened sense of Spanish authority."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revolutionary Period and Artiguismo",
+      "system": "Revolutionary Provincial Government",
+      "start": 1811,
+      "end": 1820,
+      "description": "Following the outbreak of revolution against Spanish rule across the Río de la Plata, the Banda Oriental rose under the leadership of José Artigas, who became the foremost figure of regional federalism. The decade combined warfare against Spanish loyalists with growing conflict against the centralizing government in Buenos Aires, and ended with a Portuguese-Brazilian invasion that crushed Artigas's project.",
+      "leaders": [
+        {
+          "name": "José Artigas",
+          "wiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Gervasio_Artigas",
+          "title": "Leader of the Oriental Revolution / Protector of Free Peoples",
+          "start": 1811,
+          "end": 1820,
+          "events": [
+            {
+              "year": 1811,
+              "description": "Artigas led Oriental forces to a decisive victory over Spanish royalist troops at the Battle of Las Piedras, establishing him as the central military and political leader of the regional uprising and prompting a prolonged siege of royalist-held Montevideo."
+            },
+            {
+              "year": 1811,
+              "description": "Facing a Portuguese invasion in support of Spain and a truce negotiated by Buenos Aires that Artigas rejected, he led thousands of Oriental civilians inland in a mass exodus remembered as the 'Éxodo Oriental,' refusing to remain under terms he saw as a betrayal of the revolution."
+            },
+            {
+              "year": 1813,
+              "description": "Artigas presented a set of instructions to the Constituent Assembly in Buenos Aires demanding a federal system that would preserve provincial autonomy; their rejection deepened the rift between his movement and the centralizing Buenos Aires government."
+            },
+            {
+              "year": 1815,
+              "description": "Artigas organized the Liga Federal, a confederation of provinces from the Banda Oriental and the surrounding littoral region united around federalist principles and resistance to Buenos Aires's centralizing authority."
+            },
+            {
+              "year": 1816,
+              "description": "A Portuguese-Brazilian army invaded the Banda Oriental from the north with tacit acceptance from Buenos Aires, beginning a prolonged war that gradually overwhelmed Artigas's forces despite years of resistance."
+            },
+            {
+              "year": 1820,
+              "description": "After his final defeat, Artigas crossed into Paraguay, where he lived in exile for the rest of his life, declining the opportunity to return even after Uruguayan independence; he is remembered as the founding figure of Uruguayan nationhood."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Cisplatine Province",
+      "system": "Annexed Province",
+      "start": 1821,
+      "end": 1825,
+      "description": "Following the defeat of Artigas, the Banda Oriental was annexed by Portuguese Brazil as the Cisplatine Province, a status maintained after Brazilian independence. Resentment over the annexation persisted among Orientals, leading to a renewed independence movement before the period's end.",
+      "leaders": [
+        {
+          "name": "John VI",
+          "wiki": "https://en.wikipedia.org/wiki/John_VI_of_Portugal",
+          "title": "King of Portugal, Brazil and the Algarves",
+          "start": 1821,
+          "end": 1822,
+          "events": [
+            {
+              "year": 1821,
+              "description": "A congress convened under Luso-Brazilian pressure voted to incorporate the Banda Oriental into the United Kingdom of Portugal, Brazil and the Algarves under the name Cisplatine Province, formalizing the annexation."
+            }
+          ]
+        },
+        {
+          "name": "Pedro I",
+          "wiki": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil",
+          "title": "Emperor of Brazil",
+          "start": 1822,
+          "end": 1825,
+          "events": [
+            {
+              "year": 1825,
+              "description": "A group of thirty-three exiled patriots known as the Treinta y Tres Orientales, led by Juan Antonio Lavalleja, landed in the province and proclaimed its independence from Brazil, igniting a new war of liberation with support from Buenos Aires."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Cisplatine War and Independence",
+      "system": "Provisional Government",
+      "start": 1825,
+      "end": 1830,
+      "description": "The renewed uprising against Brazilian rule escalated into a full war between the Empire of Brazil and the United Provinces of the Río de la Plata. Unable to resolve the conflict militarily, both sides accepted British mediation, which produced an independent buffer state and the country's first constitution.",
+      "leaders": [
+        {
+          "name": "Juan Antonio Lavalleja",
+          "wiki": "https://en.wikipedia.org/wiki/Juan_Antonio_Lavalleja",
+          "title": "Provisional Governor",
+          "start": 1825,
+          "end": 1828,
+          "events": [
+            {
+              "year": 1825,
+              "description": "A representative assembly meeting in Florida declared the independence of the province from Brazil and its union with the United Provinces of the Río de la Plata, escalating the conflict into open war between Brazil and Buenos Aires."
+            },
+            {
+              "year": 1828,
+              "description": "Exhausted by an inconclusive war, Brazil and the United Provinces accepted British mediation and signed the Preliminary Convention of Peace, which established the Banda Oriental as an independent state to serve as a buffer between the two larger powers."
+            }
+          ]
+        },
+        {
+          "name": "Constituent Assembly",
+          "wiki": "https://en.wikipedia.org/wiki/Uruguay",
+          "title": "Constituent Government",
+          "start": 1828,
+          "end": 1830,
+          "events": [
+            {
+              "year": 1830,
+              "description": "Uruguay's first constitution was promulgated, establishing a centralized unitary republic with a strong executive; the new state began its independent existence still deeply marked by the rival personal followings that had formed during the recent wars."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Early Republic and Civil Wars",
+      "system": "Unitary Presidential Republic",
+      "start": 1830,
+      "end": 1865,
+      "description": "The young republic's politics were dominated by the rivalry between two factions descended from the independence wars, which crystallized into the Colorado and Blanco parties. Recurring civil wars, foreign intervention, and a prolonged siege of the capital made the first decades of independence a period of chronic instability.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Formation of the Party System",
+          "system": "Unitary Presidential Republic",
+          "start": 1830,
+          "end": 1839,
+          "description": "Uruguay's first presidents came from the same circle of independence leaders, but personal and factional rivalries soon hardened into the two political identities that would dominate the country for over a century.",
+          "leaders": [
+            {
+              "name": "Fructuoso Rivera",
+              "wiki": "https://en.wikipedia.org/wiki/Fructuoso_Rivera",
+              "title": "President",
+              "start": 1830,
+              "end": 1834,
+              "events": [
+                {
+                  "year": 1830,
+                  "description": "Rivera became the republic's first constitutional president, leading a faction that would later be organized as the Colorado Party."
+                }
+              ]
+            },
+            {
+              "name": "Manuel Oribe",
+              "wiki": "https://en.wikipedia.org/wiki/Manuel_Oribe",
+              "title": "President",
+              "start": 1835,
+              "end": 1838,
+              "events": [
+                {
+                  "year": 1836,
+                  "description": "Supporters of Oribe began organizing under the symbol of a white badge, giving rise to the name 'Blanco' (White) Party, in opposition to Rivera's 'Colorado' (Red) faction; the rivalry between the two groups would shape Uruguayan politics for generations."
+                },
+                {
+                  "year": 1838,
+                  "description": "Rivera led an armed uprising that forced Oribe to resign the presidency and flee into exile in Argentina, where he allied with the Argentine federalist leader Juan Manuel de Rosas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Great War (Guerra Grande)",
+          "system": "Civil War / Divided Government",
+          "start": 1839,
+          "end": 1851,
+          "description": "A long civil war pitted the Colorado government, based in Montevideo and backed by Argentine and European allies, against Blanco forces under Oribe, allied with the Argentine ruler Rosas. The conflict included a famous multi-year siege of the capital and drew in foreign powers before ending in a negotiated peace.",
+          "leaders": [
+            {
+              "name": "Fructuoso Rivera",
+              "wiki": "https://en.wikipedia.org/wiki/Fructuoso_Rivera",
+              "title": "President",
+              "start": 1839,
+              "end": 1843,
+              "events": [
+                {
+                  "year": 1839,
+                  "description": "Rivera declared war on the Argentine federalist government of Rosas, who supported the exiled Oribe's claim to the Uruguayan presidency, beginning a civil war that would last over a decade."
+                }
+              ]
+            },
+            {
+              "name": "Manuel Oribe",
+              "wiki": "https://en.wikipedia.org/wiki/Manuel_Oribe",
+              "title": "Rival President (Cerrito Government)",
+              "start": 1843,
+              "end": 1851,
+              "events": [
+                {
+                  "year": 1843,
+                  "description": "Oribe's forces, with Rosas's backing, besieged Montevideo, beginning a siege that lasted nine years and became known as the 'Great Siege,' during which the city survived largely through naval support from Britain and France."
+                },
+                {
+                  "year": 1851,
+                  "description": "With Brazilian and Argentine anti-Rosas intervention, the siege of Montevideo was lifted and the warring factions signed a peace agreement, ending the Great War without a clear victor and leaving the Colorado-Blanco rivalry unresolved."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Postwar Instability",
+          "system": "Unitary Presidential Republic",
+          "start": 1851,
+          "end": 1865,
+          "description": "The peace that ended the Great War proved fragile, and the following years were marked by continued factional uprisings, short-lived governments, and growing entanglement in regional conflicts among Uruguay, Argentina, and Brazil.",
+          "leaders": [
+            {
+              "name": "Gabriel Antonio Pereira",
+              "wiki": "https://en.wikipedia.org/wiki/Gabriel_Antonio_Pereira",
+              "title": "President",
+              "start": 1856,
+              "end": 1860,
+              "events": [
+                {
+                  "year": 1858,
+                  "description": "Political tensions between Colorados and Blancos erupted into renewed armed clashes, illustrating the persistent fragility of the postwar settlement."
+                }
+              ]
+            },
+            {
+              "name": "Bernardo Berro",
+              "wiki": "https://en.wikipedia.org/wiki/Bernardo_Prudencio_Berro",
+              "title": "President",
+              "start": 1860,
+              "end": 1864,
+              "events": [
+                {
+                  "year": 1863,
+                  "description": "Colorado leader Venancio Flores launched an armed rebellion against the Blanco government with Argentine and Brazilian support, plunging the country back into civil war."
+                },
+                {
+                  "year": 1864,
+                  "description": "Brazilian forces intervened directly in the civil war on behalf of Flores, helping install him in power and providing one of the pretexts Paraguay cited for declaring war on Brazil shortly afterward."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paraguayan War Era and Caudillo Politics",
+      "system": "Unitary Presidential Republic",
+      "start": 1865,
+      "end": 1875,
+      "description": "Uruguay joined Argentina and Brazil in the Paraguayan War shortly after a change of government brought about by foreign intervention. The years following the war continued to be shaped by caudillo rivalries and weak civilian authority, setting the stage for a turn toward military-led government.",
+      "leaders": [
+        {
+          "name": "Venancio Flores",
+          "wiki": "https://en.wikipedia.org/wiki/Venancio_Flores",
+          "title": "President",
+          "start": 1865,
+          "end": 1868,
+          "events": [
+            {
+              "year": 1865,
+              "description": "Uruguay joined the Triple Alliance with Brazil and Argentina against Paraguay, contributing troops to what became the largest and bloodiest interstate war in South American history."
+            },
+            {
+              "year": 1868,
+              "description": "Flores was assassinated in Montevideo on the same day former president Pereira was also killed, an episode of political violence that underscored the continued volatility of Uruguayan politics."
+            }
+          ]
+        },
+        {
+          "name": "Lorenzo Batlle",
+          "wiki": "https://en.wikipedia.org/wiki/Lorenzo_Batlle",
+          "title": "President",
+          "start": 1868,
+          "end": 1872,
+          "events": [
+            {
+              "year": 1870,
+              "description": "A Blanco-led revolution attempted to overthrow the Colorado government; the resulting conflict ended in a power-sharing arrangement that gave the Blanco Party formal participation in regional administration, an early precedent for negotiated coexistence between the two parties."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Militarism",
+      "system": "Military-Backed Presidential Government",
+      "start": 1875,
+      "end": 1890,
+      "description": "Amid continued instability, a series of strong military figures took direct control of the government, curbing caudillo warfare through centralized authority while promoting economic modernization, infrastructure investment, and the gradual professionalization of the state and armed forces.",
+      "leaders": [
+        {
+          "name": "Lorenzo Latorre",
+          "wiki": "https://en.wikipedia.org/wiki/Lorenzo_Latorre",
+          "title": "Dictator / President",
+          "start": 1876,
+          "end": 1880,
+          "events": [
+            {
+              "year": 1876,
+              "description": "Colonel Lorenzo Latorre seized power and ruled as a dictator, suppressing armed factionalism through force while promoting railway construction, barbed-wire fencing of rural land, and administrative centralization that modernized the rural economy."
+            }
+          ]
+        },
+        {
+          "name": "Máximo Santos",
+          "wiki": "https://en.wikipedia.org/wiki/M%C3%A1ximo_Santos",
+          "title": "President",
+          "start": 1882,
+          "end": 1886,
+          "events": [
+            {
+              "year": 1886,
+              "description": "Santos survived an assassination attempt but resigned shortly afterward amid growing opposition to his authoritarian rule, continuing a pattern in which military strongmen struggled to establish lasting civilian legitimacy."
+            }
+          ]
+        },
+        {
+          "name": "Máximo Tajes",
+          "wiki": "https://en.wikipedia.org/wiki/M%C3%A1ximo_Tajes",
+          "title": "President",
+          "start": 1886,
+          "end": 1890,
+          "events": [
+            {
+              "year": 1890,
+              "description": "Tajes oversaw a transition toward civilian rule, allowing competitive elections within the political class for the first time in over a decade, even though armed Colorado-Blanco rivalry had not been fully resolved."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Civilista Period and the Last Civil War",
+      "system": "Unitary Presidential Republic",
+      "start": 1890,
+      "end": 1903,
+      "description": "Civilian politicians returned to the presidency, but the underlying Colorado-Blanco rivalry persisted and erupted into the country's last major civil war. The death of the principal Blanco military leader brought an end to large-scale armed conflict between the parties.",
+      "leaders": [
+        {
+          "name": "Julio Herrera y Obes",
+          "wiki": "https://en.wikipedia.org/wiki/Julio_Herrera_y_Obes",
+          "title": "President",
+          "start": 1890,
+          "end": 1894,
+          "events": [
+            {
+              "year": 1890,
+              "description": "Herrera y Obes became the first civilian president elected under the restored constitutional process since the onset of militarism, though Colorado dominance of the state continued to fuel Blanco grievances."
+            }
+          ]
+        },
+        {
+          "name": "Juan Idiarte Borda",
+          "wiki": "https://en.wikipedia.org/wiki/Juan_Idiarte_Borda",
+          "title": "President",
+          "start": 1894,
+          "end": 1897,
+          "events": [
+            {
+              "year": 1897,
+              "description": "Idiarte Borda was assassinated in Montevideo amid a Blanco-led armed uprising led by Aparicio Saravia, prompting a political crisis that was resolved through a pact granting the Blanco Party administrative control over several departments."
+            }
+          ]
+        },
+        {
+          "name": "Juan Lindolfo Cuestas",
+          "wiki": "https://en.wikipedia.org/wiki/Juan_Lindolfo_Cuestas",
+          "title": "President",
+          "start": 1897,
+          "end": 1903,
+          "events": [
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Batllismo and the Modern State",
+      "system": "Unitary Presidential / Collegiate Republic",
+      "start": 1903,
+      "end": 1933,
+      "description": "Under the leadership of José Batlle y Ordóñez and his political successors, Uruguay built an extensive welfare state, secularized public institutions, and expanded state participation in the economy, earning a reputation as one of the most socially advanced and politically stable countries in Latin America.",
+      "leaders": [
+        {
+          "name": "José Batlle y Ordóñez",
+          "wiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Batlle_y_Ord%C3%B3%C3%B1ez",
+          "title": "President",
+          "start": 1903,
+          "end": 1907,
+          "events": [
+            {
+              "year": 1904,
+              "description": "Aparicio Saravia led a final large-scale Blanco rural uprising against the Colorado government; his death in battle later that year effectively ended organized armed conflict between the traditional parties and cleared the way for peaceful political competition."
+            },
+            {
+              "year": 1904,
+              "description": "Batlle's government defeated the last major Blanco rural rebellion, consolidating Colorado dominance while subsequently incorporating reformist social policies that broadened his political support beyond traditional party lines."
+            }
+          ]
+        },
+        {
+          "name": "Claudio Williman",
+          "wiki": "https://en.wikipedia.org/wiki/Claudio_Williman",
+          "title": "President",
+          "start": 1907,
+          "end": 1911,
+          "events": [
+            {
+              "year": 1909,
+              "description": "Public education was reorganized and secularized, removing religious instruction from state schools as part of a broader separation of church and state."
+            }
+          ]
+        },
+        {
+          "name": "José Batlle y Ordóñez",
+          "wiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Batlle_y_Ord%C3%B3%C3%B1ez",
+          "title": "President",
+          "start": 1911,
+          "end": 1915,
+          "events": [
+            {
+              "year": 1912,
+              "description": "The government nationalized the state mortgage bank and expanded state enterprises, part of a broader program of creating public companies in insurance, electricity, and other strategic sectors to reduce dependence on foreign capital."
+            },
+            {
+              "year": 1913,
+              "description": "Divorce was legalized at the wife's request, one of several socially progressive reforms that distinguished Uruguay from its regional neighbors during this period."
+            }
+          ]
+        },
+        {
+          "name": "Feliciano Viera",
+          "wiki": "https://en.wikipedia.org/wiki/Feliciano_Viera",
+          "title": "President",
+          "start": 1915,
+          "end": 1919,
+          "events": [
+            {
+              "year": 1917,
+              "description": "A new constitution formally separated church and state and introduced a partial collegiate executive, dividing certain administrative powers between the president and a National Administrative Council as a check on presidential authority."
+            }
+          ]
+        },
+        {
+          "name": "Various Presidents",
+          "wiki": "https://en.wikipedia.org/wiki/List_of_heads_of_state_of_Uruguay",
+          "title": "President",
+          "start": 1919,
+          "end": 1933,
+          "events": [
+            {
+              "year": 1919,
+              "description": "Eight-hour workdays, pensions, and other labor protections enacted in preceding years were consolidated, cementing Uruguay's early welfare state and its reputation as the 'Switzerland of South America.'"
+            },
+            {
+              "year": 1930,
+              "description": "Uruguay hosted and won the first FIFA World Cup, a source of national pride that coincided with the centennial celebrations of the country's independence and reflected the prosperity of the period."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Terra Dictatorship",
+      "system": "Authoritarian Presidential Government",
+      "start": 1933,
+      "end": 1938,
+      "description": "Amid the economic strains of the Great Depression, President Gabriel Terra dissolved the constitutional government in a self-coup and ruled through a new constitution that eliminated the collegiate executive and concentrated power, before gradually restoring more conventional civilian politics.",
+      "leaders": [
+        {
+          "name": "Gabriel Terra",
+          "wiki": "https://en.wikipedia.org/wiki/Gabriel_Terra",
+          "title": "President",
+          "start": 1931,
+          "end": 1938,
+          "events": [
+            {
+              "year": 1933,
+              "description": "Terra, with military backing, dissolved Congress and suspended the constitution in a self-coup, citing the need for stronger executive authority to manage the economic crisis of the Great Depression."
+            },
+            {
+              "year": 1934,
+              "description": "A new constitution was approved that abolished the partial collegiate executive established in 1917, restoring full presidential authority and legitimizing Terra's expanded powers."
+            },
+            {
+              "year": 1938,
+              "description": "Terra oversaw a transition back to open elections, leaving office peacefully and easing the country's return to more competitive constitutional politics."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Neobatllista Period",
+      "system": "Unitary Presidential / Collegiate Republic",
+      "start": 1938,
+      "end": 1959,
+      "description": "Uruguay returned to stable constitutional government and experienced renewed economic growth, in part fueled by demand for its agricultural exports during and after the Second World War. The period reinforced the country's welfare-state model and democratic institutions, though it also saw early signs of the fiscal strain that would surface in the following decades.",
+      "leaders": [
+        {
+          "name": "Alfredo Baldomir",
+          "wiki": "https://en.wikipedia.org/wiki/Alfredo_Baldomir",
+          "title": "President",
+          "start": 1938,
+          "end": 1943,
+          "events": [
+            {
+              "year": 1942,
+              "description": "Baldomir dissolved Congress with military support to remove entrenched pro-Terra legislators, then promulgated a new democratic constitution that restored the collegiate executive in modified form and strengthened parliamentary checks."
+            }
+          ]
+        },
+        {
+          "name": "Juan José de Amézaga",
+          "wiki": "https://en.wikipedia.org/wiki/Juan_Jos%C3%A9_de_Am%C3%A9zaga",
+          "title": "President",
+          "start": 1943,
+          "end": 1947,
+          "events": [
+            {
+              "year": 1945,
+              "description": "Wartime demand for Uruguay's meat and wool exports brought a period of strong economic growth and fiscal surplus, allowing further expansion of social welfare programs."
+            }
+          ]
+        },
+        {
+          "name": "Andrés Martínez Trueba",
+          "wiki": "https://en.wikipedia.org/wiki/Andr%C3%A9s_Mart%C3%ADnez_Trueba",
+          "title": "President",
+          "start": 1951,
+          "end": 1955,
+          "events": [
+            {
+              "year": 1952,
+              "description": "A constitutional reform abolished the single presidency altogether and replaced it with a nine-member National Government Council, reviving the full collegiate executive model in an attempt to prevent excessive concentration of power."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Economic Decline and Political Crisis",
+      "system": "Collegiate / Unitary Presidential Republic",
+      "start": 1959,
+      "end": 1973,
+      "description": "Falling commodity prices and the exhaustion of the import-substitution model brought chronic economic stagnation and inflation, fueling social unrest and the emergence of an urban guerrilla movement. The government responded with growing use of emergency powers, progressively eroding democratic norms in the years leading up to the military takeover.",
+      "leaders": [
+        {
+          "name": "National Government Council",
+          "wiki": "https://en.wikipedia.org/wiki/Uruguay",
+          "title": "Collegiate Executive",
+          "start": 1959,
+          "end": 1967,
+          "events": [
+            {
+              "year": 1962,
+              "description": "The Tupamaros, an urban guerrilla organization advocating armed revolution, began carrying out robberies and political actions, gradually escalating into a sustained insurgency against the state through the following decade."
+            },
+            {
+              "year": 1966,
+              "description": "A constitutional referendum abolished the collegiate executive for the second and final time, restoring a single president as head of government amid widespread frustration with the council system's perceived inefficiency."
+            }
+          ]
+        },
+        {
+          "name": "Jorge Pacheco Areco",
+          "wiki": "https://en.wikipedia.org/wiki/Jorge_Pacheco_Areco",
+          "title": "President",
+          "start": 1967,
+          "end": 1972,
+          "events": [
+            {
+              "year": 1968,
+              "description": "Pacheco Areco declared a state of emergency that suspended civil liberties amid labor unrest and Tupamaro attacks, marking a significant expansion of executive emergency powers used to confront escalating unrest."
+            },
+            {
+              "year": 1971,
+              "description": "The military was granted an increasingly central role in combating the Tupamaro insurgency, a shift that steadily expanded the armed forces' influence over internal security policy."
+            }
+          ]
+        },
+        {
+          "name": "Juan María Bordaberry",
+          "wiki": "https://en.wikipedia.org/wiki/Juan_Mar%C3%ADa_Bordaberry",
+          "title": "President",
+          "start": 1972,
+          "end": 1973,
+          "events": [
+            {
+              "year": 1972,
+              "description": "A large-scale military campaign effectively dismantled the Tupamaro movement through mass arrests, but the armed forces emerged from the campaign with substantially greater political power and autonomy from civilian authority."
+            },
+            {
+              "year": 1973,
+              "description": "Bordaberry, with military support, dissolved Congress and replaced it with a Council of State, completing the process by which the armed forces displaced civilian institutions and began direct rule."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Civic-Military Dictatorship",
+      "system": "Military Authoritarian Government",
+      "start": 1973,
+      "end": 1985,
+      "description": "The armed forces ruled Uruguay for twelve years, banning political parties, censoring the press, and operating a systematic apparatus of arbitrary detention and torture against the political opposition. The regime faced growing domestic and international pressure and eventually negotiated a transition back to civilian government.",
+      "leaders": [
+        {
+          "name": "Juan María Bordaberry",
+          "wiki": "https://en.wikipedia.org/wiki/Juan_Mar%C3%ADa_Bordaberry",
+          "title": "President (under military authority)",
+          "start": 1973,
+          "end": 1976,
+          "events": [
+            {
+              "year": 1973,
+              "description": "Political parties were banned, the legislature remained dissolved, and a campaign of mass arrests targeted suspected leftists and trade unionists, giving Uruguay one of the highest per-capita rates of political imprisonment in the world during this period."
+            },
+            {
+              "year": 1976,
+              "description": "The military removed Bordaberry from the presidency after he proposed eliminating political parties outright, replacing him with a civilian figurehead while retaining full control over government policy."
+            }
+          ]
+        },
+        {
+          "name": "Aparicio Méndez",
+          "wiki": "https://en.wikipedia.org/wiki/Aparicio_M%C3%A9ndez",
+          "title": "President (under military authority)",
+          "start": 1976,
+          "end": 1981,
+          "events": [
+            {
+              "year": 1980,
+              "description": "The military government submitted a draft constitution to a national plebiscite intended to legitimize continued military involvement in government, but voters rejected it, marking an unexpected setback for the regime and accelerating pressure for transition."
+            }
+          ]
+        },
+        {
+          "name": "Gregorio Álvarez",
+          "wiki": "https://en.wikipedia.org/wiki/Gregorio_%C3%81lvarez",
+          "title": "President",
+          "start": 1981,
+          "end": 1985,
+          "events": [
+            {
+              "year": 1983,
+              "description": "Mass demonstrations demanding a return to democracy, including a large public rally in Montevideo, signaled the weakening grip of the military government amid economic difficulties and sustained civic pressure."
+            },
+            {
+              "year": 1984,
+              "description": "The Naval Club Pact, negotiated between the military and the main civilian political parties, set the terms for a return to elected government, including the holding of general elections later that year."
+            },
+            {
+              "year": 1985,
+              "description": "Civilian rule was restored when Julio María Sanguinetti was inaugurated as president following elections held under the terms of the Naval Club Pact, ending twelve years of military government."
+            }
+          ]
+        }
+      ],
+      "subperiods": []
+    },
+    {
+      "name": "Democratic Restoration (Uruguay since 1985)",
+      "system": "Unitary Presidential Republic",
+      "start": 1985,
+      "end": null,
+      "description": "Uruguay's ongoing democratic period has been marked by the consolidation of constitutional government, a gradual reckoning with the human rights legacy of the dictatorship, and the rise of a third major political force alongside the traditional Colorado and Blanco parties. The period has included economic crises, redistributive reforms, and broad social liberalization.",
+      "leaders": [],
+      "subperiods": [
+        {
+          "name": "Transition and Traditional Party Government",
+          "system": "Unitary Presidential Republic",
+          "start": 1985,
+          "end": 2005,
+          "description": "The first two decades of restored democracy were governed by the historically dominant Colorado and Blanco parties, who managed the legacy of dictatorship-era human rights violations and navigated regional economic instability, including a severe banking crisis.",
+          "leaders": [
+            {
+              "name": "Julio María Sanguinetti",
+              "wiki": "https://en.wikipedia.org/wiki/Julio_Mar%C3%ADa_Sanguinetti",
+              "title": "President",
+              "start": 1985,
+              "end": 1990,
+              "events": [
+                {
+                  "year": 1986,
+                  "description": "Congress passed an amnesty law granting immunity to military and police personnel for human rights violations committed during the dictatorship, a controversial measure later upheld in a 1989 referendum and contested for decades afterward."
+                }
+              ]
+            },
+            {
+              "name": "Luis Alberto Lacalle",
+              "wiki": "https://en.wikipedia.org/wiki/Luis_Alberto_Lacalle",
+              "title": "President",
+              "start": 1990,
+              "end": 1995,
+              "events": [
+                {
+                  "year": 1991,
+                  "description": "Uruguay became a founding member of Mercosur, the South American customs union with Argentina, Brazil, and Paraguay, deepening regional economic integration."
+                }
+              ]
+            },
+            {
+              "name": "Jorge Batlle",
+              "wiki": "https://en.wikipedia.org/wiki/Jorge_Batlle",
+              "title": "President",
+              "start": 2000,
+              "end": 2005,
+              "events": [
+                {
+                  "year": 2002,
+                  "description": "A severe banking crisis, triggered largely by the collapse of the Argentine economy and a run on Uruguayan banks holding Argentine deposits, forced a debt restructuring and emergency financial support from international lenders."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Frente Amplio Governments",
+          "system": "Unitary Presidential Republic",
+          "start": 2005,
+          "end": 2020,
+          "description": "The left-wing Frente Amplio coalition won the presidency for the first time, ending nearly two centuries of alternation between the Colorado and Blanco parties. Its fifteen years in office combined continued economic growth with expansive social legislation that made Uruguay a regional leader on civil liberties.",
+          "leaders": [
+            {
+              "name": "Tabaré Vázquez",
+              "wiki": "https://en.wikipedia.org/wiki/Tabar%C3%A9_V%C3%A1zquez",
+              "title": "President",
+              "start": 2005,
+              "end": 2010,
+              "events": [
+                {
+                  "year": 2005,
+                  "description": "Vázquez's inauguration marked the first time the Frente Amplio coalition held the presidency, ending the historic dominance of the Colorado and Blanco parties since independence."
+                },
+                {
+                  "year": 2008,
+                  "description": "Legislation expanding access to abortion and establishing civil unions for same-sex couples advanced as part of a broader liberalization of social policy under the new governing coalition."
+                }
+              ]
+            },
+            {
+              "name": "José Mujica",
+              "wiki": "https://en.wikipedia.org/wiki/Jos%C3%A9_Mujica",
+              "title": "President",
+              "start": 2010,
+              "end": 2015,
+              "events": [
+                {
+                  "year": 2012,
+                  "description": "Uruguay legalized abortion under broad conditions, becoming one of the few Latin American countries to do so at the time."
+                },
+                {
+                  "year": 2013,
+                  "description": "Uruguay legalized same-sex marriage and became the first country in the world to fully legalize and regulate the production and sale of cannabis, attracting international attention for its socially liberal reforms."
+                }
+              ]
+            },
+            {
+              "name": "Tabaré Vázquez",
+              "wiki": "https://en.wikipedia.org/wiki/Tabar%C3%A9_V%C3%A1zquez",
+              "title": "President",
+              "start": 2015,
+              "end": 2020,
+              "events": [
+                {
+                  "year": 2018,
+                  "description": "Uruguay continued to register some of the lowest levels of inequality and highest levels of press freedom and rule-of-law indicators in Latin America, consolidating its reputation as one of the region's most stable democracies."
+                }
+              ]
+            }
+          ]
+        },
+        {
+  "name": "National Coalition Government",
+  "system": "Unitary Presidential Republic",
+  "start": 2020,
+  "end": 2025,
+  "description": "A multiparty coalition led by the National Party returned to government after fifteen years of Frente Amplio rule. The administration governed through the COVID-19 pandemic, implemented economic and security reforms, and maintained Uruguay's reputation for institutional stability.",
+  "leaders": [
+    {
+      "name": "Luis Lacalle Pou",
+      "wiki": "https://en.wikipedia.org/wiki/Luis_Lacalle_Pou",
+      "title": "President",
+      "start": 2020,
+      "end": 2025,
+      "events": [
+        {
+          "year": 2020,
+          "description": "Lacalle Pou took office at the beginning of the COVID-19 pandemic; Uruguay's initial response attracted international attention for its relatively low mortality rates and reliance on voluntary public-health measures."
+        }
+      ]
+    }
+  ]
+},
+{
+  "name": "Second Frente Amplio Period",
+  "system": "Unitary Presidential Republic",
+  "start": 2025,
+  "end": null,
+  "description": "The Frente Amplio returned to government after a single term in opposition, demonstrating the continued competitiveness and stability of Uruguay's democratic system. The new administration inherited a stable political framework while facing challenges related to economic growth, public security, and social policy.",
+  "leaders": [
+    {
+      "name": "Yamandú Orsi",
+      "wiki": "https://en.wikipedia.org/wiki/Yamand%C3%BA_Orsi",
+      "title": "President",
+      "start": 2025,
+      "end": null,
+      "events": [
+        {
+          "year": 2024,
+          "description": "Orsi won the presidential election as the candidate of the Frente Amplio, returning the coalition to power after five years in opposition."
+        },
+        {
+          "year": 2025,
+          "description": "Orsi was inaugurated as president, beginning a new Frente Amplio administration and marking another peaceful transfer of power between Uruguay's major political forces."
+        }
+      ]
+    }
+  ]
+}
+      ]
+    }
+  ]
+}
