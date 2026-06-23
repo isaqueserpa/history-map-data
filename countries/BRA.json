@@ -23,11 +23,11 @@
               "events": [
                 {
                   "year": 1500,
-                  "description": "In this first phase, the Portuguese limited their presence to coastal trading posts, exchanging goods for brazilwood with Indigenous peoples rather than establishing permanent settlements."
+                  "description": "The Portuguese fleet commanded by Pedro Álvares Cabral landed on the Brazilian coast and claimed the territory for the Portuguese Crown, initiating first contact with Indigenous populations."
                 },
                 {
                   "year": 1500,
-                  "description": "The Portuguese fleet commanded by Pedro Álvares Cabral landed on the Brazilian coast and claimed the territory for the Portuguese Crown, initiating first contact with Indigenous populations."
+                  "description": "In this first phase, the Portuguese limited their presence to coastal trading posts, exchanging goods for brazilwood with Indigenous peoples rather than establishing permanent settlements."
                 }
               ]
             },
@@ -40,7 +40,7 @@
               "events": [
                 {
                   "year": 1530,
-                  "description": "Portugal dispatched its first colonization expedition, led by Martim Afonso de Sousa, to establish permanent settlements and assert territorial control against French incursions."
+                  "description": "Concerned by French incursions along the coast and the lack of permanent Portuguese presence, John III dispatched the first colonization expedition, led by Martim Afonso de Sousa, to establish permanent settlements and assert territorial control."
                 }
               ]
             }
@@ -86,7 +86,7 @@
               "events": [
                 {
                   "year": 1549,
-                  "description": "Portugal replaced the captaincy system with a centralized royal government, founding Salvador as the colonial capital."
+                  "description": "Recognizing the failure of the captaincy system, Portugal replaced it with a centralized royal government, founding Salvador as the colonial capital and appointing Tomé de Sousa as the first Governor-General."
                 },
                 {
                   "year": 1549,
@@ -124,7 +124,7 @@
                 },
                 {
                   "year": 1654,
-                  "description": "Dutch forces were definitively expelled from northeastern Brazil, restoring full Portuguese control over the sugar-producing region after decades of occupation."
+                  "description": "Dutch forces, who had occupied much of the sugar-producing northeast since the 1630s, were definitively expelled from northeastern Brazil, restoring full Portuguese control over the region."
                 }
               ]
             },
@@ -141,7 +141,7 @@
                 },
                 {
                   "year": 1759,
-                  "description": "The Marquis of Pombal expelled the Jesuit order from all Portuguese territories, removing the missionaries who had administered large portions of the Indigenous population."
+                  "description": "The Marquis of Pombal, Joseph I's powerful chief minister, expelled the Jesuit order from all Portuguese territories, removing the missionaries who had administered large portions of the Indigenous population."
                 },
                 {
                   "year": 1763,
@@ -162,7 +162,7 @@
                 },
                 {
                   "year": 1792,
-                  "description": "The conspiracy was suppressed and its main leader, Tiradentes, was executed."
+                  "description": "The conspiracy was suppressed and its main leader, Tiradentes, was executed — becoming a martyr figure for later generations of Brazilian nationalists."
                 },
                 {
                   "year": 1808,
@@ -198,11 +198,7 @@
             },
             {
               "year": 1820,
-              "description": "A liberal revolution in Portugal demanded the king's return to Lisbon and sought to draft a constitution."
-            },
-            {
-              "year": 1820,
-              "description": "The same Portuguese revolution also aimed to re-subordinate Brazil as a colony, removing the institutions created since 1808."
+              "description": "A liberal revolution in Portugal demanded the king's return to Lisbon and sought to draft a constitution, while simultaneously aiming to re-subordinate Brazil as a colony by dismantling the institutions created since 1808."
             },
             {
               "year": 1821,
@@ -273,6 +269,40 @@
           "end": 1840,
           "leaders": [
             {
+              "name": "Regência Trina Provisória",
+              "wiki": "https://en.wikipedia.org/wiki/Regency_of_Brazil",
+              "title": "Provisional Three-Person Regency",
+              "start": 1831,
+              "end": 1831,
+              "events": [
+                {
+                  "year": 1831,
+                  "description": "Com a abdicação de Pedro I, o Brasil ficou sem um monarca adulto no trono. Uma regência trina provisória composta por Francisco de Lima e Silva, José Joaquim Carneiro de Campos e João Bráulio Muniz assumiu o governo interinamente até que uma regência permanente pudesse ser eleita pelo parlamento."
+                }
+              ]
+            },
+            {
+              "name": "Regência Trina Permanente",
+              "wiki": "https://en.wikipedia.org/wiki/Regency_of_Brazil",
+              "title": "Permanent Three-Person Regency",
+              "start": 1831,
+              "end": 1835,
+              "events": [
+                {
+                  "year": 1831,
+                  "description": "A Assembleia Geral elegeu uma regência trina permanente — composta inicialmente por João Bráulio Muniz, José da Costa Carvalho e Francisco de Lima e Silva — para governar em nome do jovem Pedro II durante sua menoridade."
+                },
+                {
+                  "year": 1832,
+                  "description": "O Ato Adicional de 1834 descentralizou o poder, criando assembleias legislativas provinciais e transformando a regência trina em una, eleita diretamente pelo povo — uma das maiores reformas constitucionais do período imperial."
+                },
+                {
+                  "year": 1835,
+                  "description": "O período foi marcado por instabilidade política severa: revoltas regionais explodiram em várias províncias, evidenciando a fragilidade do governo central sem um imperador adulto."
+                }
+              ]
+            },
+            {
               "name": "Diogo Antônio Feijó",
               "wiki": "https://en.wikipedia.org/wiki/Diogo_Ant%C3%B4nio_Feij%C3%B3",
               "title": "Regent",
@@ -281,32 +311,32 @@
               "events": [
                 {
                   "year": 1835,
-                  "description": "Without an adult emperor, Brazil was governed by elected regents while liberals and conservatives debated how much power should rest with the central government versus the provinces."
+                  "description": "Feijó tornou-se o primeiro regente uno eleito pelo voto popular, mas assumiu um país em crise: a Cabanagem irrompeu no Pará e no Amazonas, liderada por populações indígenas e mestiças empobrecidas — uma das revoltas mais sangrentas da história brasileira."
                 },
                 {
                   "year": 1835,
-                  "description": "The Cabanagem revolt erupted in the Amazon region, led by impoverished mixed-race and Indigenous peoples against local elites; it became one of the bloodiest uprisings in Brazilian history."
+                  "description": "No mesmo ano, eclodiu a Guerra dos Farrapos no Rio Grande do Sul, onde estancieiros e republicanos liberais lutavam por maior autonomia e redução de impostos sobre produtos pecuários; o conflito se estenderia por uma década."
                 },
                 {
-                  "year": 1835,
-                  "description": "The Ragamuffin War began in Rio Grande do Sul, where cattle ranchers and liberal republicans fought for greater autonomy and lower taxes on cattle products; the conflict lasted a decade."
+                  "year": 1837,
+                  "description": "Sem conseguir estabilizar o país e enfrentando forte oposição parlamentar, Feijó renunciou ao cargo de regente."
                 }
               ]
             },
             {
               "name": "Pedro de Araújo Lima",
-              "wiki": "https://en.wikipedia.org/wiki/Pedro_de_Araújo_Lima,_Marquis_of_Olinda",
+              "wiki": "https://en.wikipedia.org/wiki/Pedro_de_Ara%C3%BAjo_Lima,_Marquis_of_Olinda",
               "title": "Regent",
               "start": 1837,
               "end": 1840,
               "events": [
                 {
                   "year": 1838,
-                  "description": "The Balaiada revolt broke out in Maranhão, a social uprising of the poor, escaped enslaved people, and deserters against local oligarchies."
+                  "description": "A Balaiada eclodiu no Maranhão, uma revolta social de pobres, escravizados fugidos e desertores contra as oligarquias locais, revelando a profundidade das tensões sociais acumuladas durante a regência."
                 },
                 {
                   "year": 1840,
-                  "description": "Parliament declared fourteen-year-old Pedro II of legal age to assume the throne, a political maneuver to stabilize the country and end the instability of the regency."
+                  "description": "Diante da escalada de revoltas e da instabilidade persistente, o parlamento declarou o jovem Pedro II, então com catorze anos, legalmente maior de idade para assumir o trono — uma manobra política para encerrar o período de regência e restaurar a autoridade central do Império."
                 }
               ]
             }
@@ -335,15 +365,15 @@
                 },
                 {
                   "year": 1870,
-                  "description": "The war resulted in the deaths of a large proportion of Paraguay's population, while the Brazilian military emerged strengthened and politically assertive."
+                  "description": "The war ended with devastating losses for Paraguay and a strengthened, politically assertive Brazilian military — a force that would increasingly challenge civilian authority in the years ahead."
                 },
                 {
                   "year": 1871,
-                  "description": "The Law of the Free Womb declared that children born to enslaved mothers would be free, marking the beginning of a gradual legal process of abolition."
+                  "description": "The Law of the Free Womb declared that children born to enslaved mothers would be free, marking the beginning of a gradual legal process toward abolition."
                 },
                 {
                   "year": 1888,
-                  "description": "Princess Imperial Isabel signed the Golden Law, immediately abolishing slavery without compensation to slaveholders."
+                  "description": "Princess Imperial Isabel signed the Golden Law, immediately abolishing slavery without compensation to slaveholders — the last country in the Western Hemisphere to do so."
                 },
                 {
                   "year": 1888,
@@ -351,7 +381,7 @@
                 },
                 {
                   "year": 1889,
-                  "description": "A military coup led by Marshal Deodoro da Fonseca overthrew Pedro II and proclaimed a republic; the emperor chose not to resist and was exiled to Europe."
+                  "description": "A military coup led by Marshal Deodoro da Fonseca overthrew Pedro II and proclaimed a republic; the emperor chose not to resist and was exiled to Europe, ending sixty-seven years of imperial rule."
                 }
               ]
             }
@@ -390,7 +420,7 @@
                 },
                 {
                   "year": 1891,
-                  "description": "Deodoro da Fonseca resigned amid a political and constitutional crisis and was succeeded by his vice president, Floriano Peixoto."
+                  "description": "Deodoro da Fonseca dissolved Congress in an attempt to govern by decree, triggering a constitutional crisis that forced him to resign; his vice president, Floriano Peixoto, assumed the presidency."
                 }
               ]
             },
@@ -403,7 +433,7 @@
               "events": [
                 {
                   "year": 1893,
-                  "description": "A naval revolt and a concurrent Federalist Revolution in the south challenged Peixoto's government; both were suppressed at significant human cost, consolidating the military republic."
+                  "description": "A naval revolt and a concurrent Federalist Revolution in the south challenged Peixoto's government; both were suppressed at significant human cost, consolidating the military republic and paving the way for a transition to civilian rule."
                 }
               ]
             }
@@ -432,7 +462,24 @@
                 },
                 {
                   "year": 1897,
-                  "description": "After three military expeditions were repelled, a fourth destroyed the settlement and massacred its population, leaving around 25,000 dead."
+                  "description": "After three military expeditions were repelled, a fourth destroyed the settlement and massacred its population, leaving around 25,000 dead — an episode that exposed the brutal face of the new republic to writers and intellectuals."
+                }
+              ]
+            },
+            {
+              "name": "Campos Sales",
+              "wiki": "https://en.wikipedia.org/wiki/Campos_Sales",
+              "title": "President",
+              "start": 1898,
+              "end": 1902,
+              "events": [
+                {
+                  "year": 1898,
+                  "description": "Campos Sales formalized the 'política dos governadores,' a system of mutual support between the federal government and state oligarchies that guaranteed electoral results and consolidated the power of regional elites at the expense of broader political participation."
+                },
+                {
+                  "year": 1898,
+                  "description": "Diante de grave crise financeira herdada do governo anterior, Campos Sales negociou um empréstimo de consolidação com banqueiros britânicos liderados pelo banco Rothschild, comprometendo receitas aduaneiras e impondo severo ajuste fiscal ao país."
                 }
               ]
             },
@@ -449,7 +496,28 @@
                 },
                 {
                   "year": 1904,
-                  "description": "The government suspended the vaccination decree to end the unrest."
+                  "description": "The government suspended the vaccination decree to end the unrest, though the broader urban reform program that had displaced thousands from the city center continued."
+                }
+              ]
+            },
+            {
+              "name": "Afonso Pena",
+              "wiki": "https://en.wikipedia.org/wiki/Afonso_Pena",
+              "title": "President",
+              "start": 1906,
+              "end": 1909,
+              "events": []
+            },
+            {
+              "name": "Nilo Peçanha",
+              "wiki": "https://en.wikipedia.org/wiki/Nilo_Pe%C3%A7anha",
+              "title": "President",
+              "start": 1909,
+              "end": 1910,
+              "events": [
+                {
+                  "year": 1909,
+                  "description": "Nilo Peçanha assumiu a presidência após a morte de Afonso Pena, tornando-se o primeiro presidente negro do Brasil — fato amplamente silenciado pela historiografia oficial por décadas. Seu governo foi de transição, mas consolidou a fundação do Serviço de Proteção ao Índio (SPI) em 1910."
                 }
               ]
             },
@@ -466,7 +534,7 @@
                 },
                 {
                   "year": 1910,
-                  "description": "The government agreed to end flogging but later punished many of the mutineers regardless."
+                  "description": "The government agreed to end flogging to defuse the revolt but subsequently arrested, killed, or deported many of the mutineers, demonstrating the limits of the republic's tolerance for dissent from the lower ranks."
                 }
               ]
             },
@@ -484,6 +552,19 @@
               ]
             },
             {
+              "name": "Delfim Moreira",
+              "wiki": "https://en.wikipedia.org/wiki/Delfim_Moreira",
+              "title": "President",
+              "start": 1918,
+              "end": 1919,
+              "events": [
+                {
+                  "year": 1918,
+                  "description": "Delfim Moreira assumiu a presidência após a morte de Francisco de Paula Rodrigues Alves, eleito mas impedido de tomar posse por doença. Seu breve governo foi marcado pelo fim da Primeira Guerra Mundial e pelos impactos da gripe espanhola no Brasil, que matou dezenas de milhares de pessoas."
+                }
+              ]
+            },
+            {
               "name": "Epitácio Pessoa",
               "wiki": "https://en.wikipedia.org/wiki/Epit%C3%A1cio_Pessoa",
               "title": "President",
@@ -496,7 +577,24 @@
                 },
                 {
                   "year": 1922,
-                  "description": "Junior military officers attempted a rebellion at the Copacabana Fort in Rio de Janeiro, one of a series of uprisings reflecting the armed forces' growing opposition to oligarchic rule."
+                  "description": "In the same year, junior military officers attempted a rebellion at the Copacabana Fort in Rio de Janeiro — one of a series of tenentista uprisings reflecting the armed forces' growing opposition to oligarchic rule."
+                }
+              ]
+            },
+            {
+              "name": "Artur Bernardes",
+              "wiki": "https://en.wikipedia.org/wiki/Artur_Bernardes",
+              "title": "President",
+              "start": 1922,
+              "end": 1926,
+              "events": [
+                {
+                  "year": 1924,
+                  "description": "Uma nova revolta tenentista eclodiu em São Paulo e no sul do país. O movimento de 1924 foi o maior levante militar até então contra a oligarquia, e parte dos rebeldes formou a famosa Coluna Prestes, que percorreu o interior do Brasil por quase três anos tentando mobilizar a população contra o governo."
+                },
+                {
+                  "year": 1926,
+                  "description": "Bernardes governou durante todo o mandato sob estado de sítio, uma medida excepcional que revelava a fragilidade do regime oligárquico diante da crescente insatisfação militar e das camadas médias urbanas."
                 }
               ]
             },
@@ -513,11 +611,11 @@
                 },
                 {
                   "year": 1930,
-                  "description": "Washington Luís broke with convention by nominating another São Paulo politician as his successor rather than a candidate from Minas Gerais."
+                  "description": "Washington Luís broke with the 'café com leite' convention by nominating another São Paulo politician as his successor rather than a candidate from Minas Gerais, fracturing the elite consensus that had held the republic together."
                 },
                 {
                   "year": 1930,
-                  "description": "A military-backed revolution led by Getúlio Vargas overthrew the government in response, ending the Old Republic."
+                  "description": "A military-backed revolution led by Getúlio Vargas overthrew the government in response, ending the Old Republic after forty-one years."
                 }
               ]
             }
@@ -545,7 +643,7 @@
             },
             {
               "year": 1932,
-              "description": "The rebellion was suppressed after three months of fighting, but Vargas subsequently allowed a new constitution to be drafted."
+              "description": "The rebellion was suppressed after three months of fighting, but Vargas subsequently allowed a new constitution to be drafted — a concession that temporarily eased tensions without yielding real power."
             },
             {
               "year": 1934,
@@ -557,23 +655,23 @@
             },
             {
               "year": 1937,
-              "description": "A new constitution accompanying the Estado Novo concentrated all power in the executive and banned political parties."
+              "description": "A new constitution accompanying the Estado Novo concentrated all power in the executive and banned political parties, turning Brazil into a centralized dictatorship."
             },
             {
               "year": 1942,
-              "description": "After German submarines sank Brazilian ships, Brazil entered World War II on the Allied side."
+              "description": "After German submarines sank Brazilian ships in the Atlantic, Vargas aligned Brazil with the Allies and declared war on Germany and Italy."
             },
             {
               "year": 1943,
-              "description": "Brazil deployed approximately 25,000 soldiers to fight in Italy, the only Latin American country to send combat troops to Europe."
+              "description": "Brazil deployed approximately 25,000 soldiers to fight in Italy, the only Latin American country to send combat troops to Europe — a commitment that gave the military newfound institutional prestige."
             },
             {
               "year": 1943,
-              "description": "The Consolidation of Labor Laws codified workers' rights including minimum wage, paid vacation, and regulated working hours, shaping Brazilian labor relations for decades."
+              "description": "The Consolidation of Labor Laws (CLT) codified workers' rights including minimum wage, paid vacation, and regulated working hours, shaping Brazilian labor relations for decades and cementing Vargas's image as the 'father of the poor.'"
             },
             {
               "year": 1945,
-              "description": "Facing growing opposition from civilian politicians and the military, Vargas was deposed by a coup of senior generals and sent into retirement, opening the way for democratic elections."
+              "description": "The contradiction of fighting fascism abroad while maintaining a dictatorship at home became untenable; facing growing opposition from civilian politicians and the military, Vargas was deposed by a coup of senior generals and sent into retirement, opening the way for democratic elections."
             }
           ]
         }
@@ -603,11 +701,11 @@
               "events": [
                 {
                   "year": 1946,
-                  "description": "A new democratic constitution was promulgated, re-establishing direct elections, civil liberties, and a multiparty system after years of authoritarian rule."
+                  "description": "A new democratic constitution was promulgated, re-establishing direct elections, civil liberties, and a multiparty system after years of authoritarian rule under Vargas."
                 },
                 {
                   "year": 1947,
-                  "description": "The Brazilian Communist Party, which had won over 10% of votes in 1945, was banned under Cold War pressure, and its elected representatives were expelled from office."
+                  "description": "The Brazilian Communist Party, which had won over 10% of votes in 1945, was banned under Cold War pressure, and its elected representatives were expelled from office — an early sign that the new democracy had limits."
                 }
               ]
             }
@@ -627,16 +725,59 @@
               "end": 1954,
               "events": [
                 {
+                  "year": 1951,
+                  "description": "Vargas returned to the presidency through a democratic election — a remarkable reversal for a man who had been deposed six years earlier — and resumed his nationalist development agenda."
+                },
+                {
                   "year": 1953,
-                  "description": "Vargas created Petrobras as a state-owned oil company under the nationalist slogan 'O petróleo é nosso' (The oil is ours), part of a strategy of using natural resources to drive state-led industrialization."
+                  "description": "Vargas created Petrobras as a state-owned oil company under the nationalist slogan 'O petróleo é nosso' (The oil is ours), as part of a strategy of using natural resources to drive state-led industrialization."
                 },
                 {
                   "year": 1954,
-                  "description": "Facing a severe political crisis, military pressure for his resignation, and an assassination attempt against a journalist linked to the opposition, Vargas took his own life."
-                },
+                  "description": "Facing a severe political crisis, military pressure for his resignation, and an assassination attempt against a journalist linked to the opposition, Vargas took his own life — leaving a political letter blaming foreign and domestic financial interests for his downfall."
+                }
+              ]
+            },
+            {
+              "name": "Café Filho",
+              "wiki": "https://en.wikipedia.org/wiki/Caf%C3%A9_Filho",
+              "title": "President",
+              "start": 1954,
+              "end": 1955,
+              "events": [
                 {
                   "year": 1954,
-                  "description": "He left a political letter blaming foreign and domestic financial interests for his downfall."
+                  "description": "Café Filho, vice-presidente de Vargas, assumiu a presidência após o suicídio do antecessor em meio a uma crise política profunda. Seu governo de transição buscou estabilizar o país e conduzir as eleições presidenciais de 1955."
+                },
+                {
+                  "year": 1955,
+                  "description": "Com a eleição de Juscelino Kubitschek e João Goulart, setores militares conservadores questionaram a posse dos eleitos. Café Filho adoeceu e foi afastado do cargo, sendo substituído pelo presidente da Câmara."
+                }
+              ]
+            },
+            {
+              "name": "Carlos Luz",
+              "wiki": "https://en.wikipedia.org/wiki/Carlos_Luz",
+              "title": "President (Acting)",
+              "start": 1955,
+              "end": 1955,
+              "events": [
+                {
+                  "year": 1955,
+                  "description": "Carlos Luz ocupou a presidência por apenas três dias. Diante de sinais de que poderia apoiar um golpe para impedir a posse de Kubitschek, foi deposto pelo ministro da Guerra, Henrique Teixeira Lott, em um contragolpe preventivo destinado a garantir a continuidade constitucional."
+                }
+              ]
+            },
+            {
+              "name": "Nereu Ramos",
+              "wiki": "https://en.wikipedia.org/wiki/Nereu_Ramos",
+              "title": "President (Acting)",
+              "start": 1955,
+              "end": 1956,
+              "events": [
+                {
+                  "year": 1955,
+                  "description": "Nereu Ramos, presidente do Senado, assumiu a presidência interinamente após a deposição de Carlos Luz e garantiu a transmissão do cargo a Juscelino Kubitschek em janeiro de 1956, assegurando a continuidade da ordem democrática num momento de grave turbulência institucional."
                 }
               ]
             },
@@ -649,11 +790,11 @@
               "events": [
                 {
                   "year": 1956,
-                  "description": "Kubitschek launched his 'Fifty Years in Five' program, a rapid industrialization plan that attracted foreign automobile manufacturers and expanded infrastructure."
+                  "description": "Kubitschek launched his 'Fifty Years in Five' program, a rapid industrialization plan that attracted foreign automobile manufacturers and expanded infrastructure across the country."
                 },
                 {
                   "year": 1960,
-                  "description": "The new federal capital Brasília was inaugurated in the Brazilian interior after just four years of construction, a nationally unifying project designed by Lúcio Costa and Oscar Niemeyer."
+                  "description": "The new federal capital Brasília was inaugurated in the Brazilian interior after just four years of construction — a nationally unifying project designed by Lúcio Costa and Oscar Niemeyer that symbolized the country's modernizing ambitions."
                 }
               ]
             },
@@ -670,7 +811,20 @@
                 },
                 {
                   "year": 1961,
-                  "description": "Congress instead accepted the resignation, triggering a constitutional crisis over whether his left-leaning vice president, João Goulart, could take office."
+                  "description": "Congress instead accepted the resignation, triggering a constitutional crisis over whether his left-leaning vice president, João Goulart — who was traveling abroad — could take office over military objections."
+                }
+              ]
+            },
+            {
+              "name": "Ranieri Mazzilli",
+              "wiki": "https://en.wikipedia.org/wiki/Ranieri_Mazzilli",
+              "title": "President (Acting)",
+              "start": 1961,
+              "end": 1961,
+              "events": [
+                {
+                  "year": 1961,
+                  "description": "Ranieri Mazzilli, presidente da Câmara dos Deputados, assumiu interinamente a presidência durante o impasse constitucional gerado pela renúncia de Quadros e a resistência militar à posse de Goulart. Seu governo durou apenas duas semanas, até que o Congresso aprovasse o parlamentarismo como solução de compromisso."
                 }
               ]
             },
@@ -683,19 +837,15 @@
               "events": [
                 {
                   "year": 1961,
-                  "description": "To overcome military resistance to Goulart taking office, Congress temporarily adopted a parliamentary system that reduced presidential powers."
+                  "description": "To overcome military resistance to Goulart taking office, Congress temporarily adopted a parliamentary system that reduced presidential powers — a compromise that allowed the constitutional order to be maintained."
                 },
                 {
                   "year": 1963,
-                  "description": "A national referendum restored full presidential powers to Goulart, who accelerated his agenda of nationalist economic policies and social reforms, including land reform proposals."
+                  "description": "A national referendum restored full presidential powers to Goulart, who accelerated his agenda of nationalist economic policies and social reforms, including controversial land reform proposals."
                 },
                 {
                   "year": 1964,
-                  "description": "A military coup, supported by conservative civilian groups and tacitly backed by the United States, ousted Goulart, who fled into exile."
-                },
-                {
-                  "year": 1964,
-                  "description": "The coup ended democratic rule and inaugurated over two decades of military government."
+                  "description": "A military coup, supported by conservative civilian groups and tacitly backed by the United States, ousted Goulart, who fled into exile — ending democratic rule and inaugurating over two decades of military government."
                 }
               ]
             }
@@ -726,7 +876,7 @@
               "events": [
                 {
                   "year": 1964,
-                  "description": "Institutional Act No. 1 allowed the regime to strip citizens' political rights by executive decree and purge the civil service, military, and judiciary of opponents."
+                  "description": "Institutional Act No. 1 allowed the regime to strip citizens' political rights by executive decree and purge the civil service, military, and judiciary of opponents — establishing the legal architecture of authoritarian rule."
                 }
               ]
             },
@@ -739,11 +889,24 @@
               "events": [
                 {
                   "year": 1968,
-                  "description": "Mass student protests and strikes swept Brazilian cities, part of a global wave of unrest."
+                  "description": "Mass student protests and strikes swept Brazilian cities, part of a global wave of unrest that challenged authoritarian governments worldwide."
                 },
                 {
                   "year": 1968,
-                  "description": "The government responded with Institutional Act No. 5, which suspended Congress, authorized arbitrary arrest, and imposed censorship, marking the harshest phase of the dictatorship."
+                  "description": "The government responded with Institutional Act No. 5, which suspended Congress, authorized arbitrary arrest, and imposed censorship — marking the beginning of the harshest phase of the dictatorship."
+                }
+              ]
+            },
+            {
+              "name": "Junta Militar",
+              "wiki": "https://en.wikipedia.org/wiki/Brazilian_military_junta_of_1969",
+              "title": "Military Junta",
+              "start": 1969,
+              "end": 1969,
+              "events": [
+                {
+                  "year": 1969,
+                  "description": "Com Costa e Silva incapacitado por um derrame, uma junta militar composta pelos ministros do Exército, Marinha e Aeronáutica assumiu o governo por cerca de dois meses — afastando o vice-presidente civil Pedro Aleixo e governando por decreto até a escolha de um novo presidente militar."
                 }
               ]
             },
@@ -760,7 +923,7 @@
                 },
                 {
                   "year": 1970,
-                  "description": "The Brazilian economy grew at over 10% annually during what became known as the 'economic miracle,' though the gains were distributed unequally."
+                  "description": "The Brazilian economy grew at over 10% annually during what became known as the 'economic miracle,' though the gains were distributed deeply unequally — and masked by a political climate in which dissent meant imprisonment, torture, or death."
                 }
               ]
             }
@@ -781,19 +944,15 @@
               "events": [
                 {
                   "year": 1974,
-                  "description": "Geisel announced a policy of slow, gradual, and controlled political liberalization, a top-down process designed to keep the military in charge of the transition."
+                  "description": "Geisel announced a policy of slow, gradual, and controlled political liberalization — a top-down process designed to keep the military in charge of the transition and prevent a more radical rupture."
                 },
                 {
                   "year": 1975,
-                  "description": "Journalist Vladimir Herzog was found dead in a military detention center in circumstances the regime claimed were suicide but were widely understood to be murder."
+                  "description": "Journalist Vladimir Herzog was found dead in a military detention center in circumstances the regime claimed were suicide but were widely understood to be murder — provoking public outrage and accelerating pressure for liberalization."
                 },
                 {
                   "year": 1979,
-                  "description": "AI-5 was revoked and an amnesty law freed political prisoners and allowed exiles to return."
-                },
-                {
-                  "year": 1979,
-                  "description": "The same amnesty law effectively prevented prosecution of military personnel for human rights abuses, a controversial trade-off whose legal implications persist."
+                  "description": "AI-5 was revoked and an amnesty law freed political prisoners and allowed exiles to return — but the same law effectively prevented prosecution of military personnel for human rights abuses, a controversial trade-off whose legal implications persist to this day."
                 }
               ]
             },
@@ -806,19 +965,19 @@
               "events": [
                 {
                   "year": 1983,
-                  "description": "The Diretas Já ('Direct Elections Now') movement mobilized millions of Brazilians in the largest street protests in the country's history, demanding direct presidential elections."
+                  "description": "The Diretas Já ('Direct Elections Now') movement mobilized millions of Brazilians in the largest street protests in the country's history, demanding the right to vote directly for president."
                 },
                 {
                   "year": 1984,
-                  "description": "The constitutional amendment for direct elections was rejected in Congress by a narrow margin after intense lobbying by the military government."
+                  "description": "The constitutional amendment for direct elections was rejected in Congress by a narrow margin after intense lobbying by the military government — a defeat that redirected popular energy toward the Electoral College."
                 },
                 {
                   "year": 1985,
-                  "description": "Opposition candidate Tancredo Neves was elected president by the Electoral College, marking the formal end of military rule."
+                  "description": "Opposition candidate Tancredo Neves was elected president by the Electoral College, marking the formal end of military rule — but he fell gravely ill before his inauguration and died without taking office."
                 },
                 {
                   "year": 1985,
-                  "description": "Neves fell ill before his inauguration and died without taking office; his vice president, José Sarney, assumed the presidency."
+                  "description": "His vice president, José Sarney, assumed the presidency — inheriting the task of leading Brazil's democratic transition."
                 }
               ]
             }
@@ -849,11 +1008,11 @@
               "events": [
                 {
                   "year": 1985,
-                  "description": "The first civilian government in over two decades faced chronic hyperinflation alongside the task of writing a new constitutional order."
+                  "description": "The first civilian government in over two decades faced chronic hyperinflation alongside the task of writing a new constitutional order from scratch."
                 },
                 {
                   "year": 1986,
-                  "description": "The Cruzado Plan attempted to eliminate hyperinflation through a freeze on prices and wages; initially popular, it collapsed within months as shortages emerged."
+                  "description": "The Cruzado Plan attempted to eliminate hyperinflation through a freeze on prices and wages; initially popular, it collapsed within months as shortages emerged and inflation returned with greater force."
                 },
                 {
                   "year": 1988,
@@ -861,11 +1020,11 @@
                 },
                 {
                   "year": 1988,
-                  "description": "The new constitution also established protections for Indigenous territories and Afro-Brazilian communities."
+                  "description": "The new constitution also established protections for Indigenous territories and Afro-Brazilian communities, enshrining rights that social movements had long demanded."
                 },
                 {
                   "year": 1989,
-                  "description": "Brazil held its first direct presidential election in twenty-nine years, won by Fernando Collor de Mello, a young conservative governor who campaigned against corruption and waste."
+                  "description": "Brazil held its first direct presidential election in twenty-nine years, won by Fernando Collor de Mello, a young conservative governor who campaigned vigorously against corruption and waste."
                 }
               ]
             }
@@ -886,11 +1045,11 @@
               "events": [
                 {
                   "year": 1990,
-                  "description": "The Collor Plan froze private bank accounts above a set threshold in an attempt to remove money from circulation and halt hyperinflation, disrupting the savings of millions of Brazilians."
+                  "description": "The Collor Plan froze private bank accounts above a set threshold in an attempt to remove money from circulation and halt hyperinflation, disrupting the savings of millions of Brazilians overnight."
                 },
                 {
                   "year": 1992,
-                  "description": "A congressional investigation revealed that Collor's campaign treasurer was operating a broad influence-peddling scheme."
+                  "description": "A congressional investigation revealed that Collor's campaign treasurer was operating a broad influence-peddling scheme — an ironic downfall for a president who had built his image on fighting corruption."
                 },
                 {
                   "year": 1992,
@@ -907,7 +1066,7 @@
               "events": [
                 {
                   "year": 1994,
-                  "description": "The Real Plan, developed by Finance Minister Fernando Henrique Cardoso, introduced a new currency and broke Brazil's cycle of hyperinflation through coordinated monetary and fiscal policy."
+                  "description": "The Real Plan, developed by Finance Minister Fernando Henrique Cardoso, introduced a new currency and broke Brazil's cycle of hyperinflation through coordinated monetary and fiscal policy — transforming daily life for millions of Brazilians and launching Cardoso's political career."
                 }
               ]
             },
@@ -920,7 +1079,7 @@
               "events": [
                 {
                   "year": 1995,
-                  "description": "The government accelerated the privatization of large state companies in telecommunications and energy, part of a broader shift toward market-oriented economic management."
+                  "description": "Riding the success of the Real Plan, Cardoso accelerated the privatization of large state companies in telecommunications and energy, shifting Brazil toward market-oriented economic management."
                 },
                 {
                   "year": 1999,
@@ -928,7 +1087,7 @@
                 },
                 {
                   "year": 1999,
-                  "description": "Brazil recovered relatively quickly from the crisis, without the severe social collapse seen in neighboring Argentina."
+                  "description": "Brazil recovered relatively quickly from the crisis, without the severe social collapse seen in neighboring Argentina — maintaining the macroeconomic framework that would be inherited by the next government."
                 }
               ]
             }
@@ -949,19 +1108,19 @@
               "events": [
                 {
                   "year": 2003,
-                  "description": "A global commodity boom strengthened Brazil's export economy just as the new government turned to redistributive social policy."
+                  "description": "A global commodity boom strengthened Brazil's export economy just as the new government turned to redistributive social policy, creating a rare combination of macroeconomic growth and poverty reduction."
                 },
                 {
                   "year": 2003,
-                  "description": "The Bolsa Família conditional cash transfer program was created, providing monthly payments to low-income families contingent on school attendance and vaccination, becoming one of the largest anti-poverty programs in the world."
+                  "description": "The Bolsa Família conditional cash transfer program was created, providing monthly payments to low-income families contingent on school attendance and vaccination — becoming one of the largest anti-poverty programs in the world."
                 },
                 {
                   "year": 2007,
-                  "description": "Vast oil reserves were discovered in deepwater pre-salt layers off the coast of Rio de Janeiro, transforming Brazil's long-term energy prospects."
+                  "description": "Vast oil reserves were discovered in deepwater pre-salt layers off the coast of Rio de Janeiro, transforming Brazil's long-term energy prospects and fueling expectations of a new commodity windfall."
                 },
                 {
                   "year": 2010,
-                  "description": "Brazil's economy grew 7.5%, one of the highest rates in its history, as Lula left office with approval ratings above 80%, a combination of social programs, rising wages, and favorable commodity prices producing the largest reduction in poverty and inequality in the country's modern history."
+                  "description": "Brazil's economy grew 7.5%, one of the highest rates in its history, as Lula left office with approval ratings above 80% — the combination of social programs, rising wages, and favorable commodity prices producing the largest reduction in poverty and inequality in the country's modern history."
                 }
               ]
             },
@@ -974,15 +1133,15 @@
               "events": [
                 {
                   "year": 2013,
-                  "description": "Mass protests swept Brazilian cities, initially triggered by a bus fare increase in São Paulo, and quickly broadened into discontent over public services, corruption, and the costs of hosting the 2014 World Cup and 2016 Olympics."
+                  "description": "Mass protests swept Brazilian cities, initially triggered by a bus fare increase in São Paulo and quickly broadened into discontent over public services, corruption, and the costs of hosting the 2014 World Cup and 2016 Olympics."
                 },
                 {
                   "year": 2014,
-                  "description": "The Lava Jato (Car Wash) investigation, launched by federal prosecutors in Paraná, uncovered a vast scheme in which construction companies paid bribes to Petrobras executives and politicians for inflated contracts."
+                  "description": "The Lava Jato (Car Wash) investigation, launched by federal prosecutors in Paraná, uncovered a vast scheme in which construction companies paid bribes to Petrobras executives and politicians for inflated contracts — implicating figures across the political spectrum."
                 },
                 {
                   "year": 2015,
-                  "description": "The commodity boom that had sustained years of growth faded, and Brazil entered a severe economic recession that deepened the political crisis around Rousseff's government."
+                  "description": "The commodity boom that had sustained years of growth faded, and Brazil entered a severe economic recession that deepened the political crisis surrounding Rousseff's government."
                 },
                 {
                   "year": 2016,
@@ -1007,11 +1166,11 @@
               "events": [
                 {
                   "year": 2017,
-                  "description": "Congress approved a sweeping labor reform that reduced protections established since the 1943 CLT, which Temer presented as necessary to restore fiscal balance."
+                  "description": "Congress approved a sweeping labor reform that reduced protections established since the 1943 CLT, which Temer presented as necessary to restore fiscal balance and attract investment after the recession."
                 },
                 {
                   "year": 2017,
-                  "description": "Congress also approved a constitutional amendment capping public spending growth for twenty years."
+                  "description": "Congress also approved a constitutional amendment capping public spending growth for twenty years — a structural fiscal measure that would constrain successive governments regardless of their political orientation."
                 }
               ]
             },
@@ -1024,11 +1183,11 @@
               "events": [
                 {
                   "year": 2019,
-                  "description": "Deforestation in the Amazon increased sharply as the new government rolled back environmental oversight agencies and enforcement, drawing international criticism."
+                  "description": "Deforestation in the Amazon increased sharply as the new government rolled back environmental oversight agencies and enforcement, drawing sustained international criticism and threatening Brazil's trade relationships."
                 },
                 {
                   "year": 2020,
-                  "description": "The COVID-19 pandemic killed over 700,000 Brazilians, the second-highest absolute death toll in the world, amid a public health response widely criticized for delays in vaccine procurement."
+                  "description": "The COVID-19 pandemic killed over 700,000 Brazilians — the second-highest absolute death toll in the world — amid a public health response widely criticized for delays in vaccine procurement and the president's repeated dismissal of the disease's severity."
                 },
                 {
                   "year": 2022,
@@ -1036,7 +1195,7 @@
                 },
                 {
                   "year": 2023,
-                  "description": "Thousands of Bolsonaro supporters stormed and ransacked the Presidential Palace, Congress, and the Supreme Court on January 8, days after Lula's inauguration, in an attempt to destabilize the incoming government."
+                  "description": "Thousands of Bolsonaro supporters stormed and ransacked the Presidential Palace, Congress, and the Supreme Court on January 8, days after Lula's inauguration, in an attempt to destabilize the incoming government — the most serious attack on Brazilian democratic institutions since the 1964 coup."
                 }
               ]
             }
@@ -1057,7 +1216,7 @@
               "events": [
                 {
                   "year": 2023,
-                  "description": "Lula returned to the presidency for a third non-consecutive term, focused on rebuilding environmental policy and reactivating social programs."
+                  "description": "Lula returned to the presidency for a third non-consecutive term, focused on rebuilding environmental policy, reactivating social programs, and stabilizing democratic institutions after the January 8 attacks."
                 },
                 {
                   "year": 2023,
