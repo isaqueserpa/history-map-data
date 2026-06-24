@@ -14,7 +14,7 @@ h1, h2, h3, h4, h5, .font-display {
     font-family: 'Cinzel', serif;
 }
 
-/* ─── Mapa ───────────────────────────────────────────────────────────────── */
+/* ─── Mapa Interativo ────────────────────────────────────────────────────── */
 
 #map {
     position: absolute;
@@ -29,117 +29,172 @@ h1, h2, h3, h4, h5, .font-display {
     background-color: #0b0f19;
 }
 
-/* ─── Controles MapLibre ─────────────────────────────────────────────────── */
+/* ─── Controles MapLibre (Lapidados e Premium) ──────────────────────────── */
 
 .maplibregl-ctrl-group {
-    background-color: #111827 !important;
-    border: 1px solid rgba(255, 255, 255, 0.1) !important;
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3) !important;
+    background-color: rgba(17, 24, 39, 0.95) !important;
+    border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    backdrop-filter: blur(8px) !important;
+    box-shadow: 0 12px 24px -4px rgba(0, 0, 0, 0.4) !important;
+    border-radius: 12px !important;
+    overflow: hidden;
 }
 
 .maplibregl-ctrl-group button {
-    width: 32px !important;
-    height: 32px !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
-    transition: all 0.2s;
+    width: 36px !important;
+    height: 36px !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+    transition: all 0.25s ease-in-out;
+}
+
+.maplibregl-ctrl-group button:last-child {
+    border-bottom: none !important;
 }
 
 .maplibregl-ctrl-group button span {
-    filter: invert(1) !important;
+    filter: invert(1) brightness(0.95) !important;
 }
 
 .maplibregl-ctrl-group button:hover {
     background-color: #1f2937 !important;
+    transform: scale(1.03);
 }
 
-/* ─── Scrollbar Customizada ──────────────────────────────────────────────── */
+/* ─── Scrollbars Customizadas (Muted & Elegantes) ───────────────────────── */
 
+/* Para navegadores baseados em WebKit (Chrome, Safari, Edge) */
 .custom-scrollbar::-webkit-scrollbar {
     width: 6px;
 }
 
 .custom-scrollbar::-webkit-scrollbar-track {
-    background: #f5f5f4;
+    background: transparent;
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
-    background: #d6d3d1;
-    border-radius: 3px;
+    background: rgba(139, 92, 26, 0.15); /* Tom âmbar suave para áreas escuras */
+    border-radius: 100px;
+    transition: background 0.3s ease;
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-    background: #a8a29e;
+    background: rgba(245, 158, 11, 0.35); /* Brilho âmbar ativo */
 }
 
-/* ─── Paletas Pastel para Subperíodos (Migrado do HTML) ──────────────────── */
+/* Scrollbar do Painel Lateral (Modo Claro de Pedra) */
+#info-panel .custom-scrollbar::-webkit-scrollbar-thumb {
+    background: rgba(120, 113, 108, 0.2); /* Tom de pedra suave */
+}
 
+#info-panel .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+    background: rgba(120, 113, 108, 0.4);
+}
+
+/* ─── Paletas dos Subperíodos (Efeito Cronologia Histórica) ───────────────── */
+
+/* Estrutura Base das Caixas de Subperíodos */
+[class*="subperiod-palette-"] {
+    border-left-width: 3.5px;
+    border-left-style: solid;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[class*="subperiod-palette-"]:hover {
+    transform: translateX(3px);
+    box-shadow: 0 6px 16px -4px rgba(0, 0, 0, 0.04);
+}
+
+/* Badges e Bordas Auxiliares dos Subperíodos */
+.subperiod-badge {
+    transition: all 0.2s ease;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.subperiod-title {
+    font-weight: 700;
+    letter-spacing: 0.05em;
+}
+
+/* 0. Laranja / Champanhe Histórico */
 .subperiod-palette-0 {
-    border-left: 3px solid #e8b86d !important;
-    background-color: #fdf2e9 !important;
+    background-color: #fdf5ef !important;
+    border-left-color: #e8a36d !important;
 }
 .subperiod-palette-0 .subperiod-badge {
     color: #92400e !important;
-    border-color: #e8b86d !important;
+    background-color: rgba(253, 245, 239, 0.9) !important;
+    border-color: rgba(232, 163, 109, 0.3) !important;
 }
 .subperiod-palette-0 .subperiod-title {
     color: #92400e !important;
 }
 
+/* 1. Verde Sálvia Imperial */
 .subperiod-palette-1 {
-    border-left: 3px solid #9bc9ab !important;
-    background-color: #eaf4ee !important;
+    background-color: #f1f8f4 !important;
+    border-left-color: #8cbd9c !important;
 }
 .subperiod-palette-1 .subperiod-badge {
-    color: #15803d !important;
-    border-color: #9bc9ab !important;
+    color: #166534 !important;
+    background-color: rgba(241, 248, 244, 0.9) !important;
+    border-color: rgba(140, 189, 156, 0.3) !important;
 }
 .subperiod-palette-1 .subperiod-title {
-    color: #15803d !important;
+    color: #166534 !important;
 }
 
+/* 2. Azul Névoa / Dinastia */
 .subperiod-palette-2 {
-    border-left: 3px solid #a8c0ea !important;
-    background-color: #eef2fb !important;
+    background-color: #f2f5fc !important;
+    border-left-color: #9ab4e5 !important;
 }
 .subperiod-palette-2 .subperiod-badge {
     color: #1e40af !important;
-    border-color: #a8c0ea !important;
+    background-color: rgba(242, 245, 252, 0.9) !important;
+    border-color: rgba(154, 180, 229, 0.3) !important;
 }
 .subperiod-palette-2 .subperiod-title {
     color: #1e40af !important;
 }
 
+/* 3. Violeta / Real */
 .subperiod-palette-3 {
-    border-left: 3px solid #d6a4cc !important;
-    background-color: #f8eef6 !important;
+    background-color: #faf0f8 !important;
+    border-left-color: #cf9ec5 !important;
 }
 .subperiod-palette-3 .subperiod-badge {
     color: #86198f !important;
-    border-color: #d6a4cc !important;
+    background-color: rgba(250, 240, 248, 0.9) !important;
+    border-color: rgba(207, 158, 197, 0.3) !important;
 }
 .subperiod-palette-3 .subperiod-title {
     color: #86198f !important;
 }
 
+/* 4. Areia Quente / Antiguidade */
 .subperiod-palette-4 {
-    border-left: 3px solid #e3cd7e !important;
-    background-color: #fdf8e3 !important;
+    background-color: #fdfaf0 !important;
+    border-left-color: #dfc16e !important;
 }
 .subperiod-palette-4 .subperiod-badge {
     color: #854d0e !important;
-    border-color: #e3cd7e !important;
+    background-color: rgba(253, 250, 240, 0.9) !important;
+    border-color: rgba(223, 193, 110, 0.3) !important;
 }
 .subperiod-palette-4 .subperiod-title {
     color: #854d0e !important;
 }
 
+/* 5. Ciano Néfrita / Marítimo */
 .subperiod-palette-5 {
-    border-left: 3px solid #9fc2bc !important;
-    background-color: #eef4f3 !important;
+    background-color: #f0f7f6 !important;
+    border-left-color: #92beba !important;
 }
 .subperiod-palette-5 .subperiod-badge {
     color: #0f5d56 !important;
-    border-color: #9fc2bc !important;
+    background-color: rgba(240, 247, 246, 0.9) !important;
+    border-color: rgba(146, 190, 186, 0.3) !important;
 }
 .subperiod-palette-5 .subperiod-title {
     color: #0f5d56 !important;
