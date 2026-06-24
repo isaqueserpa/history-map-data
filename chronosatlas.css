@@ -70,3 +70,77 @@ h1, h2, h3, h4, h5, .font-display {
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
     background: #a8a29e;
 }
+
+/* ─── Paletas Pastel para Subperíodos (Migrado do HTML) ──────────────────── */
+
+.subperiod-palette-0 {
+    border-left: 3px solid #e8b86d !important;
+    background-color: #fdf2e9 !important;
+}
+.subperiod-palette-0 .subperiod-badge {
+    color: #92400e !important;
+    border-color: #e8b86d !important;
+}
+.subperiod-palette-0 .subperiod-title {
+    color: #92400e !important;
+}
+
+.subperiod-palette-1 {
+    border-left: 3px solid #9bc9ab !important;
+    background-color: #eaf4ee !important;
+}
+.subperiod-palette-1 .subperiod-badge {
+    color: #15803d !important;
+    border-color: #9bc9ab !important;
+}
+.subperiod-palette-1 .subperiod-title {
+    color: #15803d !important;
+}
+
+.subperiod-palette-2 {
+    border-left: 3px solid #a8c0ea !important;
+    background-color: #eef2fb !important;
+}
+.subperiod-palette-2 .subperiod-badge {
+    color: #1e40af !important;
+    border-color: #a8c0ea !important;
+}
+.subperiod-palette-2 .subperiod-title {
+    color: #1e40af !important;
+}
+
+.subperiod-palette-3 {
+    border-left: 3px solid #d6a4cc !important;
+    background-color: #f8eef6 !important;
+}
+.subperiod-palette-3 .subperiod-badge {
+    color: #86198f !important;
+    border-color: #d6a4cc !important;
+}
+.subperiod-palette-3 .subperiod-title {
+    color: #86198f !important;
+}
+
+.subperiod-palette-4 {
+    border-left: 3px solid #e3cd7e !important;
+    background-color: #fdf8e3 !important;
+}
+.subperiod-palette-4 .subperiod-badge {
+    color: #854d0e !important;
+    border-color: #e3cd7e !important;
+}
+.subperiod-palette-4 .subperiod-title {
+    color: #854d0e !important;
+}
+
+.subperiod-palette-5 {
+    border-left: 3px solid #9fc2bc !important;
+    background-color: #eef4f3 !important;
+}
+.subperiod-palette-5 .subperiod-badge {
+    color: #0f5d56 !important;
+    border-color: #9fc2bc !important;
+}
+.subperiod-palette-5 .subperiod-title {
+    color: #0f5d56 !important;
+}
