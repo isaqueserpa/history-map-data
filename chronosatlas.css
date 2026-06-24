@@ -1,68 +1,88 @@
-/* ─── ChronosAtlas – Estilos Globais ─────────────────────────────────────── */
+/* ==========================================================================
+   ChronosAtlas - Folha de Estilo Oficial e Harmônica (Interactive History Atlas)
+   ========================================================================== */
 
-body, html {
+/* ─── IMPORTAÇÃO DE FONTES ───────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap');
+
+/* ─── VARIÁVEIS E DEFINIÇÕES GERAIS ──────────────────────────────────────── */
+:root {
+    --font-display: 'Cinzel', Georgia, serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    
+    /* Cores Globais */
+    --color-amber-500: #f59e0b;
+    --color-amber-600: #d97706;
+    --color-amber-700: #b45309;
+}
+
+body {
+    font-family: var(--font-sans);
+    background-color: #111625;
     margin: 0;
     padding: 0;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    font-family: 'Plus Jakarta Sans', sans-serif;
-    background-color: #0b0f19;
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
-h1, h2, h3, h4, h5, .font-display {
-    font-family: 'Cinzel', serif;
+/* ─── FONTES CUSTOMIZADAS ────────────────────────────────────────────────── */
+.font-display {
+    font-family: var(--font-display) !important;
 }
 
-/* ─── Mapa Interativo ────────────────────────────────────────────────────── */
-
+/* ─── CONTAINER E CONTROLES DO MAPA (MAPLIBRE ESCURO E BRILHANTE) ────────── */
 #map {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    width: 100%;
-    height: 100%;
-    z-index: 0;
-    outline: 0;
-    background-color: #0b0f19;
+    width: 100vw;
+    height: 100vh;
+    background-color: #111625;
 }
 
-/* ─── Controles MapLibre (Lapidados e Premium) ──────────────────────────── */
-
+/* Customização dos Botões de Zoom (MapLibre) */
 .maplibregl-ctrl-group {
-    background-color: rgba(17, 24, 39, 0.95) !important;
-    border: 1px solid rgba(255, 255, 255, 0.08) !important;
+    background-color: rgba(17, 22, 37, 0.85) !important;
     backdrop-filter: blur(8px) !important;
-    box-shadow: 0 12px 24px -4px rgba(0, 0, 0, 0.4) !important;
+    border: 1px solid rgba(245, 158, 11, 0.25) !important;
     border-radius: 12px !important;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
     overflow: hidden;
 }
 
 .maplibregl-ctrl-group button {
-    width: 36px !important;
-    height: 36px !important;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
-    transition: all 0.25s ease-in-out;
-}
-
-.maplibregl-ctrl-group button:last-child {
-    border-bottom: none !important;
-}
-
-.maplibregl-ctrl-group button span {
-    filter: invert(1) brightness(0.95) !important;
+    width: 34px !important;
+    height: 34px !important;
+    border-bottom: 1px solid rgba(245, 158, 11, 0.1) !important;
+    transition: all 0.2s ease-in-out !important;
 }
 
 .maplibregl-ctrl-group button:hover {
-    background-color: #1f2937 !important;
-    transform: scale(1.03);
+    background-color: rgba(245, 158, 11, 0.15) !important;
 }
 
-/* ─── Scrollbars Customizadas (Muted & Elegantes) ───────────────────────── */
+.maplibregl-ctrl-icon {
+    filter: invert(72%) sepia(80%) saturate(700%) hue-rotate(350deg) brightness(95%) contrast(100%) !important;
+}
 
-/* Para navegadores baseados em WebKit (Chrome, Safari, Edge) */
+/* Customização de Popups do Mapa */
+.maplibregl-popup-content {
+    background: rgba(15, 23, 42, 0.95) !important;
+    backdrop-filter: blur(12px) !important;
+    border: 1px solid rgba(245, 158, 11, 0.3) !important;
+    border-radius: 14px !important;
+    color: #f3f4f6 !important;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6) !important;
+    padding: 12px 16px !important;
+}
+
+.maplibregl-popup-anchor-top .maplibregl-popup-tip {
+    border-bottom-color: rgba(245, 158, 11, 0.3) !important;
+}
+.maplibregl-popup-anchor-bottom .maplibregl-popup-tip {
+    border-top-color: rgba(245, 158, 11, 0.3) !important;
+}
+
+/* ─── SCROLLBAR PERSONALIZADA E ELEGANTE ────────────────────────────────── */
 .custom-scrollbar::-webkit-scrollbar {
     width: 6px;
 }
@@ -72,130 +92,154 @@ h1, h2, h3, h4, h5, .font-display {
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb {
-    background: rgba(139, 92, 26, 0.15); /* Tom âmbar suave para áreas escuras */
-    border-radius: 100px;
-    transition: background 0.3s ease;
+    background: rgba(139, 92, 26, 0.2);
+    border-radius: 10px;
+    transition: background 0.3s;
 }
 
 .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-    background: rgba(245, 158, 11, 0.35); /* Brilho âmbar ativo */
+    background: rgba(139, 92, 26, 0.45);
 }
 
-/* Scrollbar do Painel Lateral (Modo Claro de Pedra) */
-#info-panel .custom-scrollbar::-webkit-scrollbar-thumb {
-    background: rgba(120, 113, 108, 0.2); /* Tom de pedra suave */
-}
+/* ─── PALETA PASTEL HARMÔNICA PARA SUBPERÍODOS ────────────────────────────── */
 
-#info-panel .custom-scrollbar::-webkit-scrollbar-thumb:hover {
-    background: rgba(120, 113, 108, 0.4);
-}
-
-/* ─── Paletas dos Subperíodos (Efeito Cronologia Histórica) ───────────────── */
-
-/* Estrutura Base das Caixas de Subperíodos */
-[class*="subperiod-palette-"] {
-    border-left-width: 3.5px;
-    border-left-style: solid;
+/* Paleta 0: Âmbar/Sienna (Estética de Papiro/Parchment) */
+.subperiod-palette-0 {
+    background-color: #fffaf4;
+    border-left: 3.5px solid #f0b575;
+    border-top: 1px solid rgba(240, 181, 117, 0.15);
+    border-right: 1px solid rgba(240, 181, 117, 0.15);
+    border-bottom: 1px solid rgba(240, 181, 117, 0.15);
     transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
-
-[class*="subperiod-palette-"]:hover {
-    transform: translateX(3px);
-    box-shadow: 0 6px 16px -4px rgba(0, 0, 0, 0.04);
-}
-
-/* Badges e Bordas Auxiliares dos Subperíodos */
-.subperiod-badge {
-    transition: all 0.2s ease;
-    border-width: 1px;
-    border-style: solid;
-}
-
-.subperiod-title {
-    font-weight: 700;
-    letter-spacing: 0.05em;
-}
-
-/* 0. Laranja / Champanhe Histórico */
-.subperiod-palette-0 {
-    background-color: #fdf5ef !important;
-    border-left-color: #e8a36d !important;
+.subperiod-palette-0:hover {
+    background-color: #fff5e9;
+    transform: translateX(2px);
 }
 .subperiod-palette-0 .subperiod-badge {
-    color: #92400e !important;
-    background-color: rgba(253, 245, 239, 0.9) !important;
-    border-color: rgba(232, 163, 109, 0.3) !important;
+    color: #92400e;
+    border-color: rgba(232, 168, 83, 0.4);
+    background-color: rgba(255, 255, 255, 0.85);
 }
 .subperiod-palette-0 .subperiod-title {
-    color: #92400e !important;
+    color: #8a3c03;
 }
 
-/* 1. Verde Sálvia Imperial */
+/* Paleta 1: Smaragdine/Mint (Sábios e Dinastias Prósperas) */
 .subperiod-palette-1 {
-    background-color: #f1f8f4 !important;
-    border-left-color: #8cbd9c !important;
+    background-color: #f4fcf8;
+    border-left: 3.5px solid #8cc5a3;
+    border-top: 1px solid rgba(140, 197, 163, 0.15);
+    border-right: 1px solid rgba(140, 197, 163, 0.15);
+    border-bottom: 1px solid rgba(140, 197, 163, 0.15);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.subperiod-palette-1:hover {
+    background-color: #e9f9f0;
+    transform: translateX(2px);
 }
 .subperiod-palette-1 .subperiod-badge {
-    color: #166534 !important;
-    background-color: rgba(241, 248, 244, 0.9) !important;
-    border-color: rgba(140, 189, 156, 0.3) !important;
+    color: #166534;
+    border-color: rgba(140, 197, 163, 0.4);
+    background-color: rgba(255, 255, 255, 0.85);
 }
 .subperiod-palette-1 .subperiod-title {
-    color: #166534 !important;
+    color: #115e2e;
 }
 
-/* 2. Azul Névoa / Dinastia */
+/* Paleta 2: Cerúleo/Oceânico (Navegações e Explorações) */
 .subperiod-palette-2 {
-    background-color: #f2f5fc !important;
-    border-left-color: #9ab4e5 !important;
+    background-color: #f5f9ff;
+    border-left: 3.5px solid #9bb8eb;
+    border-top: 1px solid rgba(155, 184, 235, 0.15);
+    border-right: 1px solid rgba(155, 184, 235, 0.15);
+    border-bottom: 1px solid rgba(155, 184, 235, 0.15);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.subperiod-palette-2:hover {
+    background-color: #eaf1fc;
+    transform: translateX(2px);
 }
 .subperiod-palette-2 .subperiod-badge {
-    color: #1e40af !important;
-    background-color: rgba(242, 245, 252, 0.9) !important;
-    border-color: rgba(154, 180, 229, 0.3) !important;
+    color: #1e40af;
+    border-color: rgba(155, 184, 235, 0.4);
+    background-color: rgba(255, 255, 255, 0.85);
 }
 .subperiod-palette-2 .subperiod-title {
-    color: #1e40af !important;
+    color: #1e3a8a;
 }
 
-/* 3. Violeta / Real */
+/* Paleta 3: Ametista/Lavanda (Impérios Teocráticos e Religiões) */
 .subperiod-palette-3 {
-    background-color: #faf0f8 !important;
-    border-left-color: #cf9ec5 !important;
+    background-color: #fdf5fc;
+    border-left: 3.5px solid #d49ec7;
+    border-top: 1px solid rgba(212, 158, 199, 0.15);
+    border-right: 1px solid rgba(212, 158, 199, 0.15);
+    border-bottom: 1px solid rgba(212, 158, 199, 0.15);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.subperiod-palette-3:hover {
+    background-color: #fbebf9;
+    transform: translateX(2px);
 }
 .subperiod-palette-3 .subperiod-badge {
-    color: #86198f !important;
-    background-color: rgba(250, 240, 248, 0.9) !important;
-    border-color: rgba(207, 158, 197, 0.3) !important;
+    color: #86198f;
+    border-color: rgba(212, 158, 199, 0.4);
+    background-color: rgba(255, 255, 255, 0.85);
 }
 .subperiod-palette-3 .subperiod-title {
-    color: #86198f !important;
+    color: #701a75;
 }
 
-/* 4. Areia Quente / Antiguidade */
+/* Paleta 4: Gilded Ochre (Era de Ouro e Renascimento) */
 .subperiod-palette-4 {
-    background-color: #fdfaf0 !important;
-    border-left-color: #dfc16e !important;
+    background-color: #fffdf4;
+    border-left: 3.5px solid #e1c367;
+    border-top: 1px solid rgba(225, 195, 103, 0.15);
+    border-right: 1px solid rgba(225, 195, 103, 0.15);
+    border-bottom: 1px solid rgba(225, 195, 103, 0.15);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.subperiod-palette-4:hover {
+    background-color: #fff9e3;
+    transform: translateX(2px);
 }
 .subperiod-palette-4 .subperiod-badge {
-    color: #854d0e !important;
-    background-color: rgba(253, 250, 240, 0.9) !important;
-    border-color: rgba(223, 193, 110, 0.3) !important;
+    color: #854d0e;
+    border-color: rgba(225, 195, 103, 0.4);
+    background-color: rgba(255, 255, 255, 0.85);
 }
 .subperiod-palette-4 .subperiod-title {
-    color: #854d0e !important;
+    color: #713f12;
 }
 
-/* 5. Ciano Néfrita / Marítimo */
+/* Paleta 5: Sálvia Terrosa (Períodos de Consolidação Territorial) */
 .subperiod-palette-5 {
-    background-color: #f0f7f6 !important;
-    border-left-color: #92beba !important;
+    background-color: #f4f9f8;
+    border-left: 3.5px solid #93bab3;
+    border-top: 1px solid rgba(147, 186, 179, 0.15);
+    border-right: 1px solid rgba(147, 186, 179, 0.15);
+    border-bottom: 1px solid rgba(147, 186, 179, 0.15);
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.subperiod-palette-5:hover {
+    background-color: #e9f4f2;
+    transform: translateX(2px);
 }
 .subperiod-palette-5 .subperiod-badge {
-    color: #0f5d56 !important;
-    background-color: rgba(240, 247, 246, 0.9) !important;
-    border-color: rgba(146, 190, 186, 0.3) !important;
+    color: #0f5d56;
+    border-color: rgba(147, 186, 179, 0.4);
+    background-color: rgba(255, 255, 255, 0.85);
 }
 .subperiod-palette-5 .subperiod-title {
-    color: #0f5d56 !important;
+    color: #0d4f49;
+}
+
+/* ─── ANIMAÇÕES E INTERAÇÕES ─────────────────────────────────────────────── */
+.hover-scale {
+    transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1), box-shadow 0.2s ease-in-out;
+}
+.hover-scale:hover {
+    transform: translateY(-2px) scale(1.01);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
 }
