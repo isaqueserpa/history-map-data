@@ -1,0 +1,520 @@
+{
+  "organizations": [
+    {
+      "name": "European Union (EU)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/European_Union",
+      "founding_members": [
+        "BEL",
+        "FRA",
+        "ITA",
+        "LUX",
+        "NLD",
+        "DEU"
+      ],
+      "current_members": [
+        "AUT",
+        "BEL",
+        "BGR",
+        "HRV",
+        "CYP",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "IRL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MLT",
+        "NLD",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "North Atlantic Treaty Organization (NATO)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/NATO",
+      "founding_members": [
+        "BEL",
+        "CAN",
+        "DNK",
+        "FRA",
+        "ISL",
+        "ITA",
+        "LUX",
+        "NLD",
+        "NOR",
+        "PRT",
+        "GBR",
+        "USA"
+      ],
+      "current_members": [
+        "ALB",
+        "BEL",
+        "BGR",
+        "CAN",
+        "HRV",
+        "CZE",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRA",
+        "DEU",
+        "GRC",
+        "HUN",
+        "ISL",
+        "ITA",
+        "LVA",
+        "LTU",
+        "LUX",
+        "MNE",
+        "NLD",
+        "MKD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "SVK",
+        "SVN",
+        "ESP",
+        "SWE",
+        "TUR",
+        "GBR",
+        "USA"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Mercosur",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Mercosur",
+      "founding_members": [
+        "ARG",
+        "BRA",
+        "PRY",
+        "URY"
+      ],
+      "current_members": [
+        "ARG",
+        "BOL",
+        "BRA",
+        "PRY",
+        "URY"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "BRICS",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/BRICS",
+      "founding_members": [
+        "BRA",
+        "RUS",
+        "IND",
+        "CHN"
+      ],
+      "current_members": [
+        "BRA",
+        "RUS",
+        "IND",
+        "CHN",
+        "ZAF",
+        "EGY",
+        "ETH",
+        "IRN",
+        "ARE",
+        "SAU",
+        "IDN"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Group of Seven (G7)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Group_of_Seven",
+      "founding_members": [
+        "CAN",
+        "FRA",
+        "DEU",
+        "ITA",
+        "JPN",
+        "GBR",
+        "USA"
+      ],
+      "current_members": [
+        "CAN",
+        "FRA",
+        "DEU",
+        "ITA",
+        "JPN",
+        "GBR",
+        "USA"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "G20",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/G20",
+      "founding_members": [
+        "ARG",
+        "AUS",
+        "BRA",
+        "CAN",
+        "CHN",
+        "FRA",
+        "DEU",
+        "IND",
+        "IDN",
+        "ITA",
+        "JPN",
+        "MEX",
+        "RUS",
+        "SAU",
+        "ZAF",
+        "KOR",
+        "TUR",
+        "GBR",
+        "USA"
+      ],
+      "current_members": [
+        "ARG",
+        "AUS",
+        "BRA",
+        "CAN",
+        "CHN",
+        "FRA",
+        "DEU",
+        "IND",
+        "IDN",
+        "ITA",
+        "JPN",
+        "MEX",
+        "RUS",
+        "SAU",
+        "ZAF",
+        "KOR",
+        "TUR",
+        "GBR",
+        "USA"
+      ],
+      "founding_member_organizations": [
+        "European Union"
+      ],
+      "current_member_organizations": [
+        "European Union",
+        "African Union"
+      ]
+    },
+    {
+      "name": "Association of Southeast Asian Nations (ASEAN)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/ASEAN",
+      "founding_members": [
+        "IDN",
+        "MYS",
+        "PHL",
+        "SGP",
+        "THA"
+      ],
+      "current_members": [
+        "BRN",
+        "KHM",
+        "IDN",
+        "LAO",
+        "MYS",
+        "MMR",
+        "PHL",
+        "SGP",
+        "THA",
+        "VNM"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Organization of the Petroleum Exporting Countries (OPEC)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OPEC",
+      "founding_members": [
+        "IRN",
+        "IRQ",
+        "KWT",
+        "SAU",
+        "VEN"
+      ],
+      "current_members": [
+        "DZA",
+        "COG",
+        "GNQ",
+        "GAB",
+        "IRN",
+        "IRQ",
+        "KWT",
+        "LBY",
+        "NGA",
+        "SAU",
+        "ARE",
+        "VEN"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Shanghai Cooperation Organisation (SCO)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Shanghai_Cooperation_Organisation",
+      "founding_members": [
+        "CHN",
+        "KAZ",
+        "KGZ",
+        "RUS",
+        "TJK",
+        "UZB"
+      ],
+      "current_members": [
+        "BLR",
+        "CHN",
+        "IND",
+        "IRN",
+        "KAZ",
+        "KGZ",
+        "PAK",
+        "RUS",
+        "TJK",
+        "UZB"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Arab League",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Arab_League",
+      "founding_members": [
+        "EGY",
+        "IRQ",
+        "JOR",
+        "LBN",
+        "SAU",
+        "SYR",
+        "YEM"
+      ],
+      "current_members": [
+        "DZA",
+        "BHR",
+        "COM",
+        "DJI",
+        "EGY",
+        "IRQ",
+        "JOR",
+        "KWT",
+        "LBN",
+        "LBY",
+        "MRT",
+        "MAR",
+        "OMN",
+        "PSE",
+        "QAT",
+        "SAU",
+        "SOM",
+        "SDN",
+        "SYR",
+        "TUN",
+        "ARE",
+        "YEM"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "United States-Mexico-Canada Agreement (USMCA)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/United_States%E2%80%93Mexico%E2%80%93Canada_Agreement",
+      "founding_members": [
+        "CAN",
+        "MEX",
+        "USA"
+      ],
+      "current_members": [
+        "CAN",
+        "MEX",
+        "USA"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Gulf Cooperation Council (GCC)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Gulf_Cooperation_Council",
+      "founding_members": [
+        "BHR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "SAU",
+        "ARE"
+      ],
+      "current_members": [
+        "BHR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "SAU",
+        "ARE"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "South Asian Association for Regional Cooperation (SAARC)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/South_Asian_Association_for_Regional_Cooperation",
+      "founding_members": [
+        "BGD",
+        "BTN",
+        "IND",
+        "MDV",
+        "NPL",
+        "PAK",
+        "LKA"
+      ],
+      "current_members": [
+        "AFG",
+        "BGD",
+        "BTN",
+        "IND",
+        "MDV",
+        "NPL",
+        "PAK",
+        "LKA"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Collective Security Treaty Organization (CSTO)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Collective_Security_Treaty_Organization",
+      "founding_members": [
+        "ARM",
+        "BLR",
+        "KAZ",
+        "KGZ",
+        "RUS",
+        "TJK"
+      ],
+      "current_members": [
+        "ARM",
+        "BLR",
+        "KAZ",
+        "KGZ",
+        "RUS",
+        "TJK"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "African Union (AU)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/African_Union",
+      "founding_members": [
+        "DZA", "AGO", "BEN", "BWA", "BFA", "BDI", "CPV", "CMR", "CAF", "TCD", "COM", "COG", "COD", "DJI", "EGY", "GNQ", "ERI", "SWZ", "ETH", "GAB", "GMB", "GHA", "GIN", "GNB", "CIV", "KEN", "LSO", "LBR", "LBY", "MDG", "MWI", "MLI", "MRT", "MUS", "MOZ", "NAM", "NER", "NGA", "RWA", "STP", "SEN", "SYC", "SLE", "SOM", "ZAF", "SDN", "TZA", "TGO", "TUN", "UGA", "ZMB", "ZWE"
+      ],
+      "current_members": [
+        "DZA", "AGO", "BEN", "BWA", "BFA", "BDI", "CPV", "CMR", "CAF", "TCD", "COM", "COG", "COD", "DJI", "EGY", "GNQ", "ERI", "SWZ", "ETH", "GAB", "GMB", "GHA", "GIN", "GNB", "CIV", "KEN", "LSO", "LBR", "LBY", "MDG", "MWI", "MLI", "MRT", "MUS", "MAR", "MOZ", "NAM", "NER", "NGA", "RWA", "STP", "SEN", "SYC", "SLE", "SOM", "ZAF", "SSD", "SDN", "TZA", "TGO", "TUN", "UGA", "ZMB", "ZWE", "ESH"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Council of Europe",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Council_of_Europe",
+      "founding_members": [
+        "BEL", "DNK", "FRA", "IRL", "ITA", "LUX", "NLD", "NOR", "SWE", "GBR"
+      ],
+      "current_members": [
+        "ALB", "AND", "ARM", "AUT", "AZE", "BEL", "BIH", "BGR", "HRV", "CYP", "CZE", "DNK", "EST", "FIN", "FRA", "GEO", "DEU", "GRC", "HUN", "ISL", "IRL", "ITA", "LVA", "LIE", "LTU", "LUX", "MLT", "MDA", "MCO", "MNE", "NLD", "MKD", "NOR", "POL", "PRT", "ROU", "SMR", "SRB", "SVK", "SVN", "ESP", "SWE", "CHE", "TUR", "UKR", "GBR"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Organization of American States (OAS)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Organization_of_American_States",
+      "founding_members": [
+        "ARG", "BOL", "BRA", "CHL", "COL", "CRI", "CUB", "DOM", "ECU", "SLV", "GTM", "HTI", "HND", "MEX", "NIC", "PAN", "PRY", "PER", "USA", "URY", "VEN"
+      ],
+      "current_members": [
+        "ATG", "ARG", "BHS", "BRB", "BLZ", "BOL", "BRA", "CAN", "CHL", "COL", "CRI", "DMA", "DOM", "ECU", "SLV", "GRD", "GTM", "GUY", "HTI", "HND", "JAM", "MEX", "PAN", "PRY", "PER", "KNA", "LCA", "VCT", "SUR", "TTO", "USA", "URY"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Commonwealth of Nations",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Commonwealth_of_Nations",
+      "founding_members": [
+        "GBR", "CAN", "AUS", "NZL", "ZAF"
+      ],
+      "current_members": [
+        "ATG", "AUS", "BHS", "BGD", "BRB", "BLZ", "BWA", "BRN", "CMR", "CAN", "CYP", "DMA", "SWZ", "FJI", "GAB", "GMB", "GHA", "GRD", "GUY", "IND", "JAM", "KEN", "KIR", "LSO", "MWI", "MYS", "MDV", "MLT", "MUS", "MOZ", "NAM", "NRU", "NZL", "NGA", "PAK", "PNG", "RWA", "KNA", "LCA", "VCT", "WSM", "SYC", "SLE", "SGP", "SLB", "ZAF", "LKA", "TGO", "TON", "TTO", "TUV", "UGA", "GBR", "VUT", "ZMB", "ZWE"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Organisation for Economic Co-operation and Development (OECD)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/OECD",
+      "founding_members": [
+        "AUT", "BEL", "CAN", "DNK", "FRA", "DEU", "GRC", "ISL", "IRL", "ITA", "LUX", "NLD", "NOR", "PRT", "ESP", "SWE", "CHE", "TUR", "GBR", "USA"
+      ],
+      "current_members": [
+        "AUT", "BEL", "CAN", "DNK", "FRA", "DEU", "GRC", "ISL", "IRL", "ITA", "LUX", "NLD", "NOR", "PRT", "ESP", "SWE", "CHE", "TUR", "GBR", "USA", "AUS", "CHL", "COL", "CRI", "CZE", "EST", "FIN", "HUN", "ISR", "JPN", "LVA", "LTU", "MEX", "NZL", "POL", "SVK", "SVN", "KOR"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Organization of Islamic Cooperation (OIC)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Organisation_of_Islamic_Cooperation",
+      "founding_members": [
+        "AFG", "DZA", "TCD", "EGY", "GIN", "IDN", "IRN", "JOR", "KWT", "LBN", "LBY", "MYS", "MLI", "MRT", "MAR", "NER", "PAK", "PSE", "SAU", "SEN", "SOM", "SDN", "TUN", "TUR", "YEM"
+      ],
+      "current_members": [
+        "AFG", "ALB", "DZA", "AZE", "BHR", "BGD", "BEN", "BRN", "BFA", "CMR", "TCD", "COM", "DJI", "EGY", "GAB", "GMB", "GIN", "GNB", "GUY", "IDN", "IRN", "IRQ", "JOR", "KAZ", "KWT", "KGZ", "LBN", "LBY", "MYS", "MDV", "MLI", "MRT", "MAR", "MOZ", "NER", "NGA", "OMN", "PAK", "PSE", "QAT", "SAU", "SEN", "SLE", "SOM", "SDN", "SUR", "SYR", "TJK", "TGO", "TUN", "TUR", "TKM", "UGA", "ARE", "UZB", "YEM", "CIV"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Economic Community of West African States (ECOWAS)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/ECOWAS",
+      "founding_members": [
+        "BEN", "BFA", "CIV", "GMB", "GHA", "GIN", "GNB", "LBR", "MLI", "MRT", "NER", "NGA", "SEN", "SLE", "TGO"
+      ],
+      "current_members": [
+        "BEN", "CPV", "CIV", "GMB", "GHA", "GIN", "GNB", "LBR", "NGA", "SEN", "SLE", "TGO"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    },
+    {
+      "name": "Alliance of Sahel States (AES)",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Alliance_of_Sahel_States",
+      "founding_members": [
+        "BFA", "MLI", "NER"
+      ],
+      "current_members": [
+        "BFA", "MLI", "NER"
+      ],
+      "founding_member_organizations": [],
+      "current_member_organizations": []
+    }
+  ]
+}
