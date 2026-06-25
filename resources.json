@@ -74,7 +74,7 @@
   "phosphate_reserves": {
     "very_high": ["MAR"],
     "high": [],
-    "moderate": ["CHN", "EGY", "DZA", "SYR", "BRA", "SAU", "ZAF", "TUN", "USA", "JOR", "RUS"],
+    "moderate": ["CHN", "EGY", "DZA", "SYR", "BRA", "SAU", "ZAF", "TUN", "USA", "JOR", "RUS", "ESH"],
     "probably_high": []
   }
 }
