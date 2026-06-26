@@ -7,7 +7,7 @@
   {
     "BIOME_NUM": 6,
     "BIOME_NAME": "Boreal Forests/Taiga",
-    "category": "Taiga"
+    "category": "Boreal Forests"
   },
   {
     "BIOME_NUM": 4,
@@ -37,17 +37,17 @@
   {
     "BIOME_NUM": 7,
     "BIOME_NAME": "Tropical & Subtropical Grasslands, Savannas & Shrublands",
-    "category": "Savannas"
+    "category": "Open Ecosystems"
   },
   {
     "BIOME_NUM": 8,
     "BIOME_NAME": "Temperate Grasslands, Savannas & Shrublands",
-    "category": "Grasslands"
+    "category": "Open Ecosystems"
   },
   {
     "BIOME_NUM": 9,
     "BIOME_NAME": "Flooded Grasslands & Savannas",
-    "category": "Grasslands"
+    "category": "Wetlands"
   },
   {
     "BIOME_NUM": 13,
@@ -62,7 +62,7 @@
   {
     "BIOME_NUM": 10,
     "BIOME_NAME": "Montane Grasslands & Shrublands",
-    "category": "Grasslands"
+    "category": "Open Ecosystems"
   },
   {
     "BIOME_NUM": 14,
