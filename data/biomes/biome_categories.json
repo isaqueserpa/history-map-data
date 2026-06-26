@@ -1,0 +1,72 @@
+[
+  {
+    "BIOME_NUM": 11,
+    "BIOME_NAME": "Tundra",
+    "category": "Tundra"
+  },
+  {
+    "BIOME_NUM": 6,
+    "BIOME_NAME": "Boreal Forests/Taiga",
+    "category": "Taiga"
+  },
+  {
+    "BIOME_NUM": 4,
+    "BIOME_NAME": "Temperate Broadleaf & Mixed Forests",
+    "category": "Temperate Forests"
+  },
+  {
+    "BIOME_NUM": 5,
+    "BIOME_NAME": "Temperate Conifer Forests",
+    "category": "Temperate Forests"
+  },
+  {
+    "BIOME_NUM": 1,
+    "BIOME_NAME": "Tropical & Subtropical Moist Broadleaf Forests",
+    "category": "Tropical Forests"
+  },
+  {
+    "BIOME_NUM": 2,
+    "BIOME_NAME": "Tropical & Subtropical Dry Broadleaf Forests",
+    "category": "Tropical Forests"
+  },
+  {
+    "BIOME_NUM": 3,
+    "BIOME_NAME": "Tropical & Subtropical Coniferous Forests",
+    "category": "Tropical Forests"
+  },
+  {
+    "BIOME_NUM": 7,
+    "BIOME_NAME": "Tropical & Subtropical Grasslands, Savannas & Shrublands",
+    "category": "Savannas"
+  },
+  {
+    "BIOME_NUM": 8,
+    "BIOME_NAME": "Temperate Grasslands, Savannas & Shrublands",
+    "category": "Grasslands"
+  },
+  {
+    "BIOME_NUM": 9,
+    "BIOME_NAME": "Flooded Grasslands & Savannas",
+    "category": "Grasslands"
+  },
+  {
+    "BIOME_NUM": 13,
+    "BIOME_NAME": "Deserts & Xeric Shrublands",
+    "category": "Deserts"
+  },
+  {
+    "BIOME_NUM": 12,
+    "BIOME_NAME": "Mediterranean Forests, Woodlands & Scrub",
+    "category": "Temperate Forests"
+  },
+  {
+    "BIOME_NUM": 10,
+    "BIOME_NAME": "Montane Grasslands & Shrublands",
+    "category": "Grasslands"
+  },
+  {
+    "BIOME_NUM": 14,
+    "BIOME_NAME": "Mangroves",
+    "category": "Wetlands"
+  }
+]
